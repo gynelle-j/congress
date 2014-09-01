@@ -3,12 +3,32 @@
 	<head>
 		<link rel="stylesheet" href="./navbar.css" media="screen" type="text/css" />
 		<link rel="stylesheet" href="./bootstrap_files/css/bootstrap.min.css" media="all" type="text/css" />
+		<style>
+
+img{
+	max-height: 200px;
+}
+
+h3{
+	font-size: 32px;
+}
+
+#content div p{
+	max-width: 400px;
+}
+
+		</style>
 	</head>
 	<body>
+		<!-- this is for vision impaired people/screenreaders -->
+	  <a class="sr-only sr-only-focusable" tabindex="1" href="#content">Skip to main content</a>
 		<main class="container-fluid">
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
-					<section>
+
+
+						<!-- the little button when your screen is small -->
+						<li class="nav-menu-collapsed-button"><a><span class="glyphicon glyphicon-list"></span></a></li>
 						<nav id='cssmenu'>
 							<ul>
 								<li class='active'><a href='index.html'>Home</a></li>
@@ -45,7 +65,7 @@
 												<li><a href='#'>Silent Auction Details</a></li>
 												<li><a href='#'>Silent Auction Pledging</a></li>
 												<li><a href='#'>Silent Auction Sponsorship</a></li>
-												<li><a href='#'>Silent Auction Case  Studies Special Olympics</a></li>
+												<li><a href='#'>Silent Auction Case Studies Special Olympics</a></li>
 												<li><a href='#'>Silent Auction Case Studies: Pistorio Foundation</a></li>
 											</ul>
 										</li>
@@ -77,22 +97,47 @@
 								<li><a href='#'>Contact</a></li>
 							</ul>
 						</nav>
-					</section>
 
-					
-					<section class="container-fluid">
-						<div class="col-md-4">
-							<img class="img-responsive" src="http://congressrental.com.au/wp-content/uploads/2011/09/1_large.png" />
-							<p>Congress Rental is the Leading and Largest Supplier of Simultaneous Interpretation and Translation equipment in Australia. Our equipment is Bosch and is fully digital. Our booths are from Audipack and exceed the ISO standards.</p>
-						</div>
-						<div class="col-md-4">
-							<img class="img-responsive" src="http://congressrental.com.au/wp-content/uploads/2011/09/sennheiser.png" />
-							<p>Tour Guide &amp; Whisper Systems allow Interpreters and Tour Guides to speak with all members of the delegation using an RF Transmitter and multiple Receivers. Ideal for factory visits and interpretation on the move.</p>
-						</div>
-						<div class="col-md-4">
-							<img class="img-responsive" src="http://congressrental.com.au/wp-content/uploads/2011/09/voting.png" />
-							<p>Audience Response / Event Voting engages the audience, allowing participation and feedback. We have many solutions; the most sophisticated Audience Response system, as well as budget solutions.</p>
-						</div>
+
+
+
+					<section id="content" class="container-fluid">
+
+						<div class="row-fluid">
+							<div class="col-md-4">
+								<h3>Heading</h3>
+								<img class="img-responsive img-rounded" src="./col1.jpeg" />
+								<p>Congress Rental is the Leading and Largest Supplier of Simultaneous Interpretation and Translation equipment in Australia. Our equipment is Bosch and is fully digital. Our booths are from Audipack and exceed the ISO standards.</p>
+							</div>
+							<div class="col-md-4">
+								<h3>Heading</h3>
+								<img class="img-responsive img-rounded" src="./col2.jpeg" />
+								<p>Tour Guide &amp; Whisper Systems allow Interpreters and Tour Guides to speak with all members of the delegation using an RF Transmitter and multiple Receivers. Ideal for factory visits and interpretation on the move.</p>
+							</div>
+							<div class="col-md-4">
+								<h3>Heading</h3>
+								<img class="img-responsive img-rounded" src="./col3.jpg" />
+								<p>Audience Response / Event Voting engages the audience, allowing participation and feedback. We have many solutions; the most sophisticated Audience Response system, as well as budget solutions.</p>
+							</div>
+						</div><!-- /row -->
+<!-- 
+						<div class="row-fluid">
+							<div class="col-md-4">
+								<h3>Heading</h3>
+								<img class="img-responsive img-rounded" src="./col4.jpg" />
+								<p>Uniquely negotiate robust interfaces vis-a-vis competitive processes. Synergistically e-enable fully researched collaboration and idea-sharing rather than interoperable platforms.</p>
+							</div>
+							<div class="col-md-4">
+								<h3>Heading</h3>
+								<img class="img-responsive img-rounded" src="./col5.jpg" />
+								<p>Dramatically simplify enabled sources and premium channels. Dramatically extend emerging internal or "organic" sources rather than error-free ideas. </p>
+							</div>
+							<div class="col-md-4">
+								<h3>Heading</h3>
+								<img class="img-responsive img-rounded" src="./col6.jpg" />
+								<p>Efficiently redefine cross-unit human capital without impactful systems. Competently morph state of the art mindshare for end-to-end methods of empowerment. Appropriately network covalent partnerships for.</p>
+							</div>
+						</div> -->
 					</section>
 				</div>
 			</div>

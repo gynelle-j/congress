@@ -1,0 +1,1123 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"shifted",
+				"shiftedLetter"
+			],
+			[
+				"ch",
+				"cipherString"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"cipher",
+				"cipherString"
+			],
+			[
+				"shift",
+				"shiftedCharCodes"
+			],
+			[
+				"c",
+				"cipher"
+			],
+			[
+				"http",
+				"httpResponse"
+			],
+			[
+				"password",
+				"password_dict"
+			],
+			[
+				"progre",
+				"ProgressBar"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"_",
+				"_SERVER"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"fonts",
+				"font-style"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"gz",
+				"gzinflate"
+			],
+			[
+				"border",
+				"border-top-color"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"telnet",
+				"telnetFuck"
+			],
+			[
+				"for",
+				"forbidden"
+			],
+			[
+				"preg",
+				"preg_replace"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"hsl",
+				"hsla()"
+			],
+			[
+				"bot",
+				"border-top"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"li",
+				"list-style-position"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"base64",
+				"base64_decode"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"header",
+				"headers_json"
+			],
+			[
+				"preg_",
+				"preg_match"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"subreddit",
+				"subreddit_comments"
+			],
+			[
+				"printC",
+				"printClientMessage"
+			],
+			[
+				"hex",
+				"hexcode"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"TE",
+				"text-align"
+			],
+			[
+				"BORD",
+				"border-color"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"list-s",
+				"list-style-position"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"bas",
+				"base64_encode"
+			],
+			[
+				"date",
+				"date_format"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"IN",
+				"INTO"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"mysql",
+				"mysql_fetch_row"
+			],
+			[
+				"mysql_a",
+				"mysql_fetch_array"
+			],
+			[
+				"list-",
+				"list-style-type"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ssp",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"rp",
+				"Package Control: Remove Package"
+			],
+			[
+				"colors",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colorc",
+				"Dont Colorcode this view"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"it",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Dont Colorcode this view"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ht",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"hex",
+				"Hex Viewer: Toggle Endianness (Big|Little)"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"asp",
+				"Set Syntax: ASP"
+			],
+			[
+				"ssac",
+				"Set Syntax: ActionScript"
+			],
+			[
+				"ssacti",
+				"Set Syntax: ActionScript 3"
+			],
+			[
+				"sssh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sstex",
+				"Set Syntax: Textile"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"byte",
+				"Hex Viewer: Set Bytes Per Line"
+			],
+			[
+				"sslua",
+				"Set Syntax: Lua"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"byt",
+				"Hex Viewer: Set Bytes Per Line"
+			],
+			[
+				"toggle",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"sshex",
+				"Set Syntax: Hex"
+			],
+			[
+				"hexv",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"SS",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssjava",
+				"Set Syntax: Java"
+			],
+			[
+				"ssr",
+				"Set Syntax: R"
+			],
+			[
+				"sspsp",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"sssq",
+				"Set Syntax: SQL"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"sshtml	",
+				"Set Syntax: HTML"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"sspot",
+				"Set Syntax: Java Properties"
+			],
+			[
+				"ssq",
+				"Set Syntax: SQL"
+			],
+			[
+				"SSSQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssbash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"SSSQ",
+				"Set Syntax: SQL"
+			],
+			[
+				"SSJS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"sstext",
+				"Set Syntax: Textile"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"purg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ssbas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ss",
+				"Set Syntax: R"
+			],
+			[
+				"ss sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssco",
+				"Set Syntax: R Console"
+			],
+			[
+				"sscs",
+				"Set Syntax: CSS"
+			],
+			[
+				"SSCSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"lint",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"lin",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"ssph",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssas",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ssxm",
+				"Set Syntax: TeX Math"
+			],
+			[
+				"Package Control: ip",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lua",
+				"FormatLua: Format Lua code"
+			],
+			[
+				"lu",
+				"FormatLua: Format Lua code"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"sslu",
+				"Set Syntax: Lua"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ssjo",
+				"Set Syntax: JSON"
+			],
+			[
+				"xml",
+				"xml2json: xml to json"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Set Syntax: NAnt Build File"
+			],
+			[
+				"he",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"h",
+				"Hex Viewer: Set Bytes Per Line"
+			],
+			[
+				"th",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"tog",
+				"Hex Viewer: Toggle Endianness (Big|Little)"
+			],
+			[
+				"pd",
+				"Package Control: Disable Package"
+			],
+			[
+				"pl",
+				"Package Control: List Packages"
+			],
+			[
+				"HEX",
+				"Hex Viewer: Export Bin"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"ja",
+				"Javascript Beautify"
+			],
+			[
+				"java",
+				"Javascript Beautify"
+			],
+			[
+				"bea",
+				"Javascript Beautify"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 56.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/A/wamp/www/blog/randomcolours.js",
+		"/R/Downloads/tarski_mod/tarski_mod/header.php",
+		"/R/Downloads/tarski_mod/tarski_mod/constants-default.php",
+		"/R/Downloads/tarski_mod/tarski_mod/comments.php",
+		"/A/wamp/www/blog/fhbuidfbuirebfirwebfirebfbrefbrebferbf.js",
+		"/C/Users/raincoats/AppData/Local/DOSBox/dosbox-0.74.conf",
+		"/C/Program Files (x86)/DOSBox-0.74/Documentation/README.txt",
+		"/A/wamp/www/blog/index.html",
+		"/A/wamp/www/blog/tk.css",
+		"/A/wamp/www/blog/styles.css",
+		"/R/Downloads/Equanimity/Readme & License.txt",
+		"/A/wamp/minecraft/server.properties",
+		"/A/wamp/minecraft/ops.json",
+		"/A/wamp/minecraft/ops.txt",
+		"/A/wamp/minecraft/logs/latest.log",
+		"/A/wamp/minecraft/eula.txt",
+		"/A/wamp/www/old/law/wp-content/plugins/dtk/dare-to-know.php",
+		"/A/wamp/www/cr/wp-content/themes/congress/header.php",
+		"/A/wamp/www/cr/wp-content/themes/congress/style.css",
+		"/A/wamp/www/cr/wp-content/themes/congress/draft.css",
+		"/A/wamp/www/old/imgur/index.php",
+		"/A/wamp/www/old/imgur/imgurs.js",
+		"/A/wamp/www/old/imgur/index.htm",
+		"/A/wamp/www/cr/wp-content/themes/congress/menu.css",
+		"/C/Users/RAINCO~1/AppData/Local/Temp/7zO6415.tmp/MOJANGCS.RSA",
+		"/C/Users/raincoats/AppData/Local/Temp/7zO9EE.tmp/ModLoader.class",
+		"/C/Users/RAINCO~1/AppData/Local/Temp/7zOC67B.tmp/ModLoader.class",
+		"/C/Users/raincoats/AppData/Roaming/.minecraft/versions/1.7.10ML/1.7.10ML.json",
+		"/C/Users/raincoats/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/A/wamp/www/cr/wp-content/themes/twentythirteen/header.php",
+		"/C/Users/raincoats/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/A/wamp/www/cr/wp-content/themes/twentyfourteen/header.php",
+		"/A/wamp/www/cr/wp-content/themes/twentyfourteen/image.php",
+		"/A/wamp/www/cygtest.html",
+		"/A/wamp/www/old/raincoats.cat/index.html",
+		"/R/Dropbox/rsacipher.cpp",
+		"/A/wamp/www/cr/wp-config.php",
+		"/C/Users/raincoats/Desktop/ip.txt",
+		"/C/wamp/www/cygtest.html",
+		"/A/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/A/wamp/wampmanager.ini",
+		"/A/wamp/www/index.php",
+		"/R/Downloads/download (1)",
+		"/R/Downloads/download",
+		"/A/wamp/www/polymer.js",
+		"/C/Users/raincoats/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/C/Users/raincoats/AppData/Roaming/Sublime Text 3/Packages/User/mymono.tmTheme",
+		"/C/Users/raincoats/AppData/Roaming/Sublime Text 3/Packages/User/colorcoder.sublime-settings",
+		"/C/Users/raincoats/AppData/Roaming/Sublime Text 3/Packages/User/tom.tmTheme",
+		"/C/Users/raincoats/AppData/Roaming/Sublime Text 3/Packages/User/tom2.tmTheme",
+		"/C/Users/raincoats/AppData/Roaming/Sublime Text 3/Packages/Colorsublime/Colorsublime.sublime-settings",
+		"/C/Users/raincoats/AppData/Roaming/Sublime Text 3/Packages/Colorcoder/colorcoder.sublime-settings",
+		"/C/Users/raincoats/AppData/Roaming/Sublime Text 3/Installed Packages/coatz - Color Scheme.sublime-package",
+		"/R/malware/42.zip",
+		"/A/www/scripts/addAlias.php",
+		"/R/Downloads/localhost.sql",
+		"/C/cygwin64/home/raincoats/.cpan/CPAN/MyConfig.pm",
+		"/A/boomerang-win32-alpha-0.3.1/readme.txt",
+		"/A/di/fuckthatdude",
+		"/A/.sqlmap/output/eedition.fairfaxregional.com.au/dump/master/sys.login_token.csv",
+		"/C/cygwin64/home/raincoats/typekit/mysite-optimized.css",
+		"/R/Pictures/ww2/1177398.jpg",
+		"/R/Pictures/ww2/1177398g",
+		"/B/data/names.sql",
+		"/C/$Recycle.Bin/S-1-5-21-38347075-3199048924-1550894299-1001/$RYAAP4E",
+		"/R/Downloads/JPEGLeakAlpha.as",
+		"/C/cygwin64/home/raincoats/evil/verballlc.com.pem",
+		"/B/data/random/rand.hash",
+		"/B/data/random/cracked.txt",
+		"/B/data/random/rand.hash2",
+		"/C/cygwin64/home/raincoats/typekit/my site.css",
+		"/C/Users/raincoats/Desktop/seq.txt",
+		"/Z/app/New folder/p.txt",
+		"/Z/fusk/girlsreleased/get.sh",
+		"/R/Downloads/code/code/hilbert_browser/hilbert.html",
+		"/R/Downloads/code/code/hilbert_browser/hilbert.js",
+		"/R/SortedDownloads/,,,,,,,,,,,,,,,,,,,old/all_cities_in_the_world.csv/all_cities_in_the_world.csv",
+		"/C/Users/raincoats/AppData/Local/Temp/7zO62EB.tmp/373804.header",
+		"/C/Users/raincoats/AppData/Local/Temp/7zO5E56.tmp/316169.header",
+		"/C/Users/raincoats/AppData/Local/Temp/7zO56C4.tmp/368328.header",
+		"/C/Users/raincoats/AppData/Local/Temp/7zO506A.tmp/363731.header",
+		"/C/Users/RAINCO~1/AppData/Local/Temp/7zO301F.tmp/315876.header",
+		"/R/Dropbox/lab3.2.py",
+		"/R/Dropbox/lab3.1.py",
+		"/B/data/iphone2/private/var/db/PanicReporter/current.panic",
+		"/C/cygwin64/home/raincoats/cia/factbook/geos/au.html",
+		"/C/cygwin64/home/raincoats/cia/opens",
+		"/C/cygwin64/home/raincoats/cia/localscan",
+		"/B/data/iphone2/private/etc/master.passwd",
+		"/B/data/iphone2/etc",
+		"/B/data/iphone/var/mobile/Applications/24D71E1B-7D18-44C7-9DAC-B9DFDB424451/Pinterest.app/CHANGELOG.md",
+		"/B/data/iphone2/System/Library/Fonts/Cache/Keycaps.ttc",
+		"/B/data/iphone/var/mobile/Applications/24D71E1B-7D18-44C7-9DAC-B9DFDB424451/Pinterest.app/genstrings.sh",
+		"/B/data/iphone/var/mobile/Applications/08FE25F5-0C52-42D8-8567-E06E67845E18/Documents/results.sqlite",
+		"/B/data/iphone/var/mobile/Applications/08FE25F5-0C52-42D8-8567-E06E67845E18/Documents/googleanalytics.sql",
+		"/B/data/iphone/var/mobile/Applications/144CFA40-E03F-486C-A4F8-1518E45DC81B/AngryBirdsSeasonsFull.app/data/certificates/cacert.pem",
+		"/B/data/iphone/var/.fseventsd/0000000000010b77",
+		"/B/data/iphone/var/mobile/Applications/0BB1482A-6453-4DF3-84A3-FA443EBCE2A8/FrenchGirls.app/_CodeSignature/CodeResources",
+		"/B/data/iphone/var/mobile/.forward",
+		"/B/data/iphone/var/Managed Preferences/mobile/com.apple.webcontentfilter.plist",
+		"/R/Dropbox/lab3results",
+		"/C/wamp/bin/apache/Apache2.4.4/conf/httpd.conf",
+		"/C/Users/raincoats/code/loic/README.md",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/3d6e25310b10a27bb733b43fd6649a0f.jpg",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/fd2f8733f52f2336e1583e2445b668d7.jpg",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/b33fa4dae716004ba1c55583ce353aae.pdf",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/assessment_21_2014_06_20_3_33_00.pdf",
+		"/C/Users/raincoats/Desktop/e/backup/.shadow",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/env.php",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/db_diagram.svg",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/A518BA28249F7F280ED765135AC638A8.txt",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/_kc.php",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/upload.error.log",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/client.error.log",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/static.error.log",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/access.php",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/every30min.sh",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/DbAuthCommand.php",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/vh_db.uml",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/admin.htm",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/B/data/hospital/tonh/tonh_client_nodubicates.csv",
+		"/B/data/hospital/tonh/cplist.csv",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/index 2.php",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/class.phpmailer-lite.php",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/db.php",
+		"/C/Users/raincoats/AppData/Local/Temp/fz3temp-1/admin.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"^$",
+			"^.*(http.*?jpg).*$",
+			"\"imagen\"",
+			"1820x980",
+			"funend",
+			"funstart",
+			"width: .*px",
+			"#cssmenu",
+			"                    <a href=\"#\">",
+			"                </li>",
+			"has-sub",
+			"</a></li>",
+			"^<a",
+			"http://localhost/cr/?page_id=",
+			"(\\d\\d\">)<a",
+			"menu-item-18",
+			";?> href=\"<?php ",
+			"<li><a <?php echo $class_",
+			"c:",
+			"{	",
+			"				",
+			"    color",
+			"%20",
+			"h3",
+			"h1",
+			"{ c",
+			"{c",
+			"  ",
+			"span",
+			";\\}",
+			";}",
+			"rgb",
+			"\\}",
+			"}",
+			"^\\n",
+			"^$",
+			"^([^=]*).*",
+			"^([^=]*)",
+			"^(.*)=(\\d*),(\\d*),(\\d*)$",
+			"9D550F",
+			"lig",
+			"dHighlig",
+			"string>",
+			"key",
+			"</key>$",
+			"\\t*<key",
+			"\\t*#[0-9A-Fa-f]*</string>",
+			"	<string>",
+			"</key><string>",
+			"(>)",
+			"(</key>)",
+			"(</string>|</key>)*",
+			"^<td>([a-zA-Z0-9 \\n]*)</td>$",
+			"<td(>| width).*[^/]strong>([A-Z ]*).*",
+			"<td(>| width).*[^/]strong>([A-Z]*).*",
+			"<td(| width).*[^/]strong>([A-Z]*).*",
+			"<td width.*[^/]strong>([A-Z]*).*",
+			"^<td>[^<]([^<>]*)</td>$",
+			"^<td>[^<](.*)</td>$",
+			"^<td>(.*)</td>$",
+			"<td><strong>(.*)<.*<.*$",
+			"<td><strong>(.*)</.*$",
+			"^(.*)\\t(.*)",
+			"--.*",
+			"\\t\\(",
+			",$",
+			"(:\\(|\\)$)",
+			"	",
+			" (\\(.*\\))\\t(.*$)",
+			" (tacobell1)	corey_simone@csumb.edu",
+			" (\\(.*\\))\\t(.*$)",
+			"( |\\t).*",
+			"^htt",
+			"(^[0-9]*$)\\n\\1",
+			"\\t",
+			"	",
+			"/",
+			"(</div></div><div id=\"overlay\" style=\"left: 128px; top: 128px;\">|<div id=\"overlay_1\" style=\"position: absolute;\">)",
+			"\\t",
+			"^(.*)\\n\\1$",
+			"(^0$|^1$|^10$|^100$|^101$|^102$|^103$|^104$|^105$|^106$|^107$|^108$|^109$|^11$|^110$|^115$|^111$|^112$|^113$|^114$|^116$|^118$|^119$|^12$|^120$|^121$|^122$|^123$|^124$|^125$|^126$|^127$|^128$|^129$|^13$|^130$|^131$|^132$|^133$|^134$|^135$|^136$|^137$|^138$|^139$|^14$|^140$|^141$|^142$|^143$|^144$|^145$|^146$|^147$|^148$|^149$|^15$|^150$|^151$|^152$|^153$|^154$|^155$|^156$|^157$|^158$|^159$|^16$|^160$|^161$|^162$|^163$|^164$|^165$|^166$|^167$|^168$|^169$|^17$|^170$|^171$|^172$|^173$|^174$|^175$|^176$|^177$|^178$|^179$|^18$|^180$|^181$|^182$|^184$|^185$|^187$|^188$|^189$|^19$|^190$|^191$|^192$|^193$|^194$|^195$|^197$|^198$|^2$|^20$|^201$|^202$|^204$|^205$|^206$|^207$|^208$|^209$|^21$|^210$|^211$|^212$|^213$|^214$|^215$|^218$|^219$|^22$|^220$|^223$|^224$|^225$|^226$|^227$|^228$|^229$|^23$|^230$|^231$|^232$|^233$|^234$|^235$|^236$|^237$|^238$|^239$|^24$|^240$|^241$|^242$|^243$|^244$|^245$|^246$|^247$|^248$|^249$|^25$|^250$|^251$|^252$|^253$|^254$|^255$|^26$|^27$|^28$|^3$|^30$|^31$|^32$|^35$|^36$|^37$|^40$|^41$|^42$|^43$|^44$|^45$|^46$|^47$|^48$|^49$|^5$|^50$|^51$|^53$|^54$|^57$|^58$|^6$|^60$|^61$|^62$|^64$|^65$|^66$|^67$|^68$|^69$|^7$|^70$|^71$|^72$|^73$|^74$|^75$|^76$|^77$|^78$|^79$|^8$|^80$|^81$|^82$|^83$|^84$|^85$|^86$|^87$|^88$|^89$|^90$|^91$|^92$|^93$|^94$|^95$|^96$|^97$|^98$|^99$|)",
+			" ",
+			"0\n1\n10\n100\n101\n102\n103\n104\n105\n106\n107\n108\n109\n11\n110\n115\n111\n112\n113\n114\n116\n118\n119\n12\n120\n121\n122\n123\n124\n125\n126\n127\n128\n129\n13\n130\n131\n132\n133\n134\n135\n136\n137\n138\n139\n14\n140\n141\n142\n143\n144\n145\n146\n147\n148\n149\n15\n150\n151\n152\n153\n154\n155\n156\n157\n158\n159\n16\n160\n161\n162\n163\n164\n165\n166\n167\n168\n169\n17\n170\n171\n172\n173\n174\n175\n176\n177\n178\n179\n18\n180\n181\n182\n184\n185\n187\n188\n189\n19\n190\n191\n192\n193\n194\n195\n197\n198\n2\n20\n201\n202\n204\n205\n206\n207\n208\n209\n21\n210\n211\n212\n213\n214\n215\n218\n219\n22\n220\n223\n224\n225\n226\n227\n228\n229\n23\n230\n231\n232\n233\n234\n235\n236\n237\n238\n239\n24\n240\n241\n242\n243\n244\n245\n246\n247\n248\n249\n25\n250\n251\n252\n253\n254\n255\n26\n27\n28\n3\n30\n31\n32\n35\n36\n37\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n5\n50\n51\n53\n54\n57\n58\n6\n60\n61\n62\n64\n65\n66\n67\n68\n69\n7\n70\n71\n72\n73\n74\n75\n76\n77\n78\n79\n8\n80\n81\n82\n83\n84\n85\n86\n87\n88\n89\n90\n91\n92\n93\n94\n95\n96\n97\n98\n99",
+			"	",
+			" ",
+			",",
+			"a target=\"_blank\"",
+			"a target=\"_blank\" href=\"/lg/src/",
+			"%20",
+			"LINK (.*)",
+			"^COMPANY (.*)$",
+			"COUNTRY (.*)$",
+			"^\\n",
+			"^(?!(COUNT|LINK|\\n))",
+			"^(?!COUNT)",
+			"http://",
+			"^\\n.*",
+			"<tr>",
+			"^$",
+			"<strong>",
+			"<[^A-Z]*>",
+			"<strong>(.*)</strong>",
+			"<strong>",
+			"\\n$",
+			"^\\n.*",
+			"^$",
+			"^\\n.*",
+			"</strong></td>",
+			"<td><strong>",
+			"http",
+			"(<.*Website:|</font>|^.*nbsp;|<br />|</a>)",
+			".*(Website:|Company:|class=.indicator.).*",
+			"^[^h][^t][^t].*",
+			"(^.*</font>|</a>)",
+			".*nbsp;",
+			".*(indicator.>|Website: ).*",
+			"</br></br>",
+			"^<a.*Website:",
+			"^.*mailto.*",
+			"</a>",
+			" </font>",
+			"</font><br />",
+			"<font color=\"#......\">",
+			"^$",
+			"^.*&nbsp;",
+			">&nbsp;",
+			"<td width=\"500\">",
+			"<div class=\"accordion-panel-body\" style=\"display: none;\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\\1",
+			"\">hello</div>\\\\n\"",
+			"\">hello</div>\\n\"",
+			"\"<div class='fun' style='background-color:\"",
+			".menu-new-menu-container",
+			"menu-new-menu-container",
+			"menu-item-has-children",
+			"</a>\\n\\t</li>",
+			"</a>\\n</li>",
+			"\\t\\t<a",
+			"\\1\\n<a",
+			"",
+			"<span class=\"\\1\">\\1</span>\\n",
+			"\\n.\\1{\\nrgb(\\2,\\3,\\4);\\n}",
+			"\\1\\n",
+			"\\1",
+			"COMPANY:\\t\\1",
+			"COUNTRY:\\t\\2",
+			"COUNTRY:\\t\\1",
+			"COUNTRY\\t\\1",
+			"COMPANY: \\1",
+			"COUNTRY: \\1",
+			"\\2:\\1",
+			"\\t\\2\\t\\1",
+			"\\2\\t\\1",
+			"",
+			"<td><a href=\"\\1\" target=\"_blank\">\\1</a></td>",
+			"<td>\\1</td>",
+			"<td><strong>\\1</strong></td>",
+			"\\1",
+			"Zeiya:"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 95.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 118.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,9 +1,5 @@
-
-
-
-
-
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+/* css for the navigation bar */
+/*@import url(http://fonts.googleapis.com/css?family=Open+Sans);*/
 #cssmenu,
 #cssmenu ul,
 #cssmenu ul li,
@@ -313,3 +309,32 @@
     display: none;
   }
 }
+
+li.nav-menu-collapsed-button{
+  display: none;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+/*=======================================*/
+/*  added by tom, to collapse the nav    */
+/*=======================================*/
+
+@media screen and (max-width: 768px){
+
+  #cssmenu{
+    height: 52px;
+  }
+
+  li.nav-menu-collapsed-button{
+    display: inline !important;
+  }
+
+}
+
+
+
+
+
+
