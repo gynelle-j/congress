@@ -7,30 +7,40 @@
 		<link rel="stylesheet" href="./navbar.css" media="screen" type="text/css" />
 		<link rel="stylesheet" href="./bootstrap_files/css/bootstrap.min.css" media="all" type="text/css" />
 		<style>
-			.trace{
-				color:#DEAD00 !important;
-				background-color: #00DEAD !important;
-				overflow: auto;
-			}
-			img{
-				max-height: 200px;
-			}
-			h3{
-				font-size: 32px;
-			}
-			#content div p{
-				max-width: 400px;
-			}
-			header{
-				overflow: hidden;
-			}
+.trace{
+	color:#DEAD00 !important;
+	background-color: #00DEAD !important;
+	overflow: auto;
+}
+img{ max-height: 200px;}
+h3{	font-size: 32px;}
+#content div p{	max-width: 400px;}
+header{	overflow: hidden;}
+
+div.row div:nth-child(even){
+	background-color: #ee2222 !important;
+}
+div.row div:nth-child(odd){
+	background-color: #eeee00 !important;
+}
+body{
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.homepage-row{
+	display: block;
+	padding-bottom: 10px;
+/*	height: 300px;*/
+}
+
 		</style>
 	</head>
 
 	<body>
 		<a class="sr-only sr-only-focusable" tabindex="1" href="#content">Skip to main content</a>
 		<div class="container">
-			<header class="row-fluid">
+			<header class="row">
 				<div id="logo" class="col-md-2">
 					<img src="./images/logo.png" class="img"/>
 				</div>
@@ -109,24 +119,47 @@
 			<main id="content" class="container">
 
 			<!-- start row -->
-				<div class="row-fluid">
-					<div class="col-md-4">
-						<h3>Heading</h3>
+				<div class="row homepage-row">
+					<div class="col-lg-3 col-md-3 col-sm-5 col-xs-10 col-xs-offset-1">
+						<h3>[1] Heading</h3>
 						<img class="img-responsive img-rounded" src="./images/col1.jpeg" />
-						<p>Congress Rental is the Leading and Largest Supplier of Simultaneous Interpretation and Translation equipment in Australia. Our equipment is Bosch and is fully digital. Our booths are from Audipack and exceed the ISO standards.</p>
+<!--						<p>Congress Rental is the Leading and Largest Supplier of Simultaneous Interpretation and Translation equipment in Australia. Our equipment is Bosch and is fully digital. Our booths are from Audipack and exceed the ISO standards.</p>-->
 					</div>
-					<div class="col-md-4">
-						<h3>Heading</h3>
+					<div class="col-lg-3 col-md-3 col-sm-5 col-xs-10 col-xs-offset-1">
+						<h3>[2] Heading</h3>
 						<img class="img-responsive img-rounded" src="./images/col2.jpeg" />
-						<p>Tour Guide &amp; Whisper Systems allow Interpreters and Tour Guides to speak with all members of the delegation using an RF Transmitter and multiple Receivers. Ideal for factory visits and interpretation on the move.</p>
+<!--						<p>Tour Guide &amp; Whisper Systems allow Interpreters and Tour Guides to speak with all members of the delegation using an RF Transmitter and multiple Receivers. Ideal for factory visits and interpretation on the move.</p>-->
 					</div>
-					<div class="col-md-4">
-						<h3>Heading</h3>
+					<div class="col-lg-3 col-md-3 col-sm-5 col-xs-10 col-xs-offset-1">
+						<h3>[3] Heading</h3>
 						<img class="img-responsive img-rounded" src="./images/col3.jpg" />
-						<p>Audience Response / Event Voting engages the audience, allowing participation and feedback. We have many solutions; the most sophisticated Audience Response system, as well as budget solutions.</p>
+<!--						<p>Audience Response / Event Voting engages the audience, allowing participation and feedback. We have many solutions; the most sophisticated Audience Response system, as well as budget solutions.</p>-->
+					</div>
+  	<!-- 			</div>
+				end row -->
+
+				<!-- start row 
+				<div class="row">  -->
+				
+					<div class="col-lg-3 col-md-3 col-sm-5 col-xs-10 col-xs-offset-1">
+						<h3>[4] Heading</h3>
+						<img class="img-responsive img-rounded" src="./images/col1.jpeg" />
+<!--						<p>Congress Rental is the Leading and Largest Supplier of Simultaneous Interpretation and Translation equipment in Australia. Our equipment is Bosch and is fully digital. Our booths are from Audipack and exceed the ISO standards.</p>-->
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-5 col-xs-10 col-xs-offset-1">
+						<h3>[5] Heading</h3>
+						<img class="img-responsive img-rounded" src="./images/col2.jpeg" />
+<!--						<p>Tour Guide &amp; Whisper Systems allow Interpreters and Tour Guides to speak with all members of the delegation using an RF Transmitter and multiple Receivers. Ideal for factory visits and interpretation on the move.</p>-->
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-5 col-xs-10 col-xs-offset-1">
+						<h3>[6] Heading</h3>
+						<img class="img-responsive img-rounded" src="./images/col3.jpg" />
+<!--						<p>Audience Response / Event Voting engages the audience, allowing participation and feedback. We have many solutions; the most sophisticated Audience Response system, as well as budget solutions.</p>-->
 					</div>
 				</div>
 				<!-- end row -->
+
 			</main>
 		</div><!-- /container -->
 	</body>
