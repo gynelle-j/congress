@@ -316,25 +316,3 @@ li.nav-menu-collapsed-button{
   top: 20px;
   right: 20px;
 }
-
-/*=======================================*/
-/*  added by tom, to collapse the nav    */
-/*=======================================*/
-
-@media screen and (max-width: 768px){
-
-  #cssmenu{
-    height: 52px;
-  }
-
-  li.nav-menu-collapsed-button{
-    display: inline !important;
-  }
-
-}
-
-
-
-
-
-
