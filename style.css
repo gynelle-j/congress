@@ -8,48 +8,7 @@ nav > #logo > img{
     float: left;
 }
 
-/* nav menu bar break */
 
-@media all and (max-width: 768px){
-    #cssmenu {
-        display: none !important;
-    }
-}
-
-
-/*****************
-responsive navbar
-*****************/
-
-#menu-responsive{
-    margin-top: 60px;
-}
-
-/*#menu-responsive,
-#menu-responsive *{
-    list-style: none;
-    list-style-type: none;
-    margin-left: 0;
-
-}
-
-#menu-responsive li{
-    display: block;
-    border: solid 1px black;
-}
-
-#menu-responsive  ul  li{
-    overflow: hidden;
-}
-
-.rnav-lvl1 > ul,
-.rnav-lvl1 > li{
-    display: inline-block !important;
-    color: #00dead !important;
-
-}
-
-*/
 
 /* this is for finding out which resolution is active */
 .which
@@ -63,7 +22,7 @@ responsive navbar
 }
 
 #homepage-pictures{
-    height: 300px;
+/*    line-height: 300px;*/
 }
 
 main{
@@ -78,3 +37,4 @@ footer{
     background-color: hsla(30, 100%, 70%, 1);
     z-index: 0;
 }
+

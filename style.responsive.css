@@ -1,13 +1,20 @@
 
 /* xs */
 @media all and (max-width: 768px){
-
+    #cssmenu {
+        display: none !important;
+    }
+	.nav-small-device{
+	    display: block !important;
+	}
 
 }
 
 /* sm */
-@media all and (max-width: 992px){
-
+@media all and (min-width: 768px){
+	.nav-small-device{
+	    display: none !important;
+	}
 
 }
 
@@ -18,8 +25,11 @@
 }
 
 /* lg */
-@media all and (max-width: 1201px){
+@media all and (min-width: 1201px){
 
 
 
 }
+
+
+
