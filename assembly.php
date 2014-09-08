@@ -1,10 +1,10 @@
 <?php
-function heads($title){
+function head($title){
 echo '
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-	<title>Local Congress | '. $title .'</title>
+	<title>'. $title .' [congress]</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" type="image/png" href="./images/favicon.png"/>
 	<link rel="stylesheet" href="./normalize.css" media="screen" type="text/css" />
