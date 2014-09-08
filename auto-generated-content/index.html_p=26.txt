@@ -1,0 +1,793 @@
+
+
+
+
+
+
+Contact us | Congress
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ // for the menu/*$( document ).ready(function() {$('.menu-new-menu-container').prepend('
+Menu
+');  $('.menu-new-menu-container #menu-button').on('click', function(){    var menu = $(this).next('ul');    if (menu.hasClass('open')) {      menu.removeClass('open');    }    else {      menu.addClass('open');    }  });});*/
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+#slider{width:400px;height:210px;background:transparent url(http://raincoats.cat/congress/wp-content/plugins/nivo-slider-for-wordpress/css/images/loading.gif) no-repeat 50% 50%;}.nivo-caption {background:#000000;color:#ffffff;}
+
+
+
+
+
+var $nv4wp = jQuery.noConflict();$nv4wp(window).load(function() {$nv4wp('#slider').nivoSlider({effect:'fade',slices:15, // For slice animationsboxCols: 4, // For box animationsboxRows: 2, // For box animationsanimSpeed:500, // Slide transition speedpauseTime:3000, // How long each slide will showstartSlide:0, // Set starting Slide (0 index)directionNav:true, //Next & PrevdirectionNavHide:true, //Only show on hovercontrolNav:true, // 1,2,3... navigationcontrolNavThumbs:false, // Use thumbnails for Control NavcontrolNavThumbsFromRel:false, // Use image rel for thumbscontrolNavThumbsSearch: '.jpg', // Replace this with...controlNavThumbsReplace: '_thumb.jpg', // ...this in thumb Image srckeyboardNav:true, //Use left & right arrowspauseOnHover:true, //Stop animation while hoveringmanualAdvance:false, //Force manual transitionscaptionOpacity:0.8, //Universal caption opacityprevText: 'Prev', // Prev directionNav textnextText: 'Next', // Next directionNav textbeforeChange: function(){}, // Triggers before a slide transitionafterChange: function(){}, // Triggers after a slide transitionslideshowEnd: function(){}, // Triggers after all slides have been shownlastSlide: function(){}, // Triggers when last slide is shownafterLoad: function(){} // Triggers when slider has loaded});});
+
+.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+
+
+
+raincoats.cat
+
+  
+    
+      
+Melbourne 0418 399 979
+      
+Sydney (HQ) 02 9808 6466
+      
+Queensland 0407 256 641
+      
+
+    
+  
+    
+  
+    
+      
+
+
+
+
+      
+        
+          
+
+
+
+          
+
+
+
+          
+
+
+
+          
+
+        
+        
+          
+
+
+
+
+
+
+
+
+
+        
+        
+
+      
+      
+
+    
+        
+    
+    
+
+
+
+Home
+
+
+
+About
+
+
+
+About us
+
+
+
+Partners
+
+
+
+Terms &#038; Conditions
+
+
+
+
+
+Our Work
+
+
+
+Reference events
+
+
+
+Testimonials
+
+
+
+
+
+Contact
+
+
+
+Contact us
+
+
+
+Request a quote
+
+
+
+
+
+        
+        
+
+HOME
+
+        
+
+About us
+
+        
+
+Testimonials
+
+        
+
+Reference Gallery
+
+        
+
+Terms & Conditions
+
+        
+
+Partners
+
+        
+
+Request a quote
+
+        
+
+Contact Us
+
+        
+
+      
+    
+    
+  
+  
+
+
+
+
+ Contact us 
+
+
+
+Products
+
+
+
+
+
+
+Audience Response Voting
+
+
+
+
+
+
+Advanced Audience Response Solution
+
+
+
+
+
+Basic Audience Response Solution
+
+
+
+
+
+Audience Response Case Studies: OCBC bank
+
+
+
+
+
+Audience Response Case Studies: Swiss Re-insurance
+
+
+
+
+
+Audience Response / Silent Auction Reference Gallery
+
+
+
+
+
+Smartphone Audience Response
+
+
+
+
+
+ 
+
+
+
+
+
+Conference Microphones
+
+
+
+
+
+
+Wireless Conference Microphones
+
+
+
+
+
+DCN NG Wired Conference Microphones
+
+
+
+
+
+DCN Classic Wired Conference Microphones
+
+
+
+
+
+Software Control
+
+
+
+
+
+Dome Camera Video-Microphone Integration
+
+
+
+
+
+Conference Microphone Reference Gallery
+
+
+
+
+
+ 
+
+
+
+
+
+Product Sales &amp; Service
+
+
+
+
+
+
+CCS900 Conference Microphones
+
+
+
+
+
+DCN NG Interpretation and Microphone System
+
+
+
+
+
+Integrus – Digital Infra Red
+
+
+
+
+
+
+Product Details
+
+
+
+
+
+
+
+
+
+
+Product Service and Support
+
+
+
+
+
+
+CCS800
+
+
+
+
+
+DCN
+
+
+
+
+
+Analogue Infra-red
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Silent Auction
+
+
+
+
+
+
+Silent Auction Details
+
+
+
+
+
+Silent Auction Pledging
+
+
+
+
+
+Silent Auction Sponsorship
+
+
+
+
+
+Silent Auction Case Studies Special Olympics
+
+
+
+
+
+Silent Auction Case Studies: Pistorio Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+Silent PA – Exhibition Audio
+
+
+
+
+
+Simultaneous Interpretation Equipment
+
+
+
+
+
+
+Interpreters
+
+
+
+
+
+Interpretation Equipment Reference Gallery
+
+
+
+
+
+ 
+
+
+
+
+
+Simultaneous Translation Equipment
+
+
+
+
+
+Tour Guide / Whisper Systems
+
+ 
+
+Simultaneous interpretation Equipement
+
+
+
+Simultaneous Translation Equipement
+
+
+
+Conference Microphones
+
+
+
+Video Integration MicrophonesM
+
+
+
+Silent PA
+
+
+
+Tour Guide Systems
+
+
+
+Audience Response Voting
+
+
+
+
+
+
+
+
+
+Subcribe to our Newsletter
+ 
+
+
+Email Address 
+*
+
+
+
+
+
+First Name 
+*
+
+
+
+
+
+Last Name 
+*
+
+
+
+
+
+*= required
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related topics 
+
+
+
+
+
+Contact us
+
+ 
+
+Australia / NZ Head Office
+
+&nbsp;
+
+
+
+Sydney (HQ)
+ &#8211; Congress Rental
+
+Unit 8, 46 Buffalo Road
+
+Gladesville, NSW, 2111.
+
+Australia
+
+T. +61 2 9808 6466
+
+F. +61 2 9808 6477
+
+&nbsp;
+
+Sales / Operations
+
+Omar De Loiola Pereira
+
+M. 0409 833 837
+
+
+omar.pereira@raincoats.cat/congress
+
+
+&nbsp;
+
+Administration / Accounts
+
+Jen Watfa
+
+
+jen.watfa@raincoats.cat/congress
+
+
+&nbsp;
+
+Technical
+
+Liam Ennis
+
+M. 0402 932 984
+
+
+liam.ennis@raincoats.cat/congress
+
+
+&nbsp;
+
+Technical
+
+James Chatburn
+
+M. 0421 280 357
+
+
+james.chatburn@raincoats.cat/congress
+
+
+&nbsp;
+
+Managing Director
+
+Jeremy Ducklin
+
+T. +61 409 833 305
+
+
+jeremy.ducklin@raincoats.cat/congress
+
+
+&nbsp;
+
+
+Melbourne
+ – Congress Rental
+
+Unit2, 23 Moody Street,
+
+North Balwyn, VIC, 3104
+
+T. +61 3 9857 0816
+
+F. +61 3 9857 0817
+
+&nbsp;
+
+Contact – Neville Barbey
+
+M. 0418 399 979
+
+
+neville.barbey@raincoats.cat/congress
+
+
+&nbsp;
+
+
+Brisbane
+ – Congress Rental
+
+14 Moore Street,
+
+Victoria Point, QLD 4165
+
+T. +61 407 256 641
+
+&nbsp;
+
+Contact – Hamish Axam
+
+M. 0407 256 641
+
+
+hamish.axam@raincoats.cat/congress
+
+
+
+
+
+Asia Pacific Head Office
+
+&nbsp;
+
+
+
+
+Singapore
+ &#8211; Congress Rental
+
+
+50, Bukit Batok St 23, #06-14,
+
+Singapore 659 578
+
+T. +65 9735 4616
+
+&nbsp;
+
+Sales – Singapore
+
+Alphonso Lim
+
+T. +65 9735 4616
+
+
+alphonso.lim@congressrental.asia
+
+
+&nbsp;
+
+Operations
+
+Roseffendy Bin Samadi
+
+T. +65 9786 1146
+
+
+fendy.samadi@congressrental.asia
+
+
+&nbsp;
+
+Technical / Operations
+
+Asrol Kamal
+
+T. +65 8435 5073
+
+
+asrol.kamal@congressrental.asia
+
+
+&nbsp;
+
+Managing Director
+
+Jeremy Ducklin
+
+T. +65 8339 0212
+
+
+jeremy.ducklin@congressrental.asia
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
