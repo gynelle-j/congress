@@ -1,0 +1,734 @@
+<html>
+	<head>
+		<title>Website Template - Congress</title>
+		<style type = "text/css">
+			* { margin: 0; padding: 0;}
+
+			body 
+			{
+				font-family: helvetica;
+				background-color: #ffffff;
+
+			}
+
+			
+			#header
+			{
+				background-color: white;
+				height: 61px;
+				width: 100%;
+			}
+
+			.container
+			{
+				width: 1000px;
+				height: auto;
+				margin: 0 auto;
+
+			}
+			#mainArea
+			{
+				float: right;
+				width: 800px;
+				height: auto;
+
+			}
+			#sidebar
+			{
+				float: left;
+				width:200px;
+				height: auto;
+				background-color:;
+				padding-top: 40px;
+			}
+			#logoArea
+			{
+				width: 129px;
+				height: 61px;
+				background-image: url(logo.png);
+				float: left;
+			}
+
+			.page
+			{
+				background-color: white;
+				width:750px;
+				padding: 30px;
+				padding-top: 40px;
+				float: left;
+			
+			
+			}
+			p
+			{
+				font-family: helvetica;
+				font-size: 12px;
+			
+			}
+			li
+			{
+				font-family: helvetica;
+				font-size: 14px;
+
+			}
+			h1
+			{
+				font-family: baskerville;	
+
+			}
+
+			h2
+			{
+				font-family: baskerville;
+				font-size: 18px;
+				font-color: #e3e3e3;
+			}
+
+			h3
+			{
+
+			}
+			h4
+			{
+				font-family: helvetica;
+			}
+
+			#footer
+			{
+				clear: both;
+				position: relative;
+				
+				background-color:;
+				height: 40px;
+				width: 100%;
+				padding: 20px;
+			}
+
+			blockquote {
+			  background: #E3E3E3;
+			  border-left: 10px solid #008ecc;
+			  margin: 1.5em 10px;
+			  padding: 0.5em 10px;
+			  quotes: "\201C""\201D""\2018""\2019";
+			}
+			blockquote:before {
+			  color: #008ecc;
+			  content: open-quote;
+			  font-size: 4em;
+			  line-height: 0.1em;
+			  margin-right: 0.25em;
+			  vertical-align: -0.4em;
+			}
+			blockquote p {
+				  display: inline;
+
+
+			}
+		
+			
+			#cssmenu
+			{
+				width: 800px;
+				height: 61px;
+				float: right;
+			}
+			@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+		#cssmenu,
+		#cssmenu ul,
+		#cssmenu ul li,
+		#cssmenu ul li a,
+		#cssmenu #menu-button {
+ 			 z-index: 666#;
+ 			 margin: 0;
+  			padding: 0;
+  			border: 0;
+  			list-style: none;
+  			line-height: 1;
+  			display: block;
+  			position: relative;
+  		-webkit-box-sizing: border-box;
+ 		 -moz-box-sizing: border-box;
+  		box-sizing: border-box;
+		}
+		#cssmenu:after,
+		#cssmenu > ul:after {
+ 	 		content: ".";
+  			display: block;
+  			clear: both;
+  			visibility: hidden;
+  			line-height: 0;
+  			height: 0;
+		}
+		#cssmenu #menu-button {
+  			display: none;
+		}
+		#cssmenu {
+
+ 		 width: auto;
+ 		 font-family: 'Open Sans', sans-serif;
+	  	line-height: 1;
+  		background: #ffffff;
+		}
+		#menu-line {
+  		position: absolute;
+  		top: 0;
+  		left: 0;
+  		height: 3px;
+  		background: #009ae1;
+ 		 -webkit-transition: all 0.25s ease-out;
+  			-moz-transition: all 0.25s ease-out;
+		  -ms-transition: all 0.25s ease-out;
+		  -o-transition: all 0.25s ease-out;
+		  transition: all 0.25s ease-out;
+		}
+		#cssmenu > ul > li {
+		  float: left;
+		}
+		#cssmenu.align-center > ul {
+		  font-size: 0;
+		  text-align: center;
+		}
+		#cssmenu.align-center > ul > li {
+		  display: inline-block;
+		  float: none;
+		}
+		#cssmenu.align-center ul ul {
+		  text-align: left;
+		}
+		#cssmenu.align-right > ul > li {
+		  float: right;
+		}
+		#cssmenu.align-right ul ul {
+		  text-align: right;
+		}
+		#cssmenu > ul > li > a {
+		  padding: 20px;
+		  font-size: 12px;
+		  text-decoration: none;
+		  text-transform: uppercase;
+		  color: #000000;
+		  -webkit-transition: color .2s ease;
+		  -moz-transition: color .2s ease;
+		  -ms-transition: color .2s ease;
+		  -o-transition: color .2s ease;
+		  transition: color .2s ease;
+		}
+		#cssmenu > ul > li:hover > a,
+		#cssmenu > ul > li.active > a {
+		  color: #009ae1;
+		}
+		#cssmenu > ul > li.has-sub > a {
+		  padding-right: 25px;
+		}
+		#cssmenu > ul > li.has-sub > a::after {
+		  position: absolute;
+		  top: 21px;
+		  right: 10px;
+		  width: 4px;
+		  height: 4px;
+		  border-bottom: 1px solid #000000;
+		  border-right: 1px solid #000000;
+		  content: "";
+		  -webkit-transform: rotate(45deg);
+		  -moz-transform: rotate(45deg);
+		  -ms-transform: rotate(45deg);
+		  -o-transform: rotate(45deg);
+		  transform: rotate(45deg);
+		  -webkit-transition: border-color 0.2s ease;
+		  -moz-transition: border-color 0.2s ease;
+		  -ms-transition: border-color 0.2s ease;
+		  -o-transition: border-color 0.2s ease;
+		  transition: border-color 0.2s ease;
+		}
+		#cssmenu > ul > li.has-sub:hover > a::after {
+		  border-color: #009ae1;
+		}
+		#cssmenu ul ul {
+		  position: absolute;
+		  left: -9999px;
+		}
+		#cssmenu li:hover > ul {
+		  left: auto;
+		}
+		#cssmenu.align-right li:hover > ul {
+		  right: 0;
+		}
+		#cssmenu ul ul ul {
+		  margin-left: 100%;
+		  top: 0;
+		}
+		#cssmenu.align-right ul ul ul {
+ 		 margin-left: 0;
+		  margin-right: 100%;
+		}
+		#cssmenu ul ul li {
+		  height: 0;
+		  -webkit-transition: height .2s ease;
+		  -moz-transition: height .2s ease;
+		  -ms-transition: height .2s ease;
+		  -o-transition: height .2s ease;
+		  transition: height .2s ease;
+		}
+		#cssmenu ul li:hover > ul > li {
+		  height: 32px;
+		}
+		#cssmenu ul ul li a {
+		  padding: 10px 20px;
+		  width: 160px;
+		  font-size: 12px;
+		  background: #ffffff;
+		  text-decoration: none;
+		  color: #000000;
+		  -webkit-transition: color .2s ease;
+		  -moz-transition: color .2s ease;
+		  -ms-transition: color .2s ease;
+		  -o-transition: color .2s ease;
+		  transition: color .2s ease;
+		}
+		#cssmenu ul ul li:hover > a,
+		#cssmenu ul ul li a:hover {
+		  color: #008ecc;
+		}
+		#cssmenu ul ul li.has-sub > a::after {
+		  position: absolute;
+		  top: 13px;
+		  right: 10px;
+		  width: 4px;
+		  height: 4px;
+		  border-bottom: 1px solid #dddddd;
+		  border-right: 1px solid #dddddd;
+		  content: "";
+		  -webkit-transform: rotate(-45deg);
+		  -moz-transform: rotate(-45deg);
+		  -ms-transform: rotate(-45deg);
+		  -o-transform: rotate(-45deg);
+		  transform: rotate(-45deg);
+		  -webkit-transition: border-color 0.2s ease;
+		  -moz-transition: border-color 0.2s ease;
+		  -ms-transition: border-color 0.2s ease;
+		  -o-transition: border-color 0.2s ease;
+		  transition: border-color 0.2s ease;
+		}
+		#cssmenu.align-right ul ul li.has-sub > a::after {
+		  right: auto;
+		  left: 10px;
+		  border-bottom: 0;
+		  border-right: 0;
+		  border-top: 1px solid #dddddd;
+		  border-left: 1px solid #dddddd;
+		}
+		#cssmenu ul ul li.has-sub:hover > a::after {
+		  border-color: #ffffff;
+		}
+@media all and (max-width: 768px), only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1024px), only screen and (min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min-resolution: 192dpi) and (max-width: 1024px), only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
+	  #cssmenu {
+		    width: 100%;
+	  }
+	  #cssmenu ul {
+		    width: 100%;
+		    display: none;
+	  }
+	  #cssmenu.align-center > ul,
+	  #cssmenu.align-right ul ul {
+ 		   text-align: left;
+	  }
+	  #cssmenu ul li,
+	  #cssmenu ul ul li,
+	  #cssmenu ul li:hover > ul > li {
+		    width: 100%;
+		    height: auto;
+		    border-top: 1px solid rgba(120, 120, 120, 0.15);
+	  }
+	  #cssmenu ul li a,
+	  #cssmenu ul ul li a {
+	    width: 100%;
+	  }
+	  #cssmenu > ul > li,
+	  #cssmenu.align-center > ul > li,
+	  #cssmenu.align-right > ul > li {
+		    float: none;
+		    display: block;
+	  }
+	  #cssmenu ul ul li a {
+		    padding: 20px 20px 20px 30px;
+		    font-size: 12px;
+		    color: #000000;
+		    background: none;
+	  }
+	  #cssmenu ul ul li:hover > a,
+	  #cssmenu ul ul li a:hover {
+		    color: #000000;
+	  }
+	  #cssmenu ul ul ul li a {
+		    padding-left: 40px;
+	  }
+	  #cssmenu ul ul,
+	  #cssmenu ul ul ul {
+		    position: relative;
+		    left: 0;
+		    right: auto;
+		    width: 100%;
+		    margin: 0;
+	  }
+	  #cssmenu > ul > li.has-sub > a::after,
+	  #cssmenu ul ul li.has-sub > a::after {
+		    display: none;
+	  }
+	  #menu-line {
+	    display: none;
+	  }
+	  #cssmenu #menu-button {
+		    display: block;
+		    padding: 20px;
+ 		   color: #000000;
+		    cursor: pointer;
+		    font-size: 12px;
+		    text-transform: uppercase;
+	  }
+	  #cssmenu #menu-button::after {
+		    content: '';
+		    position: absolute;
+		    top: 20px;
+		    right: 20px;
+		    display: block;
+ 		   width: 15px;
+		    height: 2px;
+		    background: #000000;
+	  }
+	  #cssmenu #menu-button::before {
+		    content: '';
+		    position: absolute;
+		    top: 25px;
+		    right: 20px;
+ 		   display: block;
+		    width: 15px;
+		    height: 3px;
+		    border-top: 2px solid #000000;
+		    border-bottom: 2px solid #000000;
+	  }
+	  #cssmenu .submenu-button {
+		    position: absolute;
+		    z-index: 10;
+		    right: 0;
+		    top: 0;
+		    display: block;
+		    border-left: 1px solid rgba(120, 120, 120, 0.15);
+		    height: 52px;
+		    width: 52px;
+		    cursor: pointer;
+	  }
+	  #cssmenu .submenu-button::after {
+		    content: '';
+		    position: absolute;
+ 		   top: 21px;
+		    left: 26px;
+		    display: block;
+		    width: 1px;
+		    height: 11px;
+		    background: #000000;
+		    z-index: 99;
+	  }
+	  #cssmenu .submenu-button::before {
+		    content: '';
+		    position: absolute;
+		    left: 21px;
+		    top: 26px;
+		    display: block;
+		    width: 11px;
+		    height: 1px;
+		    background: #000000;
+		    z-index: 99;
+	  }
+	  #cssmenu .submenu-button.submenu-opened:after {
+		    display: none;
+		  }
+		}
+
+		/* sidebar nav*/
+		@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+/* Starter CSS for Flyout Menu */
+#cssmenu2,
+#cssmenu2 ul,
+#cssmenu2 ul li,
+#cssmenu2 ul ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+#cssmenu2 ul {
+  position: relative;
+  z-index: 597;
+  float: left;
+}
+#cssmenu2 ul li {
+  float: left;
+  min-height: 1px;
+  line-height: 1em;
+  vertical-align: middle;
+}
+#cssmenu2 ul li.hover,
+#cssmenu2 ul li:hover {
+  position: relative;
+  z-index: 599;
+  cursor: default;
+}
+#cssmenu2 ul ul {
+  margin-top: 1px;
+  visibility: hidden;
+  position: absolute;
+  top: 1px;
+  left: 99%;
+  z-index: 598;
+  width: 100%;
+}
+#cssmenu2 ul ul li {
+  float: none;
+}
+#cssmenu2 ul ul ul {
+  top: 1px;
+  left: 99%;
+}
+#cssmenu2 ul li:hover > ul {
+  visibility: visible;
+}
+#cssmenu2 ul li {
+  float: none;
+}
+#cssmenu2 ul ul li {
+  font-weight: normal;
+}
+/* Custom CSS Styles */
+#cssmenu2 {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  width: 200px;
+}
+#cssmenu2 ul a,
+#cssmenu2 ul a:link,
+#cssmenu2 ul a:visited {
+  display: block;
+  color: #848889;
+  text-decoration: none;
+  font-weight: 300;
+}
+#cssmenu2 > ul {
+  float: none;
+}
+#cssmenu2 ul {
+  background: #fff;
+}
+#cssmenu2 > ul > li {
+  border-left: 3px solid #d7d8da;
+}
+#cssmenu2 > ul > li > a {
+  padding: 10px 20px;
+}
+#cssmenu2 > ul > li:hover {
+  border-left: 3px solid #008ecc;
+}
+#cssmenu2 ul li:hover > a {
+  color: #008ecc;
+}
+#cssmenu2 > ul > li:hover {
+  background: #f6f6f6;
+}
+/* Sub Menu */
+#cssmenu2 ul ul a:link,
+#cssmenu2 ul ul a:visited {
+  font-weight: 400;
+  font-size: 14px;
+}
+#cssmenu2 ul ul {
+  width: 180px;
+  background: none;
+  border-left: 20px solid transparent;
+}
+#cssmenu2 ul ul a {
+  padding: 8px 0;
+  border-bottom: 1px solid #eeeeee;
+}
+#cssmenu2 ul ul li {
+  padding: 0 20px;
+  background: #fff;
+}
+#cssmenu2 ul ul li:last-child {
+  border-bottom: 3px solid #d7d8da;
+  padding-bottom: 10px;
+}
+#cssmenu2 ul ul li:first-child {
+  padding-top: 10px;
+}
+#cssmenu2 ul ul li:last-child > a {
+  border-bottom: none;
+}
+#cssmenu2 ul ul li:first-child:after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 0;
+  position: absolute;
+  left: -20px;
+  top: 13px;
+  border-left: 10px solid transparent;
+  border-right: 10px solid #fff;
+  border-bottom: 10px solid transparent;
+  border-top: 10px solid transparent;
+}
+
+		</style>
+	</head>	
+	<body>
+
+		<div id="header">
+			<div class = "container">
+				<div id= "logoArea"></div>
+				<div id= "banner"></div>
+
+				<div id='cssmenu'>
+<ul>
+   <li class='active'><a href='index.html'>Home</a></li>
+   <li class='has-sub'><a href='#'>Rental Services</a>
+      <ul>
+         <li class='has-sub'><a href='#'>Simultaneous Interpretation Equipment</a>
+            <ul>
+               <li><a href='#'>Interpretors </a></li>
+               <li><a href='#'>Interpretor Equipment Reference Gallery</a></li>
+            </ul>
+         </li>
+         <li><a href='#'>Simultaneous Translation Equipment</a></li>
+         <li><a href='#'>Tour Guide and Whisper System</a></li>
+         <li class='has-sub'><a href='#'>Audience Response / Event Voting</a>
+            <ul>
+               <li><a href='#'>Advanced Audience Response Solution</a></li>
+               <li><a href='#'>Basic Audience Response Solution</a></li>
+               <li><a href='#'>Audience Response Case Studies: OCBC Bank</a></li>
+               <li><a href='#'>Audience Response Case Studies: Swiss Re-insurance</a></li>
+               <li><a href='#'>Audience Response / Silent Auction Reference Gallery</a></li>
+               <li><a href='#'>Smartphone Audience Response</a></li>
+            </ul>
+         </li>
+         <li class='has-sub'><a href='#'>Conference Microphones</a>
+            <ul>
+               <li><a href='#'>Wireless Conference Microphones</a></li>
+               <li><a href='#'>DCN NG Wired Conference Microphones</a></li>
+               <li><a href='#'>DCN Classic Wired Conference Micrphones</a></li>
+               <li><a href='#'>Software Control</a></li>
+               <li><a href='#'>Dome Camera Video-Microphone Integration</a></li>
+               <li><a href='#'>Conference Microphone Reference Gallery</a></li>
+            </ul>
+         </li>
+         <li><a href='#'>Dome Camera Video Microphone Intergration</a></li>
+         <li><a href='#'>Silent PA / Silent Meeting</a></li>
+      </ul>
+   </li>
+   <li class='has-sub'><a href='#'>Product Sales</a>
+      <ul>
+         <li><a href='#'>CCS900 Conference Microphones</a></li>
+         <li><a href='#'>DCN NG Interpretation and Microphone System</a></li>
+         <li><a href='#'>Integrus - Digital Infrared</a></li>
+         <li><a href='#'>Product Service and Support</a></li>
+      </ul>
+   </li>
+   <li><a href='#'>TERMS & CONDITIONS</a></li>
+   <li class='has-sub'><a href='#'>OUR WORK</a>
+      <ul>
+         <li><a href='#'>Reference Gallery</a></li>
+         <li><a href='#'>Testimonials</a></li>
+      </ul>
+   </li>
+   <li class='has-sub'><a href='#'>About</a>
+      <ul>
+         <li><a href='#'>Company Bio</a></li>
+         <li><a href='#'>Our Team</a></li>
+         <li><a href='#'>Partners</a></li>
+      </ul>
+   </li>
+   <li><a href='#'>Contact</a></li>
+</ul>
+</div>
+		<div id= "sidebar"</div>
+			<h2>Products</h2>
+			<br>
+			<div id='cssmenu2'>
+<ul>
+   <li class='active has-sub'><a href='index.html'><span>Audience Response voting</span></a>
+      <ul>
+         <li><a href='#'><span>Advanced Audience Response Solution</span></a></li>
+         <li><a href='#'><span>Basic Audience Response Solution</span></a></li>
+         <li><a href='#'><span>Audience Response Case Studies: OCBC bank</span></a></li>
+         <li><a href='#'><span>Audience Response / Silent Auction Reference Gallery</span></a></li>
+         <li class='last'><a href='#'><span>Smartphone Audience Response</span></a></li>
+      </ul>
+   </li>
+   <li class='has-sub'><a href='#'><span>Conference Microphones</span></a>
+      <ul>
+         <li><a href='#'><span>Wireless Conference Microphones</span></a></li>
+         <li><a href='#'><span>DCN NG Wired Conference Microphones</span></a></li>
+         <li><a href='#'><span>DCN Classic Wired Conference Microphones</span></a></li>
+         <li><a href='#'><span>Software Control</span></a></li>
+         <li><a href='#'><span>Dome Camera Video-Microphone Integration</span></a></li>
+         <li class='last'><a href='#'><span>Conference Microphone Reference Gallery</span></a></li>
+      </ul>
+   </li>
+   <li><a href='#'><span>Product Sales & Services</span></a></li>
+   <li><a href='#'><span>Silent Auction</span></a></li>
+   <li><a href='#'><span>Silent PA - Exhibition Audio</span></a></li>
+   <li><a href='#'><span>Simultaneous Interpretation Equipment</span></a></li>
+   <li><a href='#'><span>Simultaneous Translation Equipment</span></a></li>
+   <li><a href='#'><span>Tour Guide / Whisper Systems</span></a></li>
+   <li class='last'><a href='#'><span>Product Sales</span></a></li>
+</ul>
+</div>
+
+			</div>	
+	<div id = "mainArea">
+		<div class= "container page">
+		
+			<h1>Advanced Audience Response Voting</h1></p> <br> 
+			<br>
+			<img src="advanced_audience.jpg" align="right" padding= "20px" height="371" width="165"> 
+			<p>Our IML Voting Communicator, IML Audience Response, IML Polling & IML Text interactive devices have proven software for a diverse range of events.
+			<br>
+			
+ 
+			<p>This reliable and unique state of the art technology audience response system offers presenters, auctioneers, organisers and hosts of any event or conference the ability to interact with their audience easily. Whether it is an electronic voting system in a conference or a silent auction taking place at a fundraising event, audience participation is essential and this is where an audience response system can make a big difference.
+ <br>
+ 
+							<p>In addition, conference sessions can benefit from this electronic response system, for example, by letting audience members use their voting device as a hand held microphone to talk to the presenter and their fellow audience members, or text responses to a moderator who can then ask questions of the panel.</p>
+ 
+ <br>
+<h4>Other unique capabilities</h4>
+<p><li>Text Responses, Text Voting, text message voting, SMS Voting and SMS polling from audience members. Can be shown direct to screen or managed through our software prior to being sent to a moderator. Learn more about 
+Text Responsesin this video.</li>
+<li>Logo Branding on handset screen, wrist straps or smartcards. View 
+Sponsorship Opportunities here.</li>
+<li>User Identification with Smartcards to identify and track individual responses.
+<li>Send text to handsets to individual or groups of keypads at any time. See 
+Text Sending in action.</li>
+<li>Stored Response allows individual audience members the freedom to answer questions in any location,
+     in their own time and to be downloaded later.</li></p>
+<li>Multi-site concurrent events.</li></p>
+ 
+<br>
+ 
+<p><b>VIEWS FROM OUR CLIENT</b>
+<blockquote><i>I was pleased with the professional services and responsiveness from Congress Rental. Their producer, Joan, guided us on how we could use the system right from the preparation stage. On both days of the event, they arrived ahead of schedule and set-up and integrated their audience response system seamlessly with our appointed AV vendor. The event went smoothly and I would recommend them to anyone who is planning to use audience response system for an event.</i></p></blockquote>
+<p align= "right">
+Andrea Han - Assistant Vice President <i>Marketing Services, OCBC</i></p>
+		
+
+
+		</div>	
+
+	</div>		
+	
+</div>		
+	<div id= "footer">
+		<div class= "container">Copyright notice: Congress rental 2014 future footer goes here</div>
+
+	</div>	
+
+	</body>
+
+</html>	
