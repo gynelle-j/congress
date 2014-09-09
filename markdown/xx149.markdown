@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Singapore Retailers Association	
-<[TYPE: 	post	
-<[DATE: 	2011-11-07 23:29:18	
-<[TAGS: 	2010	
-<[CONTENT: 	
+    
+    TITLE: 	Singapore Retailers Association	
+    TYPE: 	post	
+    DATE: 	2011-11-07 23:29:18	
+    TAGS: 	2010	
+
 
 ####Location:
 

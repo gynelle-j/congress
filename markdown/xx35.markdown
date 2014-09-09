@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	DCN Classic Conference Microphones	
-<[TYPE: 	post	
-<[DATE: 	2011-09-12 19:38:01	
-<[TAGS: 	DCN Classic Wired Conference Microphones	
-<[CONTENT: 	
+    
+    TITLE: 	DCN Classic Conference Microphones	
+    TYPE: 	post	
+    DATE: 	2011-09-12 19:38:01	
+    TAGS: 	DCN Classic Wired Conference Microphones	
+
 
 
 

@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	IIFSS - Manama Dialogue	
-<[TYPE: 	post	
-<[DATE: 	2011-09-19 18:57:50	
-<[TAGS: 	2008	
-<[CONTENT: 	
+    
+    TITLE: 	IIFSS - Manama Dialogue	
+    TYPE: 	post	
+    DATE: 	2011-09-19 18:57:50	
+    TAGS: 	2008	
+
 
 **Location:**
 

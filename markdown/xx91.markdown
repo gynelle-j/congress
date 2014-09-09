@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Marine Money	
-<[TYPE: 	post	
-<[DATE: 	2011-09-19 19:21:43	
-<[TAGS: 	2010	
-<[CONTENT: 	
+    
+    TITLE: 	Marine Money	
+    TYPE: 	post	
+    DATE: 	2011-09-19 19:21:43	
+    TAGS: 	2010	
+
 
 **Location:**
 

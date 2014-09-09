@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Manama Dialogue - 2010	
-<[TYPE: 	post	
-<[DATE: 	2011-09-19 19:19:53	
-<[TAGS: 	2010	
-<[CONTENT: 	
+    
+    TITLE: 	Manama Dialogue - 2010	
+    TYPE: 	post	
+    DATE: 	2011-09-19 19:19:53	
+    TAGS: 	2010	
+
 
 **Location:**
 

@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Basic Audience Response  Voting	
-<[TYPE: 	post	
-<[DATE: 	2011-09-12 21:42:13	
-<[TAGS: 	Basic Audience Response Solution	
-<[CONTENT: 	
+    
+    TITLE: 	Basic Audience Response  Voting	
+    TYPE: 	post	
+    DATE: 	2011-09-12 21:42:13	
+    TAGS: 	Basic Audience Response Solution	
+
 
 
 

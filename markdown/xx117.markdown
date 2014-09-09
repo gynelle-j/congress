@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	ARGENTINA	
-<[TYPE: 	post	
-<[DATE: 	2011-10-06 04:20:43	
-<[TAGS: 	The America’s Region	
-<[CONTENT: 	
+    
+    TITLE: 	ARGENTINA	
+    TYPE: 	post	
+    DATE: 	2011-10-06 04:20:43	
+    TAGS: 	The America’s Region	
+
 
 
 

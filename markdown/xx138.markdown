@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	CZECH REPUBLIC	
-<[TYPE: 	post	
-<[DATE: 	2011-10-06 04:44:48	
-<[TAGS: 	Europe, Middle East and Africa Region	
-<[CONTENT: 	
+    
+    TITLE: 	CZECH REPUBLIC	
+    TYPE: 	post	
+    DATE: 	2011-10-06 04:44:48	
+    TAGS: 	Europe, Middle East and Africa Region	
+
 
 
 

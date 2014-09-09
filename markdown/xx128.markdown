@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	POLAND	
-<[TYPE: 	post	
-<[DATE: 	2011-10-06 04:33:44	
-<[TAGS: 	Europe, Middle East and Africa Region	
-<[CONTENT: 	
+    
+    TITLE: 	POLAND	
+    TYPE: 	post	
+    DATE: 	2011-10-06 04:33:44	
+    TAGS: 	Europe, Middle East and Africa Region	
+
 
 
 

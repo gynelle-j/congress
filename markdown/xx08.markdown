@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Analogue Infra-red 	
-<[TYPE: 	post	
-<[DATE: 	2011-09-10 16:43:13	
-<[TAGS: 	Analogue Infra-red	
-<[CONTENT: 	
+    
+    TITLE: 	Analogue Infra-red 	
+    TYPE: 	post	
+    DATE: 	2011-09-10 16:43:13	
+    TAGS: 	Analogue Infra-red	
+
 
 
 

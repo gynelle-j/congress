@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Tour Guide / Whisper System	
-<[TYPE: 	post	
-<[DATE: 	2011-09-12 12:28:19	
-<[TAGS: 	Tour Guide / Whisper Systems	
-<[CONTENT: 	
+    
+    TITLE: 	Tour Guide / Whisper System	
+    TYPE: 	post	
+    DATE: 	2011-09-12 12:28:19	
+    TAGS: 	Tour Guide / Whisper Systems	
+
 
 
 

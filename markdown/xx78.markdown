@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Silent Auction - Singapore	
-<[TYPE: 	post	
-<[DATE: 	2011-09-19 19:13:20	
-<[TAGS: 	2009	
-<[CONTENT: 	
+    
+    TITLE: 	Silent Auction - Singapore	
+    TYPE: 	post	
+    DATE: 	2011-09-19 19:13:20	
+    TAGS: 	2009	
+
 
 **Location:**
 

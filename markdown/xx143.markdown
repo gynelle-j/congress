@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	TAIWAN	
-<[TYPE: 	post	
-<[DATE: 	2011-10-06 04:49:51	
-<[TAGS: 	Asia Pacific Region	
-<[CONTENT: 	
+    
+    TITLE: 	TAIWAN	
+    TYPE: 	post	
+    DATE: 	2011-10-06 04:49:51	
+    TAGS: 	Asia Pacific Region	
+
 
 
 

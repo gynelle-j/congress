@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Interpretation Equipment Reference Gallery	
-<[TYPE: 	post	
-<[DATE: 	2011-09-28 06:46:00	
-<[TAGS: 	Interpretation Equipment Reference Gallery	
-<[CONTENT: 	
+    
+    TITLE: 	Interpretation Equipment Reference Gallery	
+    TYPE: 	post	
+    DATE: 	2011-09-28 06:46:00	
+    TAGS: 	Interpretation Equipment Reference Gallery	
+
 
 
 

@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	VOTING / AUDIENCE RESPONSE	
-<[TYPE: 	post	
-<[DATE: 	2011-09-12 12:26:25	
-<[TAGS: 	Audience Response Voting	
-<[CONTENT: 	
+    
+    TITLE: 	VOTING / AUDIENCE RESPONSE	
+    TYPE: 	post	
+    DATE: 	2011-09-12 12:26:25	
+    TAGS: 	Audience Response Voting	
+
 
 
 

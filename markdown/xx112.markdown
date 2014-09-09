@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	MEXICO	
-<[TYPE: 	post	
-<[DATE: 	2011-09-28 18:36:40	
-<[TAGS: 	The America’s Region	
-<[CONTENT: 	
+    
+    TITLE: 	MEXICO	
+    TYPE: 	post	
+    DATE: 	2011-09-28 18:36:40	
+    TAGS: 	The America’s Region	
+
 
 Van Der Corp S.A.
 

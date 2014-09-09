@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	DCN	
-<[TYPE: 	post	
-<[DATE: 	2011-09-10 16:03:07	
-<[TAGS: 	DCN	
-<[CONTENT: 	
+    
+    TITLE: 	DCN	
+    TYPE: 	post	
+    DATE: 	2011-09-10 16:03:07	
+    TAGS: 	DCN	
+
 
 
 

@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	IISS - MANAMA DIALOGUE	
-<[TYPE: 	post	
-<[DATE: 	2011-09-11 04:35:35	
-<[TAGS: 	Reference Gallery	
-<[CONTENT: 	
+    
+    TITLE: 	IISS - MANAMA DIALOGUE	
+    TYPE: 	post	
+    DATE: 	2011-09-11 04:35:35	
+    TAGS: 	Reference Gallery	
+
 
 **Location:**
 

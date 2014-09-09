@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Pledges	
-<[TYPE: 	post	
-<[DATE: 	2011-09-12 21:51:15	
-<[TAGS: 	Silent Auction Pledging	
-<[CONTENT: 	
+    
+    TITLE: 	Pledges	
+    TYPE: 	post	
+    DATE: 	2011-09-12 21:51:15	
+    TAGS: 	Silent Auction Pledging	
+
 
 
 

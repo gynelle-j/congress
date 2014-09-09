@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Advanced Audience Response Voting	
-<[TYPE: 	post	
-<[DATE: 	2011-09-12 21:34:24	
-<[TAGS: 	Advanced Audience Response Solution	
-<[CONTENT: 	
+    
+    TITLE: 	Advanced Audience Response Voting	
+    TYPE: 	post	
+    DATE: 	2011-09-12 21:34:24	
+    TAGS: 	Advanced Audience Response Solution	
+
 
 
 

@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	SWEDEN	
-<[TYPE: 	post	
-<[DATE: 	2011-10-06 04:26:58	
-<[TAGS: 	Europe, Middle East and Africa Region	
-<[CONTENT: 	
+    
+    TITLE: 	SWEDEN	
+    TYPE: 	post	
+    DATE: 	2011-10-06 04:26:58	
+    TAGS: 	Europe, Middle East and Africa Region	
+
 
 
 

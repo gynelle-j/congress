@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Silent Auction – Room to Read	
-<[TYPE: 	post	
-<[DATE: 	2011-09-19 19:29:18	
-<[TAGS: 	2010	
-<[CONTENT: 	
+    
+    TITLE: 	Silent Auction – Room to Read	
+    TYPE: 	post	
+    DATE: 	2011-09-19 19:29:18	
+    TAGS: 	2010	
+
 
 **Location:**
 

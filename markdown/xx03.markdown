@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Product Descriptions 	
-<[TYPE: 	post	
-<[DATE: 	2011-09-10 15:57:21	
-<[TAGS: 	Product Details	
-<[CONTENT: 	
+    
+    TITLE: 	Product Descriptions 	
+    TYPE: 	post	
+    DATE: 	2011-09-10 15:57:21	
+    TAGS: 	Product Details	
+
 
 
 

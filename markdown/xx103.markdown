@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Torres Straits Island Council	
-<[TYPE: 	post	
-<[DATE: 	2011-09-19 19:31:01	
-<[TAGS: 	2010	
-<[CONTENT: 	
+    
+    TITLE: 	Torres Straits Island Council	
+    TYPE: 	post	
+    DATE: 	2011-09-19 19:31:01	
+    TAGS: 	2010	
+
 
 **Location:**
 

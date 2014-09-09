@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Church Event Singapore	
-<[TYPE: 	post	
-<[DATE: 	2011-09-19 19:08:21	
-<[TAGS: 	2009	
-<[CONTENT: 	
+    
+    TITLE: 	Church Event Singapore	
+    TYPE: 	post	
+    DATE: 	2011-09-19 19:08:21	
+    TAGS: 	2009	
+
 
 **Location:**
 

@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	BRAZIL	
-<[TYPE: 	post	
-<[DATE: 	2011-10-06 04:18:16	
-<[TAGS: 	The America’s Region	
-<[CONTENT: 	
+    
+    TITLE: 	BRAZIL	
+    TYPE: 	post	
+    DATE: 	2011-10-06 04:18:16	
+    TAGS: 	The America’s Region	
+
 
 
 

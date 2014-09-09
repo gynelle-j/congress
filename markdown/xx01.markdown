@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	VOTING / AUDIENCE RESPONSE	
-<[TYPE: 	post	
-<[DATE: 	2011-09-08 04:21:28	
-<[TAGS: 	Blogroll,Audience Response Case Studies: OCBC bank	
-<[CONTENT: 	
+    
+    TITLE: 	VOTING / AUDIENCE RESPONSE	
+    TYPE: 	post	
+    DATE: 	2011-09-08 04:21:28	
+    TAGS: 	Blogroll,Audience Response Case Studies: OCBC bank	
+
 
 
 

@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Translation Equipment	
-<[TYPE: 	post	
-<[DATE: 	2011-09-12 19:00:21	
-<[TAGS: 	Simultaneous Translation Equipment	
-<[CONTENT: 	
+    
+    TITLE: 	Translation Equipment	
+    TYPE: 	post	
+    DATE: 	2011-09-12 19:00:21	
+    TAGS: 	Simultaneous Translation Equipment	
+
 
 
 

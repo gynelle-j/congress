@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Software Control of Microphones	
-<[TYPE: 	post	
-<[DATE: 	2011-09-12 19:41:55	
-<[TAGS: 	Software Control	
-<[CONTENT: 	
+    
+    TITLE: 	Software Control of Microphones	
+    TYPE: 	post	
+    DATE: 	2011-09-12 19:41:55	
+    TAGS: 	Software Control	
+
 
 
 

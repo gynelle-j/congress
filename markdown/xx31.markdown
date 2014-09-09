@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Interpreters	
-<[TYPE: 	post	
-<[DATE: 	2011-09-12 18:47:21	
-<[TAGS: 	Interpreters	
-<[CONTENT: 	
+    
+    TITLE: 	Interpreters	
+    TYPE: 	post	
+    DATE: 	2011-09-12 18:47:21	
+    TAGS: 	Interpreters	
+
 
 
 

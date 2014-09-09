@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Concentus	
-<[TYPE: 	post	
-<[DATE: 	2011-09-10 16:41:59	
-<[TAGS: 	Concentus	
-<[CONTENT: 	
+    
+    TITLE: 	Concentus	
+    TYPE: 	post	
+    DATE: 	2011-09-10 16:41:59	
+    TAGS: 	Concentus	
+
 
 <table class="mainbody" cellspacing="0" cellpadding="10">
 <tbody>

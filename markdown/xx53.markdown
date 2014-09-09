@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Asia Pacific Partnership on Clean Development & Climate	
-<[TYPE: 	post	
-<[DATE: 	2011-09-19 18:16:32	
-<[TAGS: 	2006	
-<[CONTENT: 	
+    
+    TITLE: 	Asia Pacific Partnership on Clean Development & Climate	
+    TYPE: 	post	
+    DATE: 	2011-09-19 18:16:32	
+    TAGS: 	2006	
+
 
 **Location:**
 

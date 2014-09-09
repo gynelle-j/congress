@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	USA	
-<[TYPE: 	post	
-<[DATE: 	2011-09-28 18:35:36	
-<[TAGS: 	The America’s Region	
-<[CONTENT: 	
+    
+    TITLE: 	USA	
+    TYPE: 	post	
+    DATE: 	2011-09-28 18:35:36	
+    TAGS: 	The America’s Region	
+
 
 Congress Rental
 

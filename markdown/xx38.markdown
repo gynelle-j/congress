@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Product Sales and Service	
-<[TYPE: 	post	
-<[DATE: 	2011-09-12 20:13:33	
-<[TAGS: 	Product Sales &amp; Service	
-<[CONTENT: 	
+    
+    TITLE: 	Product Sales and Service	
+    TYPE: 	post	
+    DATE: 	2011-09-12 20:13:33	
+    TAGS: 	Product Sales &amp; Service	
+
 
 
 

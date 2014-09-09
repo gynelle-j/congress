@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Conference Microphone Reference Gallery	
-<[TYPE: 	post	
-<[DATE: 	2011-09-12 19:56:09	
-<[TAGS: 	Conference Microphone Reference Gallery	
-<[CONTENT: 	
+    
+    TITLE: 	Conference Microphone Reference Gallery	
+    TYPE: 	post	
+    DATE: 	2011-09-12 19:56:09	
+    TAGS: 	Conference Microphone Reference Gallery	
+
 
 
 

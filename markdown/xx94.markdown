@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Microsoft Training - Silent PA	
-<[TYPE: 	post	
-<[DATE: 	2011-09-19 19:23:37	
-<[TAGS: 	2010	
-<[CONTENT: 	
+    
+    TITLE: 	Microsoft Training - Silent PA	
+    TYPE: 	post	
+    DATE: 	2011-09-19 19:23:37	
+    TAGS: 	2010	
+
 
 **Location:**
 

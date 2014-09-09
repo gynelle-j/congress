@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Applications 	
-<[TYPE: 	post	
-<[DATE: 	2011-09-10 16:44:51	
-<[TAGS: 	Applications	
-<[CONTENT: 	
+    
+    TITLE: 	Applications 	
+    TYPE: 	post	
+    DATE: 	2011-09-10 16:44:51	
+    TAGS: 	Applications	
+
 
 <table cellspacing="0" cellpadding="10" class="mainbody">
 	\	\	\	\	\	\	<tbody><tr><td>

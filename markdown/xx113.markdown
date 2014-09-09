@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	SWITZERLAND	
-<[TYPE: 	post	
-<[DATE: 	2011-09-28 18:39:10	
-<[TAGS: 	Europe, Middle East and Africa Region	
-<[CONTENT: 	
+    
+    TITLE: 	SWITZERLAND	
+    TYPE: 	post	
+    DATE: 	2011-09-28 18:39:10	
+    TAGS: 	Europe, Middle East and Africa Region	
+
 
 Dorier S.A
 

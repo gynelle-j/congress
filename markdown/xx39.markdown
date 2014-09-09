@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	CCS900	
-<[TYPE: 	post	
-<[DATE: 	2011-09-12 20:23:20	
-<[TAGS: 	CCS900 Conference Microphones	
-<[CONTENT: 	
+    
+    TITLE: 	CCS900	
+    TYPE: 	post	
+    DATE: 	2011-09-12 20:23:20	
+    TAGS: 	CCS900 Conference Microphones	
+
 
 
 

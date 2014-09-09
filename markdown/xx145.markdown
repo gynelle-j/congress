@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	SINGAPORE	
-<[TYPE: 	post	
-<[DATE: 	2011-10-06 04:51:37	
-<[TAGS: 	Asia Pacific Region	
-<[CONTENT: 	
+    
+    TITLE: 	SINGAPORE	
+    TYPE: 	post	
+    DATE: 	2011-10-06 04:51:37	
+    TAGS: 	Asia Pacific Region	
+
 
 
 

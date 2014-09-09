@@ -1,9 +1,9 @@
-~~file~~
-<[TITLE: 	Pistorio Foundation Silent Auction	
-<[TYPE: 	post	
-<[DATE: 	2011-09-19 19:18:27	
-<[TAGS: 	2010	
-<[CONTENT: 	
+    
+    TITLE: 	Pistorio Foundation Silent Auction	
+    TYPE: 	post	
+    DATE: 	2011-09-19 19:18:27	
+    TAGS: 	2010	
+
 
 **Location:**
 
