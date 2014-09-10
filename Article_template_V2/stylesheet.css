@@ -70,13 +70,13 @@
 			}
 			h1
 			{
-				font-family: baskerville;	
+				font-family: helvetica;	
 
 			}
 
 			h2
 			{
-				font-family: baskerville;
+				font-family: helvetica;
 				font-size: 18px;
 				font-color: #e3e3e3;
 			}
@@ -102,7 +102,7 @@
 			}
 
 			blockquote {
-			  background: #E3E3E3;
+			  background: #ffffff;
 			  border-left: 10px solid #008ecc;
 			  margin: 1.5em 10px;
 			  padding: 0.5em 10px;
