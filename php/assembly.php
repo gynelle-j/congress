@@ -39,7 +39,7 @@ echo '
 			<nav id="cssmenu" class="col-md-10 col-xs-12">
 				<ul>
 					<li class="active"><a href="index.html">Home</a></li>
-					<li class="has-sub"><a href="#">Products</a>
+					<li class="has-sub"><a href="http://getbootstrap.com/">Products</a>
 					<ul>
 						<li class="has-sub"><a href="#">Audience Response Voting</a>
 							<ul>
