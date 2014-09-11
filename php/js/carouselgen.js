@@ -68,3 +68,5 @@ function loadImages(){
 $(document).ready(function(){
 	$('#carousel').append( loadCarouselParts( loadImages() ) );
 });
+
+

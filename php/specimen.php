@@ -3,7 +3,7 @@
 	head("specimen draft"); 
 ?>
 	<main class="row">
-	<script type="text/javascript">
+	<script id="box" type="text/javascript">
 	var img = [
 	{
 		src: "col1.jpg",
