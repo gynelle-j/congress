@@ -1,0 +1,40 @@
+.trace{
+    color:#DEAD00 !important;
+    background-color: #00DEAD !important;
+    overflow: auto;
+}
+
+nav > #logo > img{
+    float: left;
+}
+
+
+
+/* this is for finding out which resolution is active */
+.which
+{
+    position: fixed  !important;
+    bottom: 20px !important;
+    right: 20px !important;
+    padding: 10px;
+    background-color: hsla(666, 100%, 50%, 0.8);
+    z-index: 99989789;
+}
+
+#homepage-pictures{
+/*    line-height: 300px;*/
+}
+
+main{
+    z-index: 44;
+}
+
+footer{
+    position: absolute;
+    width: 100%;
+    bottom: -200px;
+    height: 200px;
+    background-color: hsla(30, 100%, 70%, 1);
+    z-index: 0;
+}
+
