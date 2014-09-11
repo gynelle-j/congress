@@ -1,12 +1,4 @@
-/*	~Carousel Generator for Bootstrap 3~
- *	by Tom Shaddock
- *  https://github.com/raincoats
- * 
- *  THIS IS CLOSED SOURCE SOFTWARE CONTAINING
- *  A PROPIETARY WINDOWS LIKE OPERATING SYSTEM
- * 	STAY AWAY HISS HISS
- *  no i'm just joking insert MIT licence here i dont care
- */
+/*	~Carousel Generator for Bootstrap 3~ */
 
 function loadCarouselParts(images){
 	var numberOfImages = images.length;
