@@ -1,20 +1,30 @@
 <?php
 function head($title){
+
+//	this checks to see if the $title is set, 
+//	if it isn't then it's just called 'page'
+if( $title === NULL ){
+	$title = 'page';
+}
+
+###########################
+# this is the page header #
+###########################
 echo '
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-	<title>'. $title .' [congress]</title>
+	<title>'. $title .' | local</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="icon" type="image/png" href="./images/favicon.png"/>
-	<link rel="stylesheet" href="./normalize.css" media="screen" type="text/css" />
-	<link rel="stylesheet" href="./navbar.css" media="screen" type="text/css" />
+	<link rel="icon" type="image/png" href="./img/favicon.png"/>
+	<link rel="stylesheet" href="./css/normalize.css" media="screen" type="text/css" />
+	<link rel="stylesheet" href="./css/navbar.css" media="screen" type="text/css" />
 	<link rel="stylesheet" href="./bootstrap_files/css/bootstrap.min.css" media="all" type="text/css" />
-	<link rel="stylesheet" href="./style.css" media="screen" type="text/css" />
-	<link rel="stylesheet" href="./style.responsive.css" media="screen" type="text/css" />
-	<script type="text/javascript" src="./jquery.js"></script>
+	<link rel="stylesheet" href="./css/style.css" media="screen" type="text/css" />
+	<link rel="stylesheet" href="./css/style.responsive.css" media="screen" type="text/css" />
+	<script type="text/javascript" src="./js/jquery.js"></script>
 	<script type="text/javascript" src="./bootstrap_files/js/bootstrap.js"></script>
-	<script type="text/javascript" src="./dev.js"></script>
+	<script type="text/javascript" src="./js/dev.js"></script>
 </head>
 <body>
 	<div class="which"></div>
@@ -22,7 +32,7 @@ echo '
 	<div class="container">
 		<header class="row">
 			<div id="logo" class="col-md-2 col-xs-12">
-				<img src="./images/logo.png" class="img-responsive" />
+				<img src="./img/logo.png" class="img-responsive" />
 			</div>
 
 			<!-- normal nav for large devices -->
@@ -115,32 +125,11 @@ echo '
 							<a class="dropdown-toggle" data-toggle="dropdown" href="#" rel="#">Products<span class="caret"></span></a>
 							<ul role="menu" class="dropdown-menu">
 								<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" rel="#">Audience Response Voting</a>
-									<!-- <li><a href="#" rel="#">Basic Audience Response System</a></li> -->
-									<!-- <li><a href="#" rel="#">Audience Response Voting Solutions</a></li> -->
-									<!-- <li><a href="#" rel="#">Audience Response Case Studies: Swiss re-insurance</a></li> -->
-									<!-- <li><a href="#" rel="#">Audience Response / Silent Audction Reference Gallery</a></li> -->
-									<!-- <li><a href="#" rel="#">Smartphone Audience Response</a></li> -->
 								<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" rel="#">Conference microphones</a>
-									<!-- <li><a href="#" rel="#">Wireless Conference Microphones</a></li> -->
-									<!-- <li><a href="#" rel="#">DCN NG Wired Conference Microphones</a></li> -->
-									<!-- <li><a href="#" rel="#">Software Control</a></li> -->
-									<!-- <li><a href="#" rel="#">Dome Camera Video-Microphone Integration</a></li> -->
-									<!-- <li><a href="#" rel="#">Conference Microphone Reference Gallery</a></li> -->
 								<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" rel="#">Product Sales &amp; Service</a>
-									<!-- <li><a href="#" rel="#">CCS900 Conference Microphones</a></li> -->
-									<!-- <li><a href="#" rel="#">DCN NG Interpretation and Microphone System</a></li> -->
-									<!-- <li><a href="#" rel="#">Intergrus - Digital Infra Red</a></li> -->
-									<!-- <li><a href="#" rel="#">Product Service and Support</a></li> -->
 								<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" rel="#">Silent Auction</a>
-									<!-- <li><a href="#" rel="#">Silent Auction Details</a></li> -->
-									<!-- <li><a href="#" rel="#">Silent Auction Pledging</a></li> -->
-									<!-- <li><a href="#" rel="#">Silent Auction Sponsorship</a></li> -->
-									<!-- <li><a href="#" rel="#">Silent Auction Case Studies Special Olympics</a></li> -->
-									<!-- <li><a href="#" rel="#">Silent Auction Case Studies: Pistorio Foundation</a></li> -->
 								<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" rel="#">Silent PA - Exhibition Audio</a>
 								<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" rel="#">Simultaneous Interpretation Equipment</a>
-									<!-- <li><a href="#" rel="#">Interpreters</a></li> -->
-									<!-- <li><a href="#" rel="#">Interpretation Equipment Reference Gallery</a></li> -->
 								<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" rel="#">Simultaneous Translation Equipment</a>
 								<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" rel="#">Tour Guide / Whisper Systems</a>
 							</ul>
@@ -168,8 +157,34 @@ echo '
 	</div>
 
 
+
 ';
 }
+
+
+###########################
+# this is the page footer #
+###########################
+
+function foot(){
+echo '
+	<footer>
+		<!-- <h1>this is a footer!</h1> -->
+	</footer>
+</body>
+</html>
+';
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
