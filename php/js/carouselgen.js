@@ -48,32 +48,29 @@ function loadCarouselParts(images){
 
 }
 
+
+
 function loadImages(){
-	var img = [];
 
-	img[0] = {
-		src: "col1.jpg",
-		alt: "alt-text",
-		caption: "lorem ipsum"
-	}
-	img[1] = {
-		src: "col2.jpg",
-		alt: "alt-text2",
-		caption: "lorem ipsum"
-	}
-	img[2] = {
-		src: "col3.jpg",
-		alt: "alt-text3",
-		caption: "lorem ipsum"
-	}
-	img[3] = {
-		src: "col4.jpg",
-		alt: "alt-text4",
-		caption: "lorem ipsum"
+	try{
+		if (img == null){
+			img = [
+				{
+					src: "sad.png",
+					alt: ":(",
+					caption: "the slideshow does not want to work :("
+				}
+			];
+		} 
 	}
 
+	catch(e){
+		console.log("\r\ngolly mister, suuure looks like img was undefined\r\n" + 
+		            "check what you typed on the page\r\n");
+	}
 	return img;
 }
+
 
 
 $(document).ready(function(){
