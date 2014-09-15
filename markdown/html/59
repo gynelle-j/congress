@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta name="google-site-verification" content="9HIXFuzkXhWVM8o7qWXSr_KZ8As_wtrBTgCjDDVPPU4" />
+<meta charset="UTF-8" />
+<title>DCN | Congress</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://congressrental.com.au/wp-content/themes/congress/style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://congressrental.com.au/wp-content/themes/congress/css/default.css" />
+<link rel="pingback" href="http://congressrental.com.au/xmlrpc.php" />
+<script type="text/javascript" src="http://congressrental.com.au/wp-content/themes/congress/js/jquery-1.6.2.js"></script>
+<script type="text/javascript" src="http://congressrental.com.au/wp-content/themes/congress/js/drop-down.js"></script>
+<script type="text/javascript" src="http://congressrental.com.au/wp-content/themes/congress/js/gallery.js"></script>
+<script type="text/javascript" src="http://congressrental.com.au/wp-content/themes/congress/js/jquery.tools.min.js"></script>
+
+
+
+<script type="text/javascript">
+
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="Congress &raquo; Feed" href="http://congressrental.com.au/feed" />
+<link rel="alternate" type="application/rss+xml" title="Congress &raquo; Comments Feed" href="http://congressrental.com.au/comments/feed" />
+
+            <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-27282400-1']);
+				            _gaq.push(['_setCustomVar',1,'category','dcn',3],['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script>
+			<link rel="alternate" type="application/rss+xml" title="Congress &raquo; DCN Comments Feed" href="http://congressrental.com.au/59/feed" />
+<link rel='stylesheet' id='mailchimpSF_main_css-css'  href='http://congressrental.com.au/?mcsf_action=main_css&#038;ver=4.0' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='http://congressrental.com.au/wp-content/plugins/mailchimp/css/ie.css?ver=4.0' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='contact-form-7-css'  href='http://congressrental.com.au/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.9.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://congressrental.com.au/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://congressrental.com.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://congressrental.com.au/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://congressrental.com.au/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='CCS800' href='http://congressrental.com.au/ccs800' />
+<link rel='next' title='Conference Microphones' href='http://congressrental.com.au/conference-microphones' />
+<meta name="generator" content="WordPress 4.0" />
+<link rel='canonical' href='http://congressrental.com.au/59' />
+<link rel='shortlink' href='http://congressrental.com.au/?p=59' />
+		<link rel="stylesheet" type="text/css" href="http://congressrental.com.au/wp-content/plugins/nivo-slider-for-wordpress/css/nivoslider4wp.css" />
+		<style>
+		#slider{
+			width:400px;
+			height:210px;
+			background:transparent url(http://congressrental.com.au/wp-content/plugins/nivo-slider-for-wordpress/css/images/loading.gif) no-repeat 50% 50%;
+		}
+		.nivo-caption {
+			background:#000000;
+			color:#ffffff;
+		}
+		</style>
+			<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+		<script type="text/javascript" src="http://congressrental.com.au/wp-content/plugins/nivo-slider-for-wordpress/js/jquery.nivo.slider.pack.js"></script>
+		<script type="text/javascript">
+		var $nv4wp = jQuery.noConflict();
+		$nv4wp(window).load(function() {
+			$nv4wp('#slider').nivoSlider({
+				effect:'fade',
+				slices:15, // For slice animations
+				boxCols: 4, // For box animations
+				boxRows: 2, // For box animations
+				animSpeed:500, // Slide transition speed
+				pauseTime:3000, // How long each slide will show
+				startSlide:0, // Set starting Slide (0 index)
+				directionNav:true, //Next & Prev
+				directionNavHide:true, //Only show on hover
+				controlNav:true, // 1,2,3... navigation
+				controlNavThumbs:false, // Use thumbnails for Control Nav
+				controlNavThumbsFromRel:false, // Use image rel for thumbs
+				controlNavThumbsSearch: '.jpg', // Replace this with...
+				controlNavThumbsReplace: '_thumb.jpg', // ...this in thumb Image src
+				keyboardNav:true, //Use left & right arrows
+				pauseOnHover:true, //Stop animation while hovering
+				manualAdvance:false, //Force manual transitions
+				captionOpacity:0.8, //Universal caption opacity
+				prevText: 'Prev', // Prev directionNav text
+				nextText: 'Next', // Next directionNav text
+				beforeChange: function(){}, // Triggers before a slide transition
+				afterChange: function(){}, // Triggers after a slide transition
+				slideshowEnd: function(){}, // Triggers after all slides have been shown
+				lastSlide: function(){}, // Triggers when last slide is shown
+				afterLoad: function(){} // Triggers when slider has loaded
+			});
+		});
+		</script>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+<body>
+<div class="body-wrapper">
+	<div class="topInfo">
+		<div class="topInfo-wrap">
+			<span class="fleft">Melbourne 0418 399 979</span>
+			<span class="fleft">Sydney (HQ) 02 9808 6466</span>
+			<span class="fleft">Queensland 0407 256 641</span>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+	
+	<!-- Start Header -->
+	<div id="header">
+		<div class="topMenu">
+			<div class="logo fleft"><a href="http://congressrental.com.au"><img src="http://congressrental.com.au/wp-content/themes/congress/images/logo.png" /></a></div>
+			<div class="fright" style="width: 250px;">
+				<div class="social-group">
+					<div class="twitter fleft"><a href="http://twitter.com/#!/congressASIA" target="_blank"></a></div>
+					<div class="youtube fleft"><a href="http://www.youtube.com/user/CongressRental" target="_blank"></a></div>
+					<div class="linked fleft"><a href="http://au.linkedin.com/in/jeremyducklin" target="_blank"></a></div>
+					<div class="clearfix"></div>
+				</div>
+				<div class="search-box" style="float: right;">
+				<form method="get" id="searchform" action="http://congressrental.com.au/">	<div class="search-txt fleft"><input type="text" name="s" id="s" value="" /></div>	<div class="search-btn fleft"><input type="submit" id="submitsearch" class="" value="search" /></div>	<div class="clearfix"></div>
+</form>					<!--  
+					<form action="">
+						<div class="search-txt fleft"><input type="text" /></div>
+						<div class="search-btn fleft"><input type="submit" value="search" /></div>
+						<div class="clearfix"></div>
+					</form>
+					-->
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+		
+		<!-- Start navigation -->
+		<div id="navigation">
+					<ul>
+				<li><a  href="http://congressrental.com.au">HOME</a></li>
+				<li><a  href="http://congressrental.com.au/about-us">About us</a></li>
+				<li><a  href="http://congressrental.com.au/testimonials">Testimonials</a></li>
+				<li><a  href="http://congressrental.com.au/category/reference-gallery">Reference Gallery</a></li>
+				<li><a  href="http://congressrental.com.au/terms-conditions">Terms & Conditions</a></li>
+				<li><a  href="http://congressrental.com.au/partners">Partners</a></li>
+				<li><a  href="http://congressrental.com.au/request-a-quote">Request a quote</a></li>
+				<li><a  href="http://congressrental.com.au/contact-us">Contact Us</a></li>
+				<div class="clearfix"></div>
+			</ul>
+		</div>
+		<!-- End navigation -->
+	</div>
+	<!-- End Header -->
+
+	<!-- Start container -->
+	<div id="container">
+		<div id="content">
+			<div class="breadcum">Home > DCN </div>
+			<div class="sidebar fleft">
+				<div class="products-lst">
+					<div class="label category-title">Products</div>
+					<div class="cat-list">
+											<ul>
+						
+												<li><span class="lst-img fleft"></span><a href="http://congressrental.com.au/category/products/audience-response-voting">
+								Audience Response Voting								</a>
+																											<div class="sub-menu">
+										<ul class="m2">
+																			<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/audience-response-voting/advanced-audience-response-solution">
+										Advanced Audience Response Solution										</a>
+																														</li>
+																				<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/audience-response-voting/basic-audience-response-solution">
+										Basic Audience Response Solution										</a>
+																														</li>
+																				<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/audience-response-voting/audience-response-case-studies-ocbc-bank">
+										Audience Response Case Studies: OCBC bank										</a>
+																														</li>
+																				<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/audience-response-voting/audience-response-case-studies-swiss-re-insurance">
+										Audience Response Case Studies: Swiss Re-insurance										</a>
+																														</li>
+																				<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/audience-response-voting/audience-response-silent-auction-reference-gallery">
+										Audience Response / Silent Auction Reference Gallery										</a>
+																														</li>
+																				<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/audience-response-voting/smartphone-audience-response">
+										Smartphone Audience Response										</a>
+																														</li>
+												
+										</ul>
+									
+										<div class="clearfix"></div>
+									</div> <!-- End Sub Menu -->
+																	</li>
+								<li><span class="lst-img fleft"></span><a href="http://congressrental.com.au/category/products/conference-microphones">
+								Conference Microphones								</a>
+																											<div class="sub-menu">
+										<ul class="m2">
+																			<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/conference-microphones/wireless-conference-microphones">
+										Wireless Conference Microphones										</a>
+																														</li>
+																				<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/conference-microphones/dcn-ng-wired-conference-microphones">
+										DCN NG Wired Conference Microphones										</a>
+																														</li>
+																				<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/conference-microphones/dcn-classic-wired-conference-microphones">
+										DCN Classic Wired Conference Microphones										</a>
+																														</li>
+																				<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/conference-microphones/software-control">
+										Software Control										</a>
+																														</li>
+																				<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/conference-microphones/dome-camera-video-microphone-integration">
+										Dome Camera Video-Microphone Integration										</a>
+																														</li>
+																				<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/conference-microphones/conference-microphone-reference-gallery">
+										Conference Microphone Reference Gallery										</a>
+																														</li>
+												
+										</ul>
+									
+										<div class="clearfix"></div>
+									</div> <!-- End Sub Menu -->
+																	</li>
+								<li><span class="lst-img fleft"></span><a href="http://congressrental.com.au/category/products/product-sales-service">
+								Product Sales &amp; Service								</a>
+																											<div class="sub-menu">
+										<ul class="m2">
+																			<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/product-sales-service/ccs900-conference-microphones">
+										CCS900 Conference Microphones										</a>
+																														</li>
+																				<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/product-sales-service/dcn-ng-interpretation-and-microphone-system">
+										DCN NG Interpretation and Microphone System										</a>
+																														</li>
+																				<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/product-sales-service/integrus-%e2%80%93-digital-infra-red">
+										Integrus – Digital Infra Red										</a>
+																															<div class="sub-sub-menu">
+												<ul class="m3">
+																									<li><span class="lst-img3 fleft"></span><a href="http://congressrental.com.au/category/products/product-sales-service/integrus-%e2%80%93-digital-infra-red/product-details">
+													Product Details													</a></li>
+																									</ul>
+												<div class="clearfix"></div>
+											</div>
+																				</li>
+																				<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/product-sales-service/product-service-and-support">
+										Product Service and Support										</a>
+																															<div class="sub-sub-menu">
+												<ul class="m3">
+																									<li><span class="lst-img3 fleft"></span><a href="http://congressrental.com.au/category/products/product-sales-service/product-service-and-support/ccs800">
+													CCS800													</a></li>
+																										<li><span class="lst-img3 fleft"></span><a href="http://congressrental.com.au/category/products/product-sales-service/product-service-and-support/dcn">
+													DCN													</a></li>
+																										<li><span class="lst-img3 fleft"></span><a href="http://congressrental.com.au/category/products/product-sales-service/product-service-and-support/analogue-infra-red">
+													Analogue Infra-red													</a></li>
+																									</ul>
+												<div class="clearfix"></div>
+											</div>
+																				</li>
+												
+										</ul>
+									
+										<div class="clearfix"></div>
+									</div> <!-- End Sub Menu -->
+																	</li>
+								<li><span class="lst-img fleft"></span><a href="http://congressrental.com.au/category/products/silent-auction">
+								Silent Auction								</a>
+																											<div class="sub-menu">
+										<ul class="m2">
+																			<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/silent-auction/silent-auction-details">
+										Silent Auction Details										</a>
+																														</li>
+																				<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/silent-auction/silent-auction-pledging">
+										Silent Auction Pledging										</a>
+																														</li>
+																				<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/silent-auction/silent-auction-sponsorship">
+										Silent Auction Sponsorship										</a>
+																														</li>
+																				<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/silent-auction/silent-auction-case-studies-special-olympics">
+										Silent Auction Case Studies Special Olympics										</a>
+																														</li>
+																				<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/silent-auction/silent-auction-case-studies-pistorio-foundation">
+										Silent Auction Case Studies: Pistorio Foundation										</a>
+																														</li>
+												
+										</ul>
+									
+										<div class="clearfix"></div>
+									</div> <!-- End Sub Menu -->
+																	</li>
+								<li><span class="lst-img fleft"></span><a href="http://congressrental.com.au/category/products/silent-pa">
+								Silent PA – Exhibition Audio								</a>
+																										</li>
+								<li><span class="lst-img fleft"></span><a href="http://congressrental.com.au/category/products/simultaneous-interpretation-equipment">
+								Simultaneous Interpretation Equipment								</a>
+																											<div class="sub-menu">
+										<ul class="m2">
+																			<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/simultaneous-interpretation-equipment/interpreters">
+										Interpreters										</a>
+																														</li>
+																				<li><span class="lst-img2 fleft"></span><a href="http://congressrental.com.au/category/products/simultaneous-interpretation-equipment/interpretation-equipment-reference-gallery">
+										Interpretation Equipment Reference Gallery										</a>
+																														</li>
+												
+										</ul>
+									
+										<div class="clearfix"></div>
+									</div> <!-- End Sub Menu -->
+																	</li>
+								<li><span class="lst-img fleft"></span><a href="http://congressrental.com.au/category/products/simultaneous-translation-equipement">
+								Simultaneous Translation Equipment								</a>
+																										</li>
+								<li><span class="lst-img fleft"></span><a href="http://congressrental.com.au/category/products/tour-guide-systems">
+								Tour Guide / Whisper Systems								</a>
+																										</li>
+								 
+							<!-- 
+							<li><a href="">Simultaneous interpretation Equipement</a></li>
+							<li><a href="">Simultaneous Translation Equipement</a></li>
+							<li><a href="">Conference Microphones</a></li>
+							<li><a href="">Video Integration MicrophonesM</a></li>
+							<li><a href="">Silent PA</a></li>
+							<li><a href="">Tour Guide Systems</a></li>
+							<li><a href="">Audience Response Voting</a></li> -->
+							<div class="clearfix"></div>
+						</ul>
+					</div>
+				</div>
+				
+				<!-- Start Subcribe -->
+				<div class="subcriber">
+					<div class="label">Subcribe to our Newsletter</div>
+					
+					 
+															<!-- 
+					<form>
+						<div>
+							<div>Email Address <span>*</span></div>
+							<input type="text" class="txtInput">
+						</div>
+						<div>
+							<div>First Name <span>*</span></div>
+							<input type="text" class="txtInput">
+						</div>
+						<div>
+							<div>Last Name <span>*</span></div>
+							<input type="text" class="txtInput">
+						</div>
+						<div>
+							<div>*= required</div>
+						</div>
+						<div class="btnSubcriber"><input type="submit" value="Subcribe"/></div>
+					</form>
+					 -->
+					 
+					<div class="clearfix"></div>
+					<div class="advertise">
+						<div class="fleft">
+							<a href="http://www.congressrentalnetwork.com" target="_blank"><img src="http://congressrental.com.au/wp-content/themes/congress/images/advertise_07_1.png" /></a>
+						</div>
+						<div class="fleft">							<a href="http://www.meetingsevents.com.au/" target="_blank">
+							<img src="http://congressrental.com.au/wp-content/themes/congress/images/advertise1_07.png" />							</a>
+						</div>
+						<div class="fleft">
+							<a href="http://www.boschsecurity.com.au/content/language1/html/55_ENU_XHTML.asp" target="_blank"><img src="http://congressrental.com.au/wp-content/themes/congress/images/advertise2_07.png" /></a>
+						</div>
+						<div class="fleft">
+							<img src="http://congressrental.com.au/wp-content/themes/congress/images/advertise3_07.png" />
+						</div>
+						<div class="clearfix"></div>
+					</div>
+				</div>
+				<!-- End Subcribe -->
+				
+			</div>			
+			<!-- start latest product -->
+			<div class="right-content fleft">
+				<div class="related-topic">
+					<div class="fleft label"><h1 class="gray">Related topics: </h1></div>
+					<div class="fleft lst-related">
+						<li class="fleft"><a href="http://congressrental.com.au/concentus">Concentus</a></li><li class="fleft"><a href="http://congressrental.com.au/conference-microphones">Conference Microphones</a></li>						<div class="clearfix"></div>
+					</div>
+				</div>
+				
+				<div class="page-content gray">
+					
+
+				<div id="post-59" class="post-59 post type-post status-publish format-standard hentry category-dcn">
+											<h1 class="entry-title blue normal">DCN</h1>
+					
+					<div class="entry-content">
+						 
+					
+												
+						<p>The Digital Congress Network DCN system comprises </p>
+<p><br/></p>
+<div style="padding-left:20px;">
+<p>Compact Discussion Conference Microphones</p>
+<p>Voting Concentus Conference Microphones </p>
+<p>Microphones with Voice Activation</p>
+<p>Simultaneous Interpretration</p>
+<p>Information Display </p>
+<p>Electronic Voting</p>
+</div>
+<p><br/></p>
+<p>DCN technology offers <strong>high-quality audio</strong>, free from distortion and with excellent speech intelligibility, for all conference delegates, with no loss in signal quality during transmission. DCN uses only a <strong>single cable</strong> to carry all the system&#8217;s digital signals, installation is easy and economical. By simply <strong>daisy-chaining</strong> the modular DCN units, any configuration can be put together quickly and easily. DCN technology also allows modules to be easily inserted at any point in the system cabling, so systems can be easily expanded to meet changing requirements. <strong>Software control</strong> and PC control are also possible. Small configurations do not require an operator, and even complex configurations can be monitored by a single operator.</p>
+<p><br/></p>
+<div style="width: 100%; float: left; padding-bottom: 20px;padding-left: 20px;">
+<div align="justify" style="width: 250px; float: left;"><a href="products_mics.html"><br />
+<img width="177" border="0" height="178" src="http://congressrental.com.au/wp-content/uploads/2011/09/CCU800ChairmansUnit1.jpg" title="Discussion Conference Microphones" alt="Discussion Conference Microphones"></a></p>
+<div align="center" style="padding-top: 5px; width: 224px;"><a href="products_mics.html">Discussion Conference Microphones</a></div>
+</div>
+<div align="left" style="width: 250px; float: left;padding-left:30px;"><a href="products_concentus.html"><br />
+<img width="177" border="1" height="178" src="http://congressrental.com.au/wp-content/uploads/2011/09/dcn_concentus.jpg" title="Concentus Conference Microphones" alt="Concentus Conference Microphones"></a></p>
+<div align="center" style="padding-top: 5px; width: 224px;"><a href="products_concentus.html"> Concentus Conference Microphones</a></div>
+</div>
+</div>
+<div style="width: 100%; float: left; padding-bottom: 20px;padding-left: 20px;">
+<div align="justify" style="width: 250px; float: left;">
+<img width="177" border="1" height="140" src="http://congressrental.com.au/wp-content/uploads/2011/09/cm_small.jpg" title="Conference Microphones" alt="Conference Microphones">
+</div>
+<div align="left" style="width: 250px; float: left;padding-left:30px;">
+<img width="177" border="1" height="140" src="http://congressrental.com.au/wp-content/uploads/2011/09/cm_large.jpg" title="Conference Microphones" alt="Conference Microphones">
+</div>
+</div>
+<div align="center" style="padding-top: 5px; width: 450px;">
+Discussion Microphones and Concentus Microphones. Ideal for large venues or small meeting rooms.
+</div>
+<p><br/></p>
+<div class="clearfix"></div>
+<p><img style="float:right;" width="200" border="1" height="220" src="http://congressrental.com.au/wp-content/uploads/2011/09/dcn_3.jpg" title="Wired Distribution Systems" alt="Wired Distribution Systems"></p>
+<p><strong>Wired Distribution Systems</strong></p>
+<p><strong>Fixed Installations</strong></p>
+<p>Contact us for more detailed information.</p>
+<p><a href="mailto:info@congressrental.biz">info@congressrental.biz</a></p>
+<p><br/></p>
+<p><br/></p>
+<div class="clearfix"></div>
+<p><img style="float:right;" width="200" border="1" height="136" src="http://congressrental.com.au/wp-content/uploads/2011/09/DCN-collage-198W.jpg" title="Software Operator Control" alt="Software Operator Control"></p>
+<p><strong>Software</strong></p>
+<p><strong>Operator Control</strong></p>
+<p><strong>Complex Installations</strong></p>
+<p>Contact us for more detailed information.</p>
+<p><a href="mailto:info@congressrental.biz">info@congressrental.biz</a></p>
+												<div class="clearfix"></div>
+					</div><!-- .entry-content -->
+				</div><!-- #post-## -->
+
+		
+
+					
+				</div>
+				<!-- end latest product -->
+	
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+<!-- End Banner -->
+	<div id="footer">
+		<p>Offices is Sydney, Melbourne, Brisbane / Gold Coast / Sunshine Coast.</p>
+		<p>Partners in Hobart, Adelaide, Perth, Darwin, Cairns, Canberra, Townsville, Whitsundays</p>
+		<p>Operating throughout Australia in: Wollongong, Newcastle, Hunter Valley, Yarra Valley, Armadale,
+		Albury, Alice Springs Armidale, Bathurst, Blue Mountains, Newcastle and in New Zealand, Auckland, Wellington, 
+		Christchurch. In the Pacific in Papua New Guinea, Noumea, East Timor, Fiji, Vanuatu and Pacific Islands
+		</p>
+	
+				<div class="footer-link">			<ul>				<li><a href="http://congressrental.com.au">Home</a></li>				<li><a href="http://congressrental.com.au/about-us">About us</a></li>				<li><a href="http://congressrental.com.au/testimonials">Testimonials</a></li>				<li><a href="http://congressrental.com.au/category/reference-gallery">Reference Gallery</a></li>				<li><a href="http://congressrental.com.au/terms-conditions">Terms & Conditions</a></li>				<li><a href="http://congressrental.com.au/partners">Partners</a></li>				<li><a href="http://congressrental.com.au/request-a-quote">Request a quote</a></li>				<li><a href="http://congressrental.com.au/contact-us">Contact Us</a></li>				<div class="clearfix"></div>			</ul>		</div>
+		<div class="copyright">Copyright congress rental 2011 <a href="#" style="text-decoration: none;color: #6B6C6E;">Disclaimer</a></div>
+	</div>
+</div>
+
+
+
+<script type='text/javascript' src='http://congressrental.com.au/wp-includes/js/comment-reply.min.js?ver=4.0'></script>
+<script type='text/javascript' src='http://congressrental.com.au/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/congressrental.com.au\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://congressrental.com.au/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.9.1'></script>
+</body>
+</html>	
+<!-- Dynamic page generated in 1.383 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2014-09-15 07:21:34 -->
+
+<!-- super cache -->
