@@ -17,7 +17,7 @@
 <body>
 	<div class="which"></div>
 	<a class="sr-only sr-only-focusable" tabindex="1" href="#content">Skip to main content</a>
-	<div class="container">
+	<div class="container-fluid">
 		<header class="row">
 			<div id="logo" class="col-md-2 col-xs-12">
 				<img src="./images/logo.png" class="img-responsive" />
