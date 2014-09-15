@@ -38,3 +38,16 @@ footer{
     z-index: 0;
 }
 
+
+
+
+
+
+
+
+
+
+/* old navbar */
+#cssmenu {
+        display: none !important;
+    }

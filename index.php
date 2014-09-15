@@ -23,7 +23,7 @@
 				<img src="./images/logo.png" class="img-responsive" />
 			</div>
 
-			<!-- normal nav for large devices -->
+			<!-- normal nav for large devices 
 			<nav id="cssmenu" class="col-md-10 col-xs-12">
 				<ul>
 					<li class="active"><a href="index.html">Home</a></li>
