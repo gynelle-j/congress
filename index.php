@@ -10,6 +10,7 @@
 	<link rel="stylesheet" href="css/bootstrap.min.css" media="all" type="text/css" />
 	<link rel="stylesheet" href="css/style.css" media="screen" type="text/css" />
 	<link rel="stylesheet" href="css/style.responsive.css" media="screen" type="text/css" />
+	<link rel="stylesheet" href="css/stylesheetnav.css" media="screen" type="text/css" />
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/bootstrap.js"></script>
 	<script type="text/javascript" src="js/dev.js"></script>
