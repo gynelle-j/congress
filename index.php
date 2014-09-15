@@ -5,14 +5,14 @@
 	<title>'. $title .' [congress]</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" type="image/png" href="./images/favicon.png"/>
-	<link rel="stylesheet" href="./normalize.css" media="screen" type="text/css" />
-	<link rel="stylesheet" href="./navbar.css" media="screen" type="text/css" />
-	<link rel="stylesheet" href="./bootstrap_files/css/bootstrap.min.css" media="all" type="text/css" />
-	<link rel="stylesheet" href="./style.css" media="screen" type="text/css" />
-	<link rel="stylesheet" href="./style.responsive.css" media="screen" type="text/css" />
-	<script type="text/javascript" src="./jquery.js"></script>
-	<script type="text/javascript" src="./bootstrap_files/js/bootstrap.js"></script>
-	<script type="text/javascript" src="./dev.js"></script>
+	<link rel="stylesheet" href="css/normalize.css" media="screen" type="text/css" />
+	<link rel="stylesheet" href="css/navbar.css" media="screen" type="text/css" />
+	<link rel="stylesheet" href="css/bootstrap.min.css" media="all" type="text/css" />
+	<link rel="stylesheet" href="css/style.css" media="screen" type="text/css" />
+	<link rel="stylesheet" href="css/style.responsive.css" media="screen" type="text/css" />
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/bootstrap.js"></script>
+	<script type="text/javascript" src="js/dev.js"></script>
 </head>
 <body>
 	<div class="which"></div>
