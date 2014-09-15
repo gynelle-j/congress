@@ -8,7 +8,7 @@
 	{
 		src: "./img/col1.jpg",
 		alt: "alt-text",
-		caption: "lorem ipsum"
+		caption: ""
 	},
 	{
 		src: "./img/col2.jpg",

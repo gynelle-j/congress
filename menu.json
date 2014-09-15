@@ -1,0 +1,69 @@
+var menu = 
+{
+"Products": 
+	{
+		"item": "Audience Response Voting",
+		"submenu":
+			[
+				"Basic Audience Response System",
+				"Audience Response Voting Solutions",
+				"Audience Response Case Studies: Swiss re-insurance",
+				"Audience Response / Silent Audction Reference Gallery",
+				"Smartphone Audience Response",
+			],
+
+		"item": "Conference microphones",
+		"submenu":
+			[
+				"Wireless Conference Microphones",
+				"DCN NG Wired Conference Microphones",
+				"Software Control",
+				"Dome Camera Video-Microphone Integration",
+				"Conference Microphone Reference Gallery",
+			],
+
+		"item": "Product Sales &amp; Service",
+		"submenu":
+			[
+				"CCS900 Conference Microphones",
+				"DCN NG Interpretation and Microphone System",
+				"Intergrus - Digital Infra Red",
+				"Product Service and Support",
+			],
+
+		"item": "Silent Auction",
+		"submenu":
+			[
+				"Silent Auction Details",
+				"Silent Auction Pledging",
+				"Silent Auction Sponsorship",
+				"Silent Auction Case Studies Special Olympics",
+				"Silent Auction Case Studies: Pistorio Foundation",
+			],
+
+		"item": "Silent PA - Exhibition Audio",
+		"item": "Simultaneous Interpretation Equipment",
+		"submenu":	
+			[
+			"Interpreters",
+			"Interpretation Equipment Reference Gallery",
+			],
+		
+		"item": "Simultaneous Translation Equipment",
+		"item": "Tour Guide / Whisper Systems",
+	}
+
+"Our Work"{
+		"item": "Reference Gallery",
+		"item": "Testimonials",
+}
+"About",
+	{
+		"item": "Company Bio",
+		"item": "Our Team",
+		"item": "Partners",
+	}
+
+"Terms &amp; Conditions",
+"Contact",
+}

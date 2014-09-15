@@ -1,0 +1,28 @@
+<div class="button-group">
+
+	<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Products<span class="caret"></span>
+		<ul class="dropdown-menu" role="menu">
+			<li><a href="#">Audience Response Voting</a></li>
+			<li><a href="#">Conference microphones</a></li>
+			<li><a href="#">Product Sales &amp; Service</a></li>
+			<li><a href="#">Silent Auction</a></li>
+			<li><a href="#">Silent PA - Exhibition Audio</a></li>
+			<li><a href="#">Simultaneous Interpretation Equipment		</a></li>
+			<li><a href="#">Simultaneous Translation Equipment</a></li>
+			<li><a href="#">Tour Guide / Whisper Systems</a></li>
+		</ul>
+	<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Our Work<span class="caret"></span>
+		<ul class="dropdown-menu" role="menu">
+			<li><a href="#">Reference Gallery</a></li>
+			<li><a href="#">Testimonials</a></li>
+		</ul>
+	<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">About<span class="caret"></span>
+		<ul class="dropdown-menu" role="menu">
+			<li><a href="#">Company Bio</a></li>
+			<li><a href="#">Our Team</a></li>
+			<li><a href="#">Partners</a></li>
+		</ul>
+	<button type="button" class="btn btn-default">Terms &amp; Conditions
+	<button type="button" class="btn btn-default">Contact
+
+</div>
