@@ -6,22 +6,22 @@
 	<script id="box" type="text/javascript">
 	var img = [
 	{
-		src: "col1.jpg",
+		src: "./img/col1.jpg",
 		alt: "alt-text",
 		caption: "lorem ipsum"
 	},
 	{
-		src: "col2.jpg",
+		src: "./img/col2.jpg",
 		alt: "alt-text2",
 		caption: "lorem ipsum"
 	},
 	{
-		src: "col3.jpg",
+		src: "./img/col3.jpg",
 		alt: "alt-text3",
 		caption: "lorem ipsum"
 	},
 	{
-		src: "col4.jpg",
+		src: "./img/col4.jpg",
 		alt: "alt-text4",
 		caption: "lorem ipsum"
 	}

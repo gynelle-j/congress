@@ -20,11 +20,11 @@ function loadCarouselParts(images){
 	var picturePart = "";
 	for (i=0; i<numberOfImages; i++){
 		if (i === 0){
-			picturePart = picturePart + ('<div class="item active"><img src="./img/' + 
+			picturePart = picturePart + ('<div class="item active"><img src="' + 
 			images[0].src + '" alt="' + images[1].alt + '">\r\n\<div class="carousel-caption">' + images[0].caption + '</div></div>\r\n\r\n');
 
 		} else {
-			picturePart = picturePart + ('<div class="item"><img src="./img/' + 
+			picturePart = picturePart + ('<div class="item"><img src="' + 
 			images[i].src + '" alt="' + images[i].alt + '">\r\n\<div class="carousel-caption">' + images[i].caption + '</div></div>\r\n\r\n');
 		}
 	}
