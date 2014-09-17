@@ -6,4 +6,4 @@ RewriteRule . index.php [L]
 </IfModule>
 
 # Prevent file browsing
-Options Indexes
+Options -Indexes
