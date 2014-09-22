@@ -1,20 +1,13 @@
-[begin page]
- title: 59.html
-----------------------------------------------------------
+    59.html
 
 The Digital Congress Network DCN system comprises
 
-Compact Discussion Conference Microphones
-
-Voting Concentus Conference Microphones
-
-Microphones with Voice Activation
-
-Simultaneous Interpretration
-
-Information Display
-
-Electronic Voting
+ - Compact Discussion Conference Microphones
+ - Voting Concentus Conference Microphones
+ - Microphones with Voice Activation
+ - Simultaneous Interpretration
+ - Information Display
+ - Electronic Voting
 
 DCN technology offers **high-quality audio** , free from distortion and with excellent speech intelligibility, for all conference delegates, with no loss in signal quality during transmission. DCN uses only a **single cable** to carry all the system's digital signals, installation is easy and economical. By simply **daisy-chaining** the modular DCN units, any configuration can be put together quickly and easily. DCN technology also allows modules to be easily inserted at any point in the system cabling, so systems can be easily expanded to meet changing requirements. **Software control** and PC control are also possible. Small configurations do not require an operator, and even complex configurations can be monitored by a single operator.
 
@@ -53,8 +46,3 @@ Contact us for more detailed information.
 Contact us for more detailed information.
 
 [info@congressrental.biz](mailto:info@congressrental.biz)
-
-
-
-
-----------------------------------------------------------

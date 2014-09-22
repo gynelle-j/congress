@@ -1,6 +1,4 @@
-[begin page]
- title: advanced-audience-response-solution.html
-----------------------------------------------------------
+    advanced-audience-response-solution.html
 
 Our IML Voting Communicator, IML Audience Response, IML Polling &amp; IML Text interactive devices have proven software for a diverse range of events.
 
@@ -15,15 +13,10 @@ In addition, conference sessions can benefit from this electronic response syste
 **Other unique capabilities**
 
  - Text Responses, Text Voting, text message voting, SMS Voting and SMS polling from audience members. Can be shown direct to screen or managed through our software prior to being sent to a moderator. Learn more about [Text Responses](http://www.youtube.com/user/CongressRental#p/u/6/I97R6pCjmlw) in this video.
-
  - Logo Branding on handset screen, wrist straps or smartcards. View [Sponsorship Opportunities](http://www.youtube.com/user/CongressRental#p/u/7/S9QTMP5Rq-k) here.
-
  - User Identification with Smartcards to identify and track individual responses.
-
  - Send text to handsets to individual or groups of keypads at any time. See [Text Sending](http://www.youtube.com/user/CongressRental#p/u/1/D6nSPTd1hAY) in action.
-
  - Stored Response allows individual audience members the freedom to answer questions in any location, in their own time and to be downloaded later.
-
  - Multi-site concurrent events.
 
 ![OCBC bank](http://congressrental.asia/audience_response_voting_images/advanc e_solution_1.jpg)
@@ -33,8 +26,3 @@ In addition, conference sessions can benefit from this electronic response syste
 	> I was pleased with the professional services and responsiveness from Congress Rental. Their producer, Joan, guided us on how we could use the system right from the preparation stage. On both days of the event, they arrived ahead of schedule and set-up and integrated their audience response system seamlessly with our appointed AV vendor. The event went smoothly and I would recommend them to anyone who is planning to use audience response system for an event.
 
 Andrea Han – Assistant Vice President, Marketing Services, OCBC
-
-
-
-
-----------------------------------------------------------

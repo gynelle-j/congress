@@ -1,46 +1,38 @@
-[begin page]
- title: asia-pacific-partnership-on-clean-development- climate.html
-----------------------------------------------------------
+    asia-pacific-partnership-on-clean-development-climate.html
+    ///recount///
 
-Location:
+#### Location:
 
-**Government House – Sydney**    **Press Conference at Intercontinental Hotel**
+ - Government House &mdash; Sydney
+ - Press Conference at Intercontinental Hotel
 
-**Features:**
+#### Features:
 
-**Government House (Ministerial Meeting)**
+##### Government House (Ministerial Meeting)
 
-3 Booths
+ - 3 Booths
+ - 30 Conference Microphones
+ - 170 Receivers &amp; Headphones
 
-30 Conference Microphones
+##### Intercontinental Hotel (Press Conference and working meetings)
 
-170 Receivers &amp; Headphones
+ - 3 Booths
+ - 60 Conference Microphones
+ - 400 Receivers &amp; Headphones
 
-**Intercontinental Hotel (Press Conference
+#### Date:
 
-and working meetings)**
+Jan 06
 
-3 Booths
+Notes:
 
-60 Conference Microphones
+ - Multiple Venues
+ - Multiple Rooms
+ - Heritage Building &mdash; Sensitivity to both the aesthetics of the building and its heritage nature.
 
-400 Receivers &amp; Headphones
+Photo Gallery (click on picture to enlarge)
 
-Date:
-
-**Jan 06**
-
-**Notes:**
-
-Multiple Venues
-
-Multiple Rooms
-
-Heritage Building – Sensitivity to both the aesthetics of the building and its heritage nature.
-
-**Photo Gallery (click on picture to enlarge)**
-
-## Government House - Ministerial Meeting
+###### Government House - Ministerial Meeting
 
 [image](/wp-content/uploads/2011/09/table_ministers.jpg)
 
@@ -78,7 +70,7 @@ Technicians
 
 Another Technician
 
-## Intercontinental - Press Conference
+###### Intercontinental - Press Conference
 
 [image](/wp-content/uploads/2011/09/ministers_press_ conference.jpg)
 
@@ -102,9 +94,4 @@ Mandarin Interpreters
 
 [image](/wp-content/uploads/2011/09/sound_proof_booth.jpg)
 
-OUR Sound –proof booths allow delegates to sit right in front without disturbance to delegates or Interpreters.
-
-
-
-
-----------------------------------------------------------
+OUR Sound-proof booths allow delegates to sit right in front without disturbance to delegates or Interpreters.

@@ -1,26 +1,20 @@
-[begin page]
- title: analogue-infra-red.html
-----------------------------------------------------------
+    analogue-infra-red.html
+    http://congressrental.com.au/category/products/product-sales-service/product-service-and-support/analogue-infra-red
+
+#Analogue Infra-red
 
 **Receivers**
 
 ![Microphone](/wp-content/uploads/2011/09/prod_ccs800_21.jpg)
 
-LBB 3432/00 2 Channel RX, Disposable Battery
-
-LBB 3432/10 2 Channel RX, Re-chargeable Battery
-
-LBB 3433/00 7 Channel RX, Disposable Battery
-
-LBB 3433/05 7 Channel RX, Re-chargeable Battery
-
-LBB 3433/00 7 Channel RX, Disposable Battery + Uplift
-
-LBB 3433/05 7 Channel RX, Re-chargeable Bat + Uplift
-
-LBB 3434/00 16 Channel RX, Disposable Battery
-
-LBB 3433/05 16 Channel RX, Re-chargeable Battery
+ - LBB 3432/00 2 Channel RX, Disposable Battery
+ - LBB 3432/10 2 Channel RX, Re-chargeable Battery
+ - LBB 3433/00 7 Channel RX, Disposable Battery
+ - LBB 3433/05 7 Channel RX, Re-chargeable Battery
+ - LBB 3433/00 7 Channel RX, Disposable Battery + Uplift
+ - LBB 3433/05 7 Channel RX, Re-chargeable Bat + Uplift
+ - LBB 3434/00 16 Channel RX, Disposable Battery
+ - LBB 3433/05 16 Channel RX, Re-chargeable Battery
 
 [Download Technical Data PDF (45KB) ](/wp-content/uploads/2011/09/lbb3433.pdf)
 
@@ -28,33 +22,28 @@ LBB 3433/05 16 Channel RX, Re-chargeable Battery
 
 **LBB 3406/00**
 
-Fast Charging Suitcase
-
-Charging time 1.5 Hrs
-
-56 Receivers
+ - Fast Charging Suitcase
+ - Charging time 1.5 Hrs
+ - 56 Receivers
 
 **LBB 3407/00**
 
-Trickle Charge Suitcase
-
-Charging time 14 Hrs
-
-56 Receivers
+ - Trickle Charge Suitcase
+ - Charging time 14 Hrs
+ - 56 Receivers
 
 ![LBB 3409/00](/wp-content/uploads/2011/09/si_s_2.jpg)
 
 **LBB 3409/00**
 
-Charging Cabinet
+ - Charging Cabinet
+ - Table top or wall mounting
+ - Trickle charge
+ - 56 Receivers
 
-Table top or wall mounting
 
-Trickle charge
 
-56 Receivers
-
-**Storage &amp; Charging**
+##Storage &amp; Charging
 
 ![LBB 3410/05](/wp-content/uploads/2011/09/si_2.jpg)
 
@@ -80,7 +69,7 @@ Trickle charge
 
 25 Watt, Tilt angle adjustable
 
-**Transmitter Housing Modules**
+##Transmitter Housing Modules
 
 ![LBB 3420/00](/wp-content/uploads/2011/09/si_t_1.jpg)
 
@@ -88,21 +77,18 @@ Trickle charge
 
 **IR Transmitter Housing**
 
-Analogue &amp; Digital Interface available
-
-Housing Includes Rack and Power supply only
+ - Analogue &amp; Digital Interface available
+ - Housing Includes Rack and Power supply only
 
 ![LBB 3421/00](/wp-content/uploads/2011/09/si_t_2.jpg)
 
 **LBB 3421/00 **
 
-**Channel Module **
+**Channel Module**
 
-4 Channels per Module
-
-Individually Selectable
-
-LCD Channel number indicator
+ - 4 Channels per Module
+ - Individually Selectable
+ - LCD Channel number indicator
 
 ![LBB 3422/10](/wp-content/uploads/2011/09/si_t_3.jpg)
 
@@ -110,11 +96,9 @@ LCD Channel number indicator
 
 **Input Module **
 
-Interface to Analogue Conference Systems
-
-8 Symmetrical Inputs per Module
-
-Automatic floor unused interpretation channels
+ - Interface to Analogue Conference Systems
+ - 8 Symmetrical Inputs per Module
+ - Automatic floor unused interpretation channels
 
 ![LBB 3423/00](/wp-content/uploads/2011/09/si_t_4.jpg)
 
@@ -122,9 +106,8 @@ Automatic floor unused interpretation channels
 
 **Interface Module **
 
-Interface to DCN
-
-Allows Simultaneous Interpretation from DCN
+ - Interface to DCN
+ - Allows Simultaneous Interpretation from DCN
 
 ![LBB 3424/00](/wp-content/uploads/2011/09/si_t_5.jpg)
 
@@ -132,13 +115,11 @@ Allows Simultaneous Interpretation from DCN
 
 **Basic Module **
 
-Provides output BNC to IR Radiators
+ - Provides output BNC to IR Radiators
+ - LED Status Information
+ - Mini IR LED for monitoring
 
-LED Status Information
-
-Mini IR LED for monitoring
-
-**Interpreter Desk**
+##Interpreter Desk
 
 ![LBB 3520/10](/wp-content/uploads/2011/09/si_6.jpg)
 
@@ -171,8 +152,3 @@ Mini IR LED for monitoring
 **Booths **
 
 Contact us for more information
-
-
-
-
-----------------------------------------------------------

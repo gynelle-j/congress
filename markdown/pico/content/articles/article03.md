@@ -1,6 +1,4 @@
-[begin page]
- title: about-us.html
-----------------------------------------------------------
+    about-us.html
 
 **Introduction**
 
@@ -108,8 +106,3 @@ Jen manages the accounts and general office activities. She is based in our Sydn
 **Technicians**
 
 Our technicians are fully trained in both customer service and product knowledge to ensure that conferences run smoothly and without problems. They install the equipment, monitor the proceedings and have the presentation skills that enable them to interact with interpreters and instruct delegates on the use of the equipment.
-
-
-
-
-----------------------------------------------------------

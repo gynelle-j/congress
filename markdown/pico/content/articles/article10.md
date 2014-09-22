@@ -1,28 +1,23 @@
-[begin page]
- title: association-meeting.html
-----------------------------------------------------------
+    title: association-meeting.html
+    ///recount///
 
-**Location:**
+#### Location:
 
-**Hyatt - Canberra**
+Hyatt - Canberra
 
-**Features:**
+#### Features:
 
-Wireless Conference Microphones
+ - Wireless Conference Microphones
+ - Video Conferencing
 
-Video Conferencing
+#### Date:
 
-**Date:**
+June 2009
 
-**June 2009**
+#### Notes:
 
-**Notes:**
-
-Wireless Conference Microphones allowed each table to have a microphone
-
-without waiting for a hand held to be passed.
-
-Videoconferencing using ISDN connected a remote presenter to the meeting.
+ - Wireless Conference Microphones allowed each table to have a microphone without waiting for a hand held to be passed.
+ - Videoconferencing using ISDN connected a remote presenter to the meeting.
 
 **Photo Gallery (click on picture to enlarge)**
 
@@ -37,8 +32,3 @@ Videoconferencing Set-up
 ![3 booths View](wp-content/uploads/2011/09/association-meeting-remote- presenter_s.jpg)
 
 Remote Presenter on screen with other panelists
-
-
-
-
-----------------------------------------------------------

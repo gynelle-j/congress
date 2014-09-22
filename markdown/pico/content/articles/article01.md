@@ -1,32 +1,26 @@
-[begin page]
- title: 58th-fifa-world-congress.html
-----------------------------------------------------------
+    58th-fifa-world-congress.html
+    ///recount///
 
-**Location:**
+#### Location:
 
-**Sydney – Various Venues**
+Sydney – Various Venues
 
-**Features:**
+#### Features:
 
-Total of 3600 Receivers and Headphones.
+ - Total of 3600 Receivers and Headphones
+ - 36 Booths
+ - 8 Separate Venues
+ - Over 6 Days
 
-36 Booths
+#### Date:
 
-8 Separate Venues
+25 – 30 May 2008
 
-Over 6 Days
+#### Notes:
 
-**Date:**
-
-**25 – 30 May 2008**
-
-**Notes:**
-
-Required detailed project management.
-
-Many concurrent events in separate venues.
-
-Culminating in World Congress with 1400 Delegates.
+ - Required detailed project management.
+ - Many concurrent events in separate venues.
+ - Culminating in World Congress with 1400 Delegates.
 
 Category | Booths | Receivers | Microphones | Days | Location | Date |
 ---------|--------|-----------|-------------|------|----------|------|
@@ -39,9 +33,9 @@ Category | Booths | Receivers | Microphones | Days | Location | Date |
 | FIFA Event 7 Governor Macquarie Tower | 5 | 56 | 50 | 1 | Sydney | 25–30 May08 |
 | FIFA Event 7 Grand Hyatt | 3 | 40 | 40 | 1 | Sydney | 25–30 May0 |
 
-**Photo Gallery (click on picture to enlarge)**
+Photo Gallery (click on picture to enlarge)
 
-## Horden Pavilion
+**Horden Pavilion**
 
 [image](picture)
 
@@ -67,7 +61,7 @@ Head Table with NG Microphones
 
 Wall of Flags with Radiators.
 
-## Opera House
+**Opera House**
 
 [image](picture)
 
@@ -80,8 +74,3 @@ Receivers on charge in the Foyer of the Opera House
 [image](/wp-content/uploads/2011/09/remote_interpreting.jpg)
 
 Remote Interpreting.
-
-
-
-
-----------------------------------------------------------

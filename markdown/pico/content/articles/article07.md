@@ -1,5 +1,4 @@
-[begin page]
- title: applications.html
+    applications.html
 ----------------------------------------------------------
 
 [Home](index.html) &gt; [Congress Products ](products.html) &gt; [Infra Red Simultaneous Interpretation](products_si.html) &gt; Applications
@@ -15,8 +14,3 @@
 Slient PA
 
 Download a WORD File Data Sheet on Silent PA (141 kb) [Click Here](Silent%20PA.doc)
-
-
-
-
-----------------------------------------------------------
