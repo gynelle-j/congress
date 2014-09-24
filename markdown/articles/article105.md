@@ -1,54 +1,24 @@
-[begin page]
- title: index.html-p-724.html
-----------------------------------------------------------
+    index.html-p-724.html
 
-**Location:**
+### Location:
+ - Shangri-La CEBU Philippines
 
-**Shangri-La
+### Features:
+ - 3 Booths
+ - 300 Receivers
+ - 80 Microphones
+ - 5 Days
 
-CEBU Philippines**
+### Date:
+ - Nov 08
 
-**Features:**
+### Notes:
+ - Booths sea freighted from Singapore
+ - Electronics air freighted from Australia
+ - Very Large Marquee
 
-3 Booths
-
-300 Receivers
-
-80 Microphones
-
-5 Days
-
-**Date:**
-
-**Nov 08**
-
-**Notes:**
-
-Booths sea freighted from Singapore
-
-Electronics air freighted from Australia
-
-Very Large Marquee
-
-**Photo Gallery (click on picture to enlarge)**
-
-[image](picture)
-
-Left Side of the Room
-
-[image](picture)
-
-Right Side of the Room
-
-[image](picture)
-
-3 booths View
-
-[image](picture)
-
-Front View
-
-
-
-
-----------------------------------------------------------
+### Photo Gallery (click on picture to enlarge)
+[image](picture) Left Side of the Room
+[image](picture) Right Side of the Room
+[image](picture) 3 booths View
+[image](picture) Front View

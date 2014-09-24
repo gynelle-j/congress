@@ -32,41 +32,14 @@ Category | Booths | Receivers | Microphones | Days | Location | Date |
 Photo Gallery (click on picture to enlarge)
 
 ## Horden Pavilion
-
-[image](picture)
-
-Close up of the 3 booths on the left
-
-[image](picture)
-
-Close up of the 4 booths on the right
-
-[image](picture)
-
-Looking from the stage to the back of the room
-
-[image](picture)
-
-Wide View of all booths on Stage at Rear of room
-
-[image](picture)
-
-Head Table with NG Microphones
-
-[image](picture)
-
-Wall of Flags with Radiators.
+[image](picture)Close up of the 3 booths on the left
+[image](picture)Close up of the 4 booths on the right
+[image](picture)Looking from the stage to the back of the room
+[image](picture)Wide View of all booths on Stage at Rear of room
+[image](picture)Head Table with NG Microphones
+[image](picture)Wall of Flags with Radiators.
 
 ### Opera House
-
-[image](picture)
-
-Receivers on charge in the Foyer of the Opera House
-
-[image](/wp-content/uploads/2011/09/receivers_headph ones.jpg)
-
-1400 Receivers and Headphones placed on the seats,
-
-[image](/wp-content/uploads/2011/09/remote_interpreting.jpg)
-
-Remote Interpreting.
+[image](picture)Receivers on charge in the Foyer of the Opera House
+[image](/wp-content/uploads/2011/09/receivers_headph ones.jpg)1400 Receivers and Headphones placed on the seats,
+[image](/wp-content/uploads/2011/09/remote_interpreting.jpg)Remote Interpreting.
