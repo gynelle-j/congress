@@ -1,6 +1,4 @@
-[begin page]
- title: index.html-p-718.html
-----------------------------------------------------------
+    index.html-p-718.html
 
 **Location:**
 

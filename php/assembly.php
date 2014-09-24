@@ -35,7 +35,64 @@ echo '
 				<img src="./img/logo.png" class="img-responsive" />
 			</div>
 
-			<!-- normal nav for large devices -->
+			<ul class="nav nav-pills nav-stack-on-break">
+				<li class="dropdown">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+						Products <span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu" role="menu">
+						<li><a href="##">Audience Response Voting</a></li>
+						<li><a href="##">Conference microphones</a></li>
+						<li><a href="##">Product Sales &amp; Service</a></li>
+						<li><a href="##">Silent Auction</a></li>
+						<li><a href="##">Silent PA - Exhibition Audio</a></li>
+						<li><a href="##">Simultaneous Interpretation Equipment</a></li>
+						<li><a href="##">Simultaneous Translation Equipment</a></li>
+						<li><a href="##">Tour Guide / Whisper Systems</a></li>
+					</ul>
+				</li>
+				<li class="dropdown">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+						Our Work <span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu" role="menu">
+						<li><a href="##">Reference Gallery</a></li>
+						<li><a href="##">Testimonials</a></li>
+					</ul>
+				</li>
+				<li class="dropdown">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+						About <span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu" role="menu">
+						<li><a href="##">Company Bio</a></li>
+						<li><a href="##">Our Team</a></li>
+						<li><a href="##">Partners</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="#">
+						Terms &amp; Conditions
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						Contact
+					</a>
+				</li>
+			</ul>
+
+
+
+		</header>
+	</div>
+
+
+
+';
+}
+/*
+			<!-- normal nav for large devices 
 			<nav id="cssmenu" class="col-md-10 col-xs-12">
 				<ul>
 					<li class="active"><a href="index.html">Home</a></li>
@@ -103,10 +160,10 @@ echo '
 						<li><a href="#">Terms &amp; Conditions</a></li>
 						<li><a href="#">Contact</a></li>
 					</ul>
-					<li class="nav-menu-collapsed-button"><a><span class="glyphicon glyphicon-list"></span></a></li><!-- the little button when your screen is small -->
+					<li class="nav-menu-collapsed-button"><a><span class="glyphicon glyphicon-list"></span></a></li>
 			</nav>
-
-			<!-- bootstrap nav for small devices -->
+-->
+			<!-- bootstrap nav for small devices 
 			<nav class="navbar navbar-default nav-small-device" role="navigation">
 			  <div class="container-fluid">
 			    <div class="navbar-header">
@@ -149,18 +206,11 @@ echo '
 						<li><a href="#" rel="#">Terms &amp; Conditions</a></li>
 						<li><a href="#" rel="#">Contact</a></li>
 					</ul>
-			    </div><!-- /.navbar-collapse -->
-			  </div><!-- /.container-fluid -->
+			    </div>
+			  </div>
 			</nav>
-
-		</header>
-	</div>
-
-
-
-';
-}
-
+-->
+*/
 
 ###########################
 # this is the page footer #
