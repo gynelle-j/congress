@@ -1,28 +1,28 @@
-[begin page]
- title: index.html-p-779.html
+
+    index.html-p-779.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Ritz Carlton Singapore**
+## Ritz Carlton Singapore
 
-**Features:**
+## Features:
 
 1 Booth
 
 30 Receivers
 
-**Date:**
+## Date:
 
-**September 2010**
+## September 2010
 
-**Notes:**
+## Notes:
 
 Small Room.
 
 Integration with Hotel AV system
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [ ![ ](wp-content/uploads/2011/09/sanjang10_1_s.jpg)](wp-content/uploads/2011/09/sanjang10_1_l.jpg)
 

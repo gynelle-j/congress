@@ -1,5 +1,5 @@
-[begin page]
- title: index.html-p-1490.html
+
+    index.html-p-1490.html
 ----------------------------------------------------------
 
 We have undertaken a huge number of events, the following a few where we have some photo’s to show. We have a wide range of clients and would be delighted to provide contact details should you wish to talk directly to any number of our satisfied clients.

@@ -1,12 +1,12 @@
-[begin page]
- title: index.html-p-722.html
+
+    index.html-p-722.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Sydney – Various Venues**
+## Sydney – Various Venues
 
-**Features:**
+## Features:
 
 Total of 3600 Receivers and Headphones.
 
@@ -16,11 +16,11 @@ Total of 3600 Receivers and Headphones.
 
 Over 6 Days
 
-**Date:**
+## Date:
 
-**25 – 30 May 2008**
+## 25 – 30 May 2008
 
-**Notes:**
+## Notes:
 
 Required detailed project management.
 
@@ -28,7 +28,7 @@ Many concurrent events in separate venues.
 
 Culminating in World Congress with 1400 Delegates.
 
-**Category** **Booths** **Receivers** **Microphones** **Days** **Location** **Date**
+## Category** **Booths** **Receivers** **Microphones** **Days** **Location** **Date
 
 FIFA Event 1- Opera House
 
@@ -132,7 +132,7 @@ Sydney
 
 25–30 May08
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 ## Horden Pavilion
 

@@ -1,12 +1,12 @@
-[begin page]
- title: index.html-p-775.html
+
+    index.html-p-775.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Hunter Valley, New South Wales**
+## Hunter Valley, New South Wales
 
-**Features:**
+## Features:
 
 1 Booth, English - Mandarin
 
@@ -14,11 +14,11 @@
 
 2 days
 
-**Date:**
+## Date:
 
-**Nov 2010**
+## Nov 2010
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [ ![ ](wp-content/uploads/2011/09/cacmsc10_1_s.jpg)](wp-content/uploads/2011/09/cacmsc10_1_l.jpg)
 

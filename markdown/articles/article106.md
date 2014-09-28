@@ -1,26 +1,26 @@
-[begin page]
- title: index.html-p-726.html
+
+    index.html-p-726.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Singapore**
+## Singapore
 
-**Features:**
+## Features:
 
 Installation and Commissioning
 
 of a Conference Microphone System
 
-**Date:**
+## Date:
 
-**2009**
+## 2009
 
-**Notes:**
+## Notes:
 
 This started as a simple Conference Microphone Installation. But when Crocs (the footwear people) discovered our extensive AV experience they requested that we integrate the system with their Videoconferencing system and add additional lapel and hand held microphones, along with speakers and sound system for the room.
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [ ![  ](wp-content/uploads/2011/09/crocs-boardroom_s.jpg)](wp-content/uploads/2011/09/crocs-boardroom_l.jpg)
 

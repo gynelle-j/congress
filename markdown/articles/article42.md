@@ -1,12 +1,12 @@
-[begin page]
- title: iiss-bahrain-office-fit-out.html
+
+    iiss-bahrain-office-fit-out.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Financial Harbour - Bahrain**
+## Financial Harbour - Bahrain
 
-**Features:**
+## Features:
 
 2 x Fixed Interpreter Booths
 
@@ -20,15 +20,15 @@
 
 56 Receivers with Charging Case
 
-**Date:**
+## Date:
 
-**May 2010**
+## May 2010
 
-**Notes:**
+## Notes:
 
 Partnering with the AV installation Company we provided the Microphones and the Simultaneous Interpretation system. Supply, Installation and Commissioning.
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [ ![ ](wp-content/uploads/2011/09/IISS_office10_ir_s.jpg)](wp-content/uploads/2011/09/IISS_office10_ir_l.jpg)
 

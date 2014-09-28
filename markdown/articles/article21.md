@@ -1,14 +1,14 @@
-[begin page]
- title: ccfics-17-codex.html
+
+    ccfics-17-codex.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
 **Shangri-La
 
 CEBU Philippines**
 
-**Features:**
+## Features:
 
 3 Booths
 
@@ -18,11 +18,11 @@ CEBU Philippines**
 
 5 Days
 
-**Date:**
+## Date:
 
-**Nov 08**
+## Nov 08
 
-**Notes:**
+## Notes:
 
 Booths sea freighted from Singapore
 
@@ -30,7 +30,7 @@ Electronics air freighted from Australia
 
 Very Large Marquee
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [image](picture)
 

@@ -1,5 +1,5 @@
-[begin page]
- title: dome-camera-video-microphone-integration.html
+
+    dome-camera-video-microphone-integration.html
 ----------------------------------------------------------
 
 [ ![Congress Rental Network](/wp-content/uploads/2011/09/113.jpg)](/wp-content/uploads/2011/09/113.jpg)
@@ -20,7 +20,7 @@ Applications for this dome camera integration with microphones include: Provisio
 
 This system integrates standard Bosch dome cameras along with a video switcher &amp; Bosch conference microphones
 
-**Introduction**
+## Introduction
 
 [ ![Introduction](/wp-content/uploads/2011/09/113.jpg)](/wp-content/uploads/2011/09/113.jpg)
 
@@ -34,15 +34,15 @@ It takes less that ½ a second to locate and focus on a delegate.
 
 The system can be set to show a wide angle shot of the head table or of the room whilst the camera rotates so that you don’t have to see the camera movement
 
-**Applications**
+## Applications
 
-**Large Rooms**
+## Large Rooms
 
 [ ![Large Rooms](/wp-content/uploads/2011/09/114.jpg)](/wp-content/uploads/2011/09/114.jpg)
 
 Where delegates are widely dispersed and a long way from each other, communication can be improved through having the delegate facial expressions shown on a large screen or on Plasma screens placed in front of delegates.
 
-**Video Conferencing**
+## Video Conferencing
 
 [ ![Video Conferencing](/wp-content/uploads/2011/09/27.jpg)](/wp-content/uploads/2011/09/27.jpg)
 
@@ -50,7 +50,7 @@ This system can be seamlessly integrated into a Videoconferencing system. The Co
 
 Our Video Tracking Conferencing system eliminates acoustics problems created through widely spaced delegates and annoying background noise. This is achieved by managing limiting the number of open microphones (The more open microphones the more annoying background noise). We also automatically zoom in on the person speaking, providing a guaranteed close up of that person so that their facial expressions are crystal clear.
 
-**Simultaneous Interpretation – Remote Interpreting**
+## Simultaneous Interpretation – Remote Interpreting
 
 [ ![Simultaneous Interpretation – Remote Interpreting](/wp-content/uploads/2011/09/115-249x300.jpg)](/wp-content/uploads/2011/09/115.jpg)
 
@@ -62,7 +62,7 @@ In addition to the Video Tracking Microphone system which provides the close up 
 
 These support video technologies greatly enhance the service to the Interpreters and therefore the quality of the Interpretation.
 
-**Media Rooms**
+## Media Rooms
 
 In cases where the media are excluded from the main Plenary, for security or other reasons, they can be accommodated in a separate room. The media monitoring of the meeting can then occur without the media entering the room.
 

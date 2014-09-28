@@ -1,10 +1,10 @@
     index.html-p-718.html
 
-**Location:**
+## Location:
 
-**Ritz Carlton - Manama Bahrain**
+## Ritz Carlton - Manama Bahrain
 
-**Features:**
+## Features:
 
 Plenary
 
@@ -24,11 +24,11 @@ Breakouts
 
 2 booths in each area
 
-**Date:**
+## Date:
 
-**December 2007**
+## December 2007
 
-**Notes:**
+## Notes:
 
 Complex event
 
@@ -36,7 +36,7 @@ Overnight bump in of 210 Microphones
 
 2x Video dome integration with microphones in each of 4 breakout areas. Enables auto-tracking of delegate speaking.
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [ ![Delegates in the Plenary](wp-content/uploads/2011/09/delegates_plenary.jpg )](wp-content/uploads/2011/09/delegates_plenary_large.jpg)
 

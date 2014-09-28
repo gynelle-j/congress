@@ -1,26 +1,26 @@
-[begin page]
- title: index.html-p-1694.html
+
+    index.html-p-1694.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Test 1,**
+## Test 1,
 
 Australia
 
-**Features:**
+## Features:
 
 100+ Microphones
 
-**Date:**
+## Date:
 
-**March 2010**
+## March 2010
 
-**Notes:**
+## Notes:
 
 This event used a combination of Wireless and Wired NG Conference Microphones
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [ ![ ](wp-content/uploads/2011/09/merchant_bank__room_s.jpg)](wp-content/uploads/2011/09/merchant_bank__room_l.jpg)
 

@@ -1,5 +1,5 @@
-[begin page]
- title: index.html-p-450.html
+
+    index.html-p-450.html
 ----------------------------------------------------------
 
 Our IML Voting Communicator, IML Audience Response, IML Polling &amp; IML Text interactive devices have proven software for a diverse range of events.
@@ -12,7 +12,7 @@ This reliable and unique state of the art technology audience response system of
 
 In addition, conference sessions can benefit from this electronic response system, for example, by letting audience members use their voting device as a hand held microphone to talk to the presenter and their fellow audience members, or text responses to a moderator who can then ask questions of the panel.
 
-**Other unique capabilities**
+## Other unique capabilities
 
  - Text Responses, Text Voting, text message voting, SMS Voting and SMS polling from audience members. Can be shown direct to screen or managed through our software prior to being sent to a moderator. Learn more about [
 
@@ -36,7 +36,7 @@ in their own time and to be downloaded later.
 
 ![OCBC bank](http://congressrental.asia/audience_response_voting_images/advanc e_solution_1.jpg)
 
-**VIEWS FROM OUR CLIENT**
+## VIEWS FROM OUR CLIENT
 
 	> I was pleased with the professional services and responsiveness from Congress Rental. Their producer, Joan, guided us on how we could use the system right from the preparation stage. On both days of the event, they arrived ahead of schedule and set-up and integrated their audience response system seamlessly with our appointed AV vendor. The event went smoothly and I would recommend them to anyone who is planning to use audience response system for an event.
 

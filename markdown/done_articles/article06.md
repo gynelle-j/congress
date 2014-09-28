@@ -1,6 +1,5 @@
-[begin page]
- title: analogue-infra-red.html
-----------------------------------------------------------
+Analogue Infra Red
+==================
 
 ### Receivers
 
@@ -129,8 +128,3 @@
 ### Booths 
 
 Contact us for more information
-
-
-
-
-----------------------------------------------------------

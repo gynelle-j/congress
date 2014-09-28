@@ -1,22 +1,22 @@
-[begin page]
- title: index.html-p-767.html
+
+    index.html-p-767.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Singapore**
+## Singapore
 
-**Features:**
+## Features:
 
 50 Communicators
 
 450 Smart Cards
 
-**Date:**
+## Date:
 
-**December 2010**
+## December 2010
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [ ![ ](wp-content/uploads/2011/09/pistorio10_1_s.jpg)](wp-content/uploads/2011/09/pistorio10_1_l.jpg)
 

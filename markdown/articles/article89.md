@@ -1,8 +1,8 @@
-[begin page]
- title: index.html-p-621.html
+
+    index.html-p-621.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
 **Singapore**    **Features:**    1 Booth
 
@@ -10,13 +10,13 @@
 
 250 IML Communicators
 
-**Date:**
+## Date:
 
 **Sept 06**    **Notes:**    Simple Straight Forward 1 Day Corporate Event Late night Bump in.
 
 Fast Bump out
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [image](wp-content/uploads/2011/09/stage.jpg)
 

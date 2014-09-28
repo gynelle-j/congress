@@ -1,5 +1,5 @@
-[begin page]
- title: basic-audience-response-solution.html
+
+    basic-audience-response-solution.html
 ----------------------------------------------------------
 
 [image](picture)
@@ -18,9 +18,9 @@ The voting results can be delivered to match a corporate colour scheme and text 
 
 At the end of the event, the results are available in PowerPoint format and standard Excel results are provided for further analysis at the client’s leisure.
 
-**Technical Specification**
+## Technical Specification
 
-**Keypads**
+## Keypads
 
 [ ![Keypads](/wp-content/uploads/2011/09/119-225x300.jpg)](/wp-content/uploads/2011/09/119.jpg)
 
@@ -40,7 +40,7 @@ RF multi-directional
 
 Lanyard fitting for branding
 
-**Base Station**
+## Base Station
 
 [ ![Base Station](/wp-content/uploads/2011/09/211-300x243.jpg)](/wp-content/uploads/2011/09/211.jpg)
 
@@ -62,21 +62,21 @@ Fast transmission protocol (patents pending)
 
 Rugged, reliable, dependable
 
-**Special Application**
+## Special Application
 
-**Attendant Call System**
+## Attendant Call System
 
 This audience response system can be configured as an Attendant Call System, such as those used by Heads of States or VIPs to privately call their support staff without leaving their seat.
 
 Due to its small credit card size and light weight, the wireless keypad is subtle and unobtrusive.
 
-**How does it work?**
+## How does it work?
 
 The VIP sends an alert back to a base-station by pressing any key on the device. This in turn triggers an alert to a laptop that controls the system.
 
 The laptop displays the ID number of the keypad, thereby indicating which VIP requires assistance.
 
-**Specific Solution**
+## Specific Solution
 
 Congress Rental provided such a system for APEC Ministers Meeting Sydney.
 

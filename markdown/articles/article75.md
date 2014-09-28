@@ -1,8 +1,8 @@
-[begin page]
- title: index.html-p-351.html
+
+    index.html-p-351.html
 ----------------------------------------------------------
 
-**Wireless Discussion System**
+## Wireless Discussion System
 
 [ ![Wireless Discussion System](/wp-content/uploads/2011/10/meetingpeople.jpg)](/wp-content/uploads/2011/09/3.png)
 
@@ -12,7 +12,7 @@ Multi- function rooms, Conferences and seminars can be setup with these wireless
 
 Boardrooms and VIP tables can now be set-up with Wireless Conference Microphones eliminating unsightly cables and connections.
 
-**Features**
+## Features
 
 [ ![Wireless Discussion System](/wp-content/uploads/2011/09/14-300x225.jpg)](/wp-content/uploads/2011/09/14.jpg)
 
@@ -36,41 +36,41 @@ Boardrooms and VIP tables can now be set-up with Wireless Conference Microphones
 
 [ ![microphone](/wp-content/uploads/2011/09/91-300x244.jpg)](/wp-content/uploads/2011/09/91.jpg)
 
-**Quick set-up**
+## Quick set-up
 
 Designed to be the most flexible discussion system available, the Bosch DCN Wireless Conference Microphone Discussion System offers the perfect solution for challenging locations such as multiuser venues and historical buildings. For multi-use venues, the wireless system allows owners to service customers better, easily and more effectively. With minimal time required for set-up or break-down, multiple events can take place in sequence, meaning better and more effective use of space.
 
-**No impact on location**
+## No impact on location
 
 For historical locations, the benefits can be even more pronounced. A discussion system can be installed, rearranged and operated with virtually no impact on the integrity of the historical location. One no longer has to worry about damaging antique materials or ruining the aesthetics of a grand hall. No cables have to be laid or holes drilled. The entire system has been designed to be beautiful and unobtrusive so that all participants can focus on the event at hand.
 
-**The WAP**
+## The WAP
 
 With the User in Mind
 
-**Easily adaptable**
+## Easily adaptable
 
 [ ![Congress Rental Network](/wp-content/uploads/2011/09/15-300x199.jpg)](/wp-content/uploads/2011/09/15.jpg)
 
 The DCN Wireless Conference Microphone Discussion System has been intelligently designed to be as user friendly as possible, whether the user is a system operator, chairman or participant. Discussion units are comfortable and intuitive to use. The system is built with high end finishing materials, giving it a timeless and discrete look. The design includes changeable rims (charcoal black, mat or glossy metal and silver), meaning that you can modify each discussion unit to better fi t with its environment.
 
-** Single access point **
+##  Single access point 
 
 [ ![Congress Rental Network](/wp-content/uploads/2011/09/4-300x198.png)](/wp-content/uploads/2011/09/4.png)
 
 The award-winning Wireless Access Point (WAP) provides a consistently strong connection for a range of approximately 30m (100ft). The WAP can be positioned centrally for optimal coverage or easily moved to the most convenient and discreet location in the room.
 
-**Feeling secure**
+## Feeling secure
 
 The system is protected against interference from mobile phones and other equipment making use of WiFi, Blue-Tooth or microwave signals. A proprietary protocol protects against 3 rd party eaves dropping.
 
-**No interruptions **
+## No interruptions 
 
 Battery functionality has been designed with simplicity and effectiveness in mind. The system features high capacity and easily removable chargeable battery packs, as well as a dynamic overview of battery consumption. To conserve power consumption during longer breaks, each unit is capable of a patent-pending &ldquo;sleep mode&rdquo;. Conferences need never again be interrupted because of low battery power.
 
-**Simple Standalone or Control Software**
+## Simple Standalone or Control Software
 
-**Simple, yet scalable**
+## Simple, yet scalable
 
 [ ![Congress Rental Network](/wp-content/uploads/2011/09/16-300x225.jpg)](/wp-content/uploads/2011/09/16.jpg)
 
@@ -78,7 +78,7 @@ Never has a wireless conference microphone discussion system been so easy to use
 
 Operator / Technician managing the microphones remotely.
 
-**Congress Control Software, intuitive and user-friendly**
+## Congress Control Software, intuitive and user-friendly
 
 [ ![Congress Rental Network](/wp-content/uploads/2011/09/17-300x225.png)](/wp-content/uploads/2011/09/17.png)
 
@@ -86,13 +86,13 @@ The congress control software allows an operator a great degree of control over 
 
 Screen shot of room layout
 
-**Absolutely safe**
+## Absolutely safe
 
 All signals within the DCN Wireless System are digitally protected against tapping or eavesdropping. The intelligent system even features automatic subscription blocking. Further subscriptions are prevented, even if the operator forgets to close the subscription process.
 
-**Functionality**
+## Functionality
 
-**Example 1 Wireless Conference Microphone Discussion System**
+## Example 1 Wireless Conference Microphone Discussion System
 
 [ ![Example 1](/wp-content/uploads/2011/09/18-300x197.jpg)](/wp-content/uploads/2011/09/18.jpg)
 
@@ -108,7 +108,7 @@ Bosch Wireless Access Point (mounted on tripod)
 
 Bosch Dual Wireless Conference Microphone Discussion Unit (In this case sharing 1 between 2)
 
-**Example 2 Electronic Voting**
+## Example 2 Electronic Voting
 
 [ ![Example 2](/wp-content/uploads/2011/09/19-300x216.jpg)](/wp-content/uploads/2011/09/19.jpg)
 
@@ -126,7 +126,7 @@ Bosch Wireless Access Point
 
 Bosch Battery Pack Charger
 
-**Example 3 Interpretation**
+## Example 3 Interpretation
 
 [ ![Example 3](/wp-content/uploads/2011/09/20-300x180.png)](/wp-content/uploads/2011/09/20.png)
 
@@ -146,7 +146,7 @@ Bosch Integrus digital infrared language distribution system
 
 Infrared radiator
 
-**Example 4 - Camera Control Introduction**
+## Example 4 - Camera Control Introduction
 
 [ ![Example 4](/wp-content/uploads/2011/09/24-300x198.jpg)](/wp-content/uploads/2011/09/24.jpg)
 
@@ -164,7 +164,7 @@ Personal computer with Bosch DCN Control Software
 
 Bosch Battery Pack Charger
 
-**Equipment Options**
+## Equipment Options
 
 Can function as delegate or chairman unit
 
@@ -182,7 +182,7 @@ Auto switch-off when out of range
 
 [ ![microphone](/wp-content/uploads/2011/09/92-300x244.jpg)](/wp-content/uploads/2011/09/92.jpg)
 
-**Wireless Conference Microphone Discussion Units**
+## Wireless Conference Microphone Discussion Units
 
 Same functionality as wireless discussion unit
 
@@ -194,7 +194,7 @@ Can be used by single or dual delegate
 
 [ ![microphone](/wp-content/uploads/2011/09/25-300x199.jpg)](/wp-content/uploads/2011/09/25.jpg)
 
-**Wireless Conference Microphone Dual Discussion Unit**
+## Wireless Conference Microphone Dual Discussion Unit
 
 Same functionality as wireless discussion unit
 
@@ -212,7 +212,7 @@ Serial ports for PC and camera control
 
 [ ![Wireless Central Control Unit](/wp-content/uploads/2011/09/26-300x120.jpg)](/wp-content/uploads/2011/09/26.jpg)
 
-**Wireless Central Control Unit**
+## Wireless Central Control Unit
 
 Compact and elegant
 
@@ -228,7 +228,7 @@ Typical range of 30 m (100 ft)
 
 [ ![Wireless Access Point](/wp-content/uploads/2011/09/261-300x198.jpg)](/wp-content/uploads/2011/09/261.jpg)
 
-**Wireless Access Point**
+## Wireless Access Point
 
 Synoptic room overview for monitoring and controlling microphones
 
@@ -238,7 +238,7 @@ Real-time voting results displayed in Microsoft PowerPoint®
 
 On-screen help in multiple languages
 
-**Control Software**
+## Control Software
 
 [ ![Control Software](/wp-content/uploads/2011/09/171-300x225.png)](/wp-content/uploads/2011/09/171.png)
 
@@ -252,13 +252,13 @@ Built-in microprocessor controls charging cycle
 
 Lithium-ion technology
 
-**Removable Battery Pack**
+## Removable Battery Pack
 
 [ ![Removable Battery Pack](/wp-content/uploads/2011/09/21.jpg)](/wp-content/uploads/2011/09/21.jpg) [ ![Removable Battery Pack](/wp-content/uploads/2011/09/17-300x300.jpg)](/wp-content/uploads/2011/09/17.jpg)
 
 For Flight cases, Microphones, Rims and other Wireless accessories, please consult the Bosch Wireless Discussion System Data book
 
-**Accessories**
+## Accessories
 
 [ ![Accessories](/wp-content/uploads/2011/09/41-300x283.jpg)](/wp-content/uploads/2011/09/41.jpg) [ ![Accessories](/wp-content/uploads/2011/09/31-249x300.jpg)](/wp-content/uploads/2011/09/31.jpg)
 

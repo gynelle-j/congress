@@ -1,14 +1,14 @@
-[begin page]
- title: index.html-p-218.html
+
+    index.html-p-218.html
 ----------------------------------------------------------
 
 Location:
 
-**Government House – Sydney**    **Press Conference at Intercontinental Hotel**
+## Government House – Sydney**    **Press Conference at Intercontinental Hotel
 
-**Features:**
+## Features:
 
-**Government House (Ministerial Meeting)**
+## Government House (Ministerial Meeting)
 
 3 Booths
 
@@ -28,9 +28,9 @@ and working meetings)**
 
 Date:
 
-**Jan 06**
+## Jan 06
 
-**Notes:**
+## Notes:
 
 Multiple Venues
 
@@ -38,7 +38,7 @@ Multiple Rooms
 
 Heritage Building – Sensitivity to both the aesthetics of the building and its heritage nature.
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 ## Government House - Ministerial Meeting
 

@@ -1,5 +1,5 @@
-[begin page]
- title: dcn.html
+
+    dcn.html
 ----------------------------------------------------------
 
 The Digital Congress Network DCN system comprises
@@ -38,9 +38,9 @@ Discussion Microphones and Concentus Microphones. Ideal for large venues or smal
 
 ![Wired Distribution Systems](/wp-content/uploads/2011/09/dcn_3.jpg)
 
-**Wired Distribution Systems**
+## Wired Distribution Systems
 
-**Fixed Installations**
+## Fixed Installations
 
 Contact us for more detailed information.
 
@@ -48,11 +48,11 @@ Contact us for more detailed information.
 
 ![Software Operator Control](/wp-content/uploads/2011/09/DCN-collage-198W.jpg)
 
-**Software**
+## Software
 
-**Operator Control**
+## Operator Control
 
-**Complex Installations**
+## Complex Installations
 
 Contact us for more detailed information.
 

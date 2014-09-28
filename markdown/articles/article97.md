@@ -1,8 +1,8 @@
-[begin page]
- title: index.html-p-697.html
+
+    index.html-p-697.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
 **Darwin**    **Features:**    4 Booths
 
@@ -10,13 +10,13 @@
 
 250 Receivers
 
-**Date:**
+## Date:
 
 **May 07**    **Notes:**    Location –Parliament House Darwin. Heritage Room, but very small for the number of people.
 
 Booths located very close to delegates. Delegates were not disturbed because booths are truly soundproof.
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [image](wp-content/uploads/2011/09/apec_meeting_large-300x225.jpg)
 

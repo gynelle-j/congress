@@ -1,5 +1,5 @@
-[begin page]
- title: audience-response-voting.html
+
+    audience-response-voting.html
 ----------------------------------------------------------
 
 [ ![Audience Response Systems](/wp-content/uploads/2011/09/13.png)](/wp-content/uploads/2011/09/13.png)
@@ -10,7 +10,7 @@ Audience response is a proven method to help increase learning, retain knowledge
 
            
 
-**Benefits of Using Audience Response Systems**
+## Benefits of Using Audience Response Systems
 
  - Improve attentiveness and engagement
  - Attain buy-in through the use of the audiences &ldquo;own&rdquo; data
@@ -25,7 +25,7 @@ Audience response is a proven method to help increase learning, retain knowledge
  - Lower your carbon footprint
  - Track individual responses, where required
 
-**How does it work?**
+## How does it work?
 
 [ ![Quiz Night](/wp-content/uploads/2011/09/Quiz- Night-cropped-150ppi-300x201.jpg)](/wp-content/uploads/2011/09/Quiz-Night-cropped-150ppi.jpg)
 
@@ -40,7 +40,7 @@ A producer will be on-site to operate the chosen audience response solution.
 
 At the end of the event, detailed voting results will be provided for client to perform further analysis.
 
-**What do delegates using Audience Response Systems say?**
+## What do delegates using Audience Response Systems say?
 
 &ldquo;When I was given the handset, I felt that my opinion was being valued.&rdquo;
 
@@ -48,7 +48,7 @@ At the end of the event, detailed voting results will be provided for client to 
 
 &ldquo;It helps us, the participants, to focus on the results voted on when we are having a discussion&rdquo;
 
-**What do organisers who use Audience Response Systems say?**
+## What do organisers who use Audience Response Systems say?
 
 &ldquo;It is more interesting for the audience as they are able to see how the votes go.&rdquo;
 

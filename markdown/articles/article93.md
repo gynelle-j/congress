@@ -1,10 +1,10 @@
-[begin page]
- title: index.html-p-661.html
+
+    index.html-p-661.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Coolum, Queensland**
+## Coolum, Queensland
 
 **Features:**    **Remote Interpretation**    8 Booths
 
@@ -18,15 +18,15 @@ Press Conference
 
 250 Receivers
 
-**Date:**
+## Date:
 
-**Aug 07**
+## Aug 07
 
 **Notes:**    Interpreters located 60 metres from the Ministers meeting room.
 
 Remote interpreting used for both the Ministers Retreat (Plenary) and then immediately after for the press conference.
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [image](wp-content/uploads/2011/09/apec_financial_meeting1.jpg)
 

@@ -1,5 +1,5 @@
-[begin page]
- title: index.html-p-484.html
+
+    index.html-p-484.html
 ----------------------------------------------------------
 
 To help sponsors get a return on their investments for the technology, there are many branding opportunities.
@@ -24,7 +24,7 @@ Example of Branding on smart card
 
 We are happy to support our clients on sponsorship pitches to help them win sponsorship for their electronic auction and pledge technology. Once a sponsor has experienced the system first-hand and see the value in utilising this technology, they will be as excited as you are.
 
-**Key Benefits:**
+## Key Benefits:
 
 Increase your return on investment by creating new and exciting sponsorship opportunities
 

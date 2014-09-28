@@ -1,5 +1,5 @@
-[begin page]
- title: index.html-p-386.html
+
+    index.html-p-386.html
 ----------------------------------------------------------
 
 [ ![Screen only](/wp-content/uploads/2011/09 /Screen-only-300x218.jpg)](/wp-content/uploads/2011/09/Screen-only.jpg)
@@ -18,7 +18,7 @@ A delegate microphone accidentally left on can be remotely switched off.
 
 Managing the time allocated to delegates is easy.
 
-**How it works!**
+## How it works!
 
 [ ![mics, dome software ctrl cropped](/wp-content/uploads/2011/09/mics-dome-sftware-ctrl-cropped- 300x233.jpg)](/wp-content/uploads/2011/09/mics- dome-sftware-ctrl-cropped.jpg)
 

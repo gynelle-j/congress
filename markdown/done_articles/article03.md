@@ -1,4 +1,5 @@
-    about-us.html
+About Us
+========
 
 # Introduction
 

@@ -1,20 +1,20 @@
-[begin page]
- title: index.html-p-616.html
+
+    index.html-p-616.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
 **Parramatta - Sydney**    **Features:**    1 Booth
 
 50 Receivers
 
-**Date:**
+## Date:
 
 **Sept 05** **Notes:**    Community Organization.
 
 Small event, showing that we do large and small events and pay attention to detail irrespective of event / customer size.
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [image](wp-content/uploads/2011/09/booth_prior.jpg)
 

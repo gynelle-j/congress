@@ -1,20 +1,20 @@
-[begin page]
- title: index.html-p-783.html
+
+    index.html-p-783.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Brisbane**
+## Brisbane
 
-**Features:**
+## Features:
 
 4 zone Silent PA
 
-**Date:**
+## Date:
 
-**August 2010**
+## August 2010
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [ ![ ](wp-content/uploads/2011/09/msft10_screen3_s.jpg)](wp-content/uploads/2011/09/msft10_screen3_l.jpg)
 

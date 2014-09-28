@@ -1,20 +1,20 @@
-[begin page]
- title: east-timor-%80%93-foreign-affairs-department- training-session.html
+
+    east-timor-%80%93-foreign-affairs-department- training-session.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**East Timor**
+## East Timor
 
-**Features:**
+## Features:
 
 1 week training of local staff
 
-**Date:**
+## Date:
 
 **March 2009**    
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [ ![ ](wp-content/uploads/2011/09/east-timor-training_s.jpg)](wp-content/uploads/2011/09/east-timor-training_l.jpg)
 

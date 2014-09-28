@@ -1,8 +1,8 @@
-[begin page]
- title: index.html-p-728.html
+
+    index.html-p-728.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
 **Ritz Carlton Hotel,**    Bahrain
 
@@ -24,7 +24,7 @@
 
  -  2 Dome Cameras (Automatic switching)
 
-**Date:**
+## Date:
 
 **December 2009**    **Notes:**   
 
@@ -36,7 +36,7 @@ On the Sunday morning the 4x Breakout rooms are used, each with about 30x microp
 
 In each of the rooms there are 2x Dome cameras and these automatically move to the person speaking, so that they can be seen on plasma screens located in the room.
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 ![  ](wp-content/uploads/2011/09/manama-d09-al-arabiya_s.jpg)
 

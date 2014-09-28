@@ -1,5 +1,5 @@
-[begin page]
- title: index.html-p-25.html
+
+    index.html-p-25.html
 ----------------------------------------------------------
 
 * Denotes a mandatory field

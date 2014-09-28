@@ -1,8 +1,8 @@
-[begin page]
- title: index.html-p-626.html
+
+    index.html-p-626.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
 **Raffles Hotel, Singapore**    **Features:**    5 Booths in each of 2 areas
 
@@ -10,7 +10,7 @@
 
 16 NG Conference Microphones
 
-**Date:**
+## Date:
 
 **Sept 06**    **Notes:**    Complete solution including AV, and all secretariat services (Provided through partners)
 
@@ -18,7 +18,7 @@ High Security Event
 
 High Profile
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [image](wp-content/uploads/2011/09/ballroom.jpg)
 

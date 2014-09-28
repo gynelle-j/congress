@@ -1,30 +1,30 @@
-[begin page]
- title: dcn-ng-wired-conference-microphones.html
+
+    dcn-ng-wired-conference-microphones.html
 ----------------------------------------------------------
 
 We provide Microphones as Cross Hire / Dry Hire or Full Service Including Installation. The type of Conference microphone / Table Microphone / Push to Talk Microphone that you require is dependent on your application and budget.
 
 [ ![Microphone](/wp-content/uploads/2011/09/101-300x288.jpg)](/wp-content/uploads/2011/09/101.jpg)
 
-**Cross Hire**
+## Cross Hire
 
 We provide Cross Hire / Dry Hire to other Audio Visual companies, Rental Companies, Staging Companies and Advanced End Users. We provide the microphones, central control unit and cables to suit your requirement. We also include a set of summarized user instructions, for any problem solving required.
 
-**Full Service**
+## Full Service
 
 We can provide the microphones, including delivery / Freight, Installation including integration into your sound / PA system and Operation if required. We also dismantle the equipment and remove from site on completion of the event. We also provide recording and transcription services as well as Software control . {Link to Software Control for more information}
 
-**Pricing**
+## Pricing
 
 We endeavor to have the best equipment available at the best price. We make it simple by charging per microphone per day. The Central Control Unit, Cables and Power and Control Requirements accessories are all provided as part of the system. Contact us with your particular requirement for an on-the-spot price.
 
-**DCN-NG Wired Microphones**
+## DCN-NG Wired Microphones
 
 Perfect for Government and High Level Meetings requiring the best possible audio.
 
 [ ![Microphone](/wp-content/uploads/2011/09/101-300x288.jpg)](/wp-content/uploads/2011/09/101.jpg)
 
-**Wired DCN-NG Microphone.**
+## Wired DCN-NG Microphone.
 
 Single Cable carrying power and Signal not shown in Photo.
 
@@ -32,7 +32,7 @@ CD Quality Audio
 
 Immune to noise from Mobile phones and Blackberries
 
-**Central Control Unit**
+## Central Control Unit
 
 [ ![Central Control Unit](/wp-content/uploads/2011/09/110-300x155.jpg)](/wp-content/uploads/2011/09/110.jpg)
 
@@ -58,7 +58,7 @@ ON the rear of the CCU there are
 
 2x RS232 connections for PC / Software control.
 
-**Extension Power Supply**
+## Extension Power Supply
 
 [ ![Extension Power Supply](/wp-content/uploads/2011/09/12-300x168.png)](/wp-content/uploads/2011/09/12.png)
 

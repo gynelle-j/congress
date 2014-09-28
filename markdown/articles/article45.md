@@ -1,5 +1,5 @@
-[begin page]
- title: index.html-cat-4.html
+
+    index.html-cat-4.html
 ----------------------------------------------------------
 
 [ ![Simultaneous Interpretation Equipment](/wp-content/uploads/2011/09/asd-224x300.jpg)](/wp-content/uploads/2011/09/asd.jpg)
@@ -8,7 +8,7 @@ Congress is the leading and largest provider of simultaneous interpretation equi
 
 Our Simultaneous Interpretation equipment, also known sometimes as Simultaneous Translation, Translation equipment or Simtran Equipment is Bosch equipment and is the best available. Our Simultaneous Interpretation Rental equipment stock is mostly under 2 years old and our aim is to continually replace the equipment so that customers get the best Interpretation equipment available.
 
-**Booths**
+## Booths
 
 Our booths are the only ones in Australia that are truly ISO4043 compliant. Our soundproof certification testing shows that they are truly soundproof. These booths are always supplied with fans in the roof that provide the required amount of air circulation. Interpreters love our sound proof booths!
 
@@ -20,7 +20,7 @@ Our Booth external Dimensions are 1720mm (W) x 1720mm (D) x 2280mm (H)
 
 [Click here for Audipack Booth ISO norms](/wp-content/uploads/2011/11/Booth-ISO-Norms.pdf)
 
-**Integrus Digital Receivers**
+## Integrus Digital Receivers
 
 [ ![Integrus Digital Receivers](/wp-content/uploads/2011/09/11-300x219.jpg)](/wp-content/uploads/2011/09/11.jpg)
 
@@ -30,13 +30,13 @@ Our receivers are Truly Digital. This ensures that they are Interference free 
 
 We previously had Analogue technology and know its susceptible to lighting and other ambient noise sources. So we know the pitfalls and problems. If you are comparing us with a cheaper price then ask us for an analogue solution.
 
-**Our Radiators**
+## Our Radiators
 
 [ ![Radiators](/wp-content/uploads/2011/09/2-300x233.jpg)](/wp-content/uploads/2011/09/2.jpg)
 
 Our Radiators are 25Watts. This means that you get the largest coverage with the least number of radiators. We guarantee the coverage, as we carefully calculate the number of radiators required based on the number of channels and area to be covered.
 
-**Our People**
+## Our People
 
 [ ![Certificate](/wp-content/uploads/2011/09/3-210x300.jpg)](/wp-content/uploads/2011/09/3.jpg)
 
@@ -48,7 +48,7 @@ Our technicians are trained to problem solve and resolve issues, should they occ
 
 Our technicians constantly monitor the interpreter’s input and output to ensure that any issues are rectified immediately, often before delegates know that a problem exists.
 
-**Simultaneous Interpretation Equipment – A complete solution**
+## Simultaneous Interpretation Equipment – A complete solution
 
 Congress Rental makes the process of adding Simultaneous Interpretation (SI) to a conference or meeting straight forward. We are specialists in this field and can advise you on all aspects relating to Simultaneous Interpretation SI. Our liaison with your designated venue is seamless as we have previously installed in most venues. We interface with your audio visual company and we manage all areas of service – bump in, installation, operation and bump out – in consultation with you, and without the need for supervision. We also manage the freight including duties, customs, carnet’s and local delivery.
 

@@ -1,12 +1,12 @@
-[begin page]
- title: index.html-p-755.html
+
+    index.html-p-755.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Brisbane Convention Centre (BCEC)**
+## Brisbane Convention Centre (BCEC)
 
-**Features:**
+## Features:
 
 4 Automated Video Domes
 
@@ -14,11 +14,11 @@
 
 Software Control
 
-**Date:**
+## Date:
 
-**July 2009**
+## July 2009
 
-**Notes:**
+## Notes:
 
 Microphones integrated with Dome Camera system allows the dome cameras to automatically display the person speaking on the microphone.
 
@@ -26,7 +26,7 @@ Set-up on this job required the most effort, but once set, the system ran itself
 
 The video output from the domes was sent to screens in the room and was available for output to secondary viewing rooms.
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [ ![ ](wp-content/uploads/2011/09/anti-money-4domes_small.jpg)](wp-content/uploads/2011/09/anti-money-4domes_large.jpg)
 

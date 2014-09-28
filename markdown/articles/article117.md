@@ -1,22 +1,22 @@
-[begin page]
- title: index.html-p-751.html
+
+    index.html-p-751.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Sheraton Hotel - Singapore**
+## Sheraton Hotel - Singapore
 
-**Features:**
+## Features:
 
 30 Communicators
 
 250 Pre-programmed Smart Cards
 
-**Date:**
+## Date:
 
-**August 2009**
+## August 2009
 
-**Notes:**
+## Notes:
 
 Silent Auctions enable electronic bidding for items, thereby massively increasing the number of bids and therefore the income for Silent auction organisers.
 
@@ -24,7 +24,7 @@ Lots, their value and Photo are pre-programmed into the system. Smart cards are 
 
 This was the first ever use of our technology in Singapore for a Silent Auction event and it was a great success raising over SGD $35,000.
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 ![ ](wp-content/uploads/2011/09/silent-auction-communicator_s.jpg)
 

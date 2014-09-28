@@ -1,26 +1,26 @@
-[begin page]
- title: goodyear-2.html
+
+    goodyear-2.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Gold Coast**
+## Gold Coast
 
-**Features:**
+## Features:
 
 3x Tour Guide Systems
 
-**Date:**
+## Date:
 
-**Oct 08**
+## Oct 08
 
-**Notes:**
+## Notes:
 
 1st Day in the Conference
 
 2nd Day at the Holden Test Track
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 ## Sanctuary Cove
 

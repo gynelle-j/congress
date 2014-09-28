@@ -1,8 +1,8 @@
-[begin page]
- title: index.html-p-637.html
+
+    index.html-p-637.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
 **Shangri-La Singapore**    **Features:**    2 Booths
 
@@ -10,11 +10,11 @@
 
 35 NG Microphones
 
-**Date:**
+## Date:
 
 **Sept 06**    **Notes:**    High Profile Ministerial Event Software Control of Microphones Interpreters loved the quality of the booths
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [image](wp-content/uploads/2011/09/microphone_table_setting.jpg)
 

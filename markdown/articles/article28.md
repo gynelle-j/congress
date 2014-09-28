@@ -1,5 +1,5 @@
-[begin page]
- title: conference-microphones.html
+
+    conference-microphones.html
 ----------------------------------------------------------
 
 [image](picture)

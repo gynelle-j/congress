@@ -1,14 +1,14 @@
-[begin page]
- title: congress-rental-workshop.html
+
+    congress-rental-workshop.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Furama Hotel City Centre, **
+## Furama Hotel City Centre, 
 
 Singapore
 
-**Features:**
+## Features:
 
 1 Automated Video Domes
 
@@ -18,17 +18,17 @@ Software Control
 
 Voting / Audience Response Solution
 
-**Date:**
+## Date:
 
-**June 2009**
+## June 2009
 
-**Notes:**
+## Notes:
 
 This training workshop gave partners and Customers an opportunity to see the various
 
 products that Congress Rental can provide.
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [ ![ ](wp-content/uploads/2011/09/Cong-workshop-before-event_s.jpg)](wp-content/uploads/2011/09/Cong-workshop-before-event_l.jpg)
 

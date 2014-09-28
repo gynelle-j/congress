@@ -1,12 +1,12 @@
-[begin page]
- title: index.html-p-765.html
+
+    index.html-p-765.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Abu-Dhabi Convention Centre (ADNEC)**
+## Abu-Dhabi Convention Centre (ADNEC)
 
-**Features:**
+## Features:
 
 2 Booths
 
@@ -16,17 +16,17 @@
 
 3 Day's Rehearsals
 
-**Date:**
+## Date:
 
-**Feb 2009**
+## Feb 2009
 
-**Notes:**
+## Notes:
 
 The Major Challenge for this event was to provide complete Infra-red coverage for an outdoor stadium 150m long and 40m deep for a 1 hour event in the midday sun in Abu Dhabi.
 
 -Only Possible with Significant coverage that comes from the Bosch Digital Radiators.
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [ ![ ](wp-content/uploads/2011/09/IDEX-09interpreter_s.jpg)](wp-content/uploads/2011/09/IDEX-09interpreter_l.jpg)
 

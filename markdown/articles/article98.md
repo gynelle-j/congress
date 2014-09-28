@@ -1,8 +1,8 @@
-[begin page]
- title: index.html-p-701.html
+
+    index.html-p-701.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
 **Hobart – Tasmania, Australia**       **Features:**    2 Venus
 
@@ -10,7 +10,7 @@
 
 4 Booths in main Plenary
 
-**Date:**
+## Date:
 
 **June 07    **    **Notes:**    Two Venues, made this event challenging.
 
@@ -18,7 +18,7 @@ The Main Plenary was in Hobart’s Top 5* Hotel and the Retreat held at a Winery
 
 Good planning alleviated difficulties.
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 ## Plenary
 

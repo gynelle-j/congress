@@ -1,20 +1,20 @@
-[begin page]
- title: index.html-p-769.html
+
+    index.html-p-769.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Cartagena, Columbia**
+## Cartagena, Columbia
 
-**Features:**
+## Features:
 
-**Plenary**
+## Plenary
 
  - 2 Built in booths
 
  - 400 Infra red Digital Receivers
 
-**Breakouts x2**
+## Breakouts x2
 
  - 2 Portable booths provided by the Convention Centre
 
@@ -22,19 +22,19 @@
 
  - 50 Receivers
 
-**Breakouts x 6**
+## Breakouts x 6
 
  - 15 - 30 Conference Microphones in each
 
-**Date:**
+## Date:
 
-**December 2010**
+## December 2010
 
-**Notes:**
+## Notes:
 
 The most challenging aspect of this event was the Columbian Customs. Support from the office of the Columbian president eventually got the equipment out of Customs.
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [ ![ ](wp-content/uploads/2011/09/icann10_ccc_s.jpg)](wp-content/uploads/2011/09/icann10_ccc_l.jpg)
 

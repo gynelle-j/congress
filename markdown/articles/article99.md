@@ -1,10 +1,10 @@
-[begin page]
- title: index.html-p-712.html
+
+    index.html-p-712.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Sydney – Various Venues**
+## Sydney – Various Venues
 
 **Features:**    Total of 2030 Receivers and Headphones.
 
@@ -14,11 +14,11 @@
 
 Over 7 Days
 
-**Date:**
+## Date:
 
-**Sept 2007**
+## Sept 2007
 
-**Notes:**
+## Notes:
 
 Required detailed project management.
 
@@ -30,7 +30,7 @@ fixed cameras Integrated with
 
 microphone system.
 
-**Category** **Booths** **Receivers** **Microphones** **Multiple areas** **Remote Interpreting** **Dome Camera** **Days** **Location** **Date**
+## Category** **Booths** **Receivers** **Microphones** **Multiple areas** **Remote Interpreting** **Dome Camera** **Days** **Location** **Date
 
 APEC – Japanese Press Conference
 
@@ -44,9 +44,9 @@ Sydney
 
 Sep-07
 
-**APEC – Leaders Retreat 1 Opera House** **11** **30** **30** **4** **1** **Sydney** **Sep-07**
+## APEC – Leaders Retreat 1 Opera House** **11** **30** **30** **4** **1** **Sydney** **Sep-07
 
-**APEC – Leaders Retreat 2 Govt House** **11** **30** **30** **1** **1** **1** **Sydney** **Sep-07**
+## APEC – Leaders Retreat 2 Govt House** **11** **30** **30** **1** **1** **1** **Sydney** **Sep-07
 
 APEC – Business Summit Opera House
 
@@ -124,7 +124,7 @@ Sydney
 
 Sep-07
 
-**APEC – Foreign Ministers** **8** **300** **30** **1** **1** **3** **Sydney** **Sep-07**
+## APEC – Foreign Ministers** **8** **300** **30** **1** **1** **3** **Sydney** **Sep-07
 
 APEC – Press Centre
 

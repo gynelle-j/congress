@@ -1,5 +1,5 @@
-[begin page]
- title: dcn-ng-interpretation-and-microphone- system.html
+
+    dcn-ng-interpretation-and-microphone- system.html
 ----------------------------------------------------------
 
 ![368_Integrus_APH04](/wp-content/uploads/2011/09/DCN_NG_Interpretation_MS.jpg)
@@ -24,7 +24,7 @@
 
  -  Attendance registration with ID cards
 
-**The Digital Congress Network (DCN) Next Generation from Bosch is the distinctive new face of Digital congress management.**
+## The Digital Congress Network (DCN) Next Generation from Bosch is the distinctive new face of Digital congress management.
 
 [ ![man with MG Mic](/wp-content/uploads/2011/09 /man-with-MG-Mic.jpg)](/wp-content/uploads/2011/09 /man-with-MG-Mic.jpg)
 
@@ -32,25 +32,25 @@ Whatever your conference requirements, the Bosch DCN Next Generation can meet th
 
 and responded to their recommendations. The result is optimum satisfaction for everyone in the congress chain. With the Bosch DCN Next Generation, you can relax. Your meeting is in good hands.
 
-**Innovation in digital congress management**
+## Innovation in digital congress management
 
 The Bosch DCN has already earned global recognition for its versatility, and DCN Next Generation continues the tradition. It is ideal for applications ranging from discussion groups up to multi-lingual congresses with thousands. On its most straight forward level, it handles speaking and listening without an operator; at its most advanced, it becomes an integrated communication infrastructure for facilitating and managing even the most complex international conferences. With Bosch DCN Next Generation, you benefit from years of expertise in congress systems. You have the reassurance of a reliable, established partner. And you can count on a support network that spans the globe.
 
 When you think congress, think Bosch.
 
-**System design**
+## System design
 
 [ ![381_finalrender](/wp-content/uploads/2011/09 /381_finalrender-300x240.jpg)](/wp-content/uploads/2011/09/381_finalrender.jpg)
 
 The DCN Next Generation System is designed to be extraordinarily flexible. Your system can be as small or large as required, with extra units simply plugged into existing ones in a ‘loop-through’ configuration. There is also an extremely high level of compatibility with external systems.
 
-**Aesthetic design**
+## Aesthetic design
 
 [ ![NG Microphone Choices](/wp-content/uploads/2011/09/NG-Microphone-Choices- 300x215.jpg)](/wp-content/uploads/2011/09/NG- Microphone-Choices.jpg)
 
 Design plays a key role in how people interact with each other; it is important to create an environment that encourages constructive dialog. The DCN Next Generation offers a perfect mix of sophisticated looks and optimized performance. The layout of the sleek control panel has an instantly familiar feel. And the application of advanced acoustical and display technology makes it easy to hear and read exactly what’s going on. All of this puts users at ease, and in control.
 
-**Concentus Table Top Units**
+## Concentus Table Top Units
 
 [ ![LBB 4145_00_2](/wp-content/uploads/2011/09 /LBB-4145_00_2-300x200.jpg)](/wp-content/uploads/2011/09/LBB-4145_00_2.jpg)
 
@@ -76,7 +76,7 @@ DCN-DISL-L DISCUSSION UNIT BASIC WITH FIXED LONG STEM, LIGHT
 
 DCN-DISL-D DISCUSSION UNIT BASIC WITH FIXED LONG STEM, DARK
 
-**Flush-mount solutions**
+## Flush-mount solutions
 
 [ ![DCN_Next_Spine03+schaduwCC](/wp-content/uploads/2011/09/DCN_Next_Spine03+schaduwCC- 300x215.jpg)](/wp-content/uploads/2011/09/DCN_Next_Spine03+schaduwCC.jpg)
 
@@ -150,7 +150,7 @@ DCN-DISL-L DISCUSSION UNIT BASIC WITH FIXED LONG STEM, LIGHT
 
 DCN-DISL-D DISCUSSION UNIT BASIC WITH FIXED LONG STEM, DARK
 
-**DCN Discussion Microphones / Table Top Microphones**
+## DCN Discussion Microphones / Table Top Microphones
 
 [ ![DCN-DISCS-D_LF+M](/wp-content/uploads/2011/09 /DCN-DISCS-D_LF+M-300x281.jpg)](/wp-content/uploads/2011/09/DCN-DISCS-D_LF+M.jpg)
 
@@ -198,7 +198,7 @@ DCN-DISVCS-L DISCUSSION UNIT W VOTING, CHANNEL SELECTOR, LIGHT
 
 DCN-DISVCS-D DISCUSSION UNIT W VOTING, CHANNEL SELECTOR, DARK
 
-**Simultaneous Interpretation**
+## Simultaneous Interpretation
 
 [ ![Interpreter &amp; Desk copy](/wp-content/uploads/2011/09/Interpreter-Desk-copy- 300x238.jpg)](/wp-content/uploads/2011/09 /Interpreter-Desk-copy.jpg)
 
@@ -232,7 +232,7 @@ PRS-1AIP1 IP AUDIO INTERFACE
 
 PRS-4DEX4 DIGITAL AUDIO EXPANDER
 
-**Distribution of 32 channels**
+## Distribution of 32 channels
 
 [ ![Integrus Montage](/wp-content/uploads/2011/09 /Integrus-Montage-300x158.jpg)](/wp-content/uploads/2011/09/Integrus-Montage.jpg)
 
@@ -282,7 +282,7 @@ INT-FCRX FLIGHTCASE FOR 100 RECEIVERS
 
 LBB4560/50 INTEGRUS CHARGING CABINET FOR 56 RECEIVERS
 
-**Software control- for extended capability**
+## Software control- for extended capability
 
 [ ![381DCNNG_AMX](/wp-content/uploads/2011/09 /381DCNNG_AMX-300x200.jpg)](/wp-content/uploads/2011/09/381DCNNG_AMX.jpg)
 
@@ -348,9 +348,9 @@ LBB4189/00 (-E) DCN-SW MULTI PC (Standard or E-Code)
 
 LBB4190/00 (-E) DCN-SW STARTUP (Standard or E-Code)
 
-**Extended voting and registration functionality**
+## Extended voting and registration functionality
 
-**Versatile voting**
+## Versatile voting
 
 [ ![LBB4142-00 with capsCC](/wp-content/uploads/2011/09/LBB4142-00-with-capsCC- 300x109.jpg)](/wp-content/uploads/2011/09/LBB4142-00-with-capsCC.jpg)
 
@@ -358,13 +358,13 @@ The DCN Next Generation incorporates standard parliamentary-style voting facilit
 
 displayed on a video monitor or dedicated text display in the conference venue. The chairman or operator always has full control over starting, stopping and suspending voting.
 
-**Delegate registration and identification**
+## Delegate registration and identification
 
 [ ![Delegate registration and identification](/wp-content/uploads/2011/09/DSCF0074_J-300x200.jpg)](/wp-content/uploads/2011/09/DSCF0074_J.jpg)
 
 Conference participants can register their presence by inserting an ID card into a card reader that is flush-mounted, integrated into the Concentus unit, or located at the conference venue entrance. A push button on delegate units allows simple registration (without identification). It is also possible to specify that delegates may only make use of certain microphone or control functions if they possess an appropriate ID card or have entered an authorized PIN code.
 
-**Audio expansion**
+## Audio expansion
 
 Audio logging, remote interpretation, transporting or distributing audio from one room to another room is possible over relatively long distances without loss via fibre optic cabling, by using audio
 
@@ -372,7 +372,7 @@ expanders (analogue or digital) which are part of DCN Next Generation. There is 
 
 out a facility. Therefore DCN Next Generation interfaces easily with CobraNet&trade;,which is the industry’s leading technology for distributing uncompressed real-time digital audio over a Fast ethernet network.
 
-**Camera control - an extra dimension in conference systems**
+## Camera control - an extra dimension in conference systems
 
 [ ![Dome Camera Integration](/wp-content/uploads/2011/09/Dome-Camera-Integration- 300x196.jpg)](/wp-content/uploads/2011/09/Dome- Camera-Integration.jpg)
 

@@ -1,22 +1,22 @@
-[begin page]
- title: index.html-p-761.html
+
+    index.html-p-761.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Hyatt - Canberra**
+## Hyatt - Canberra
 
-**Features:**
+## Features:
 
 Wireless Conference Microphones
 
 Video Conferencing
 
-**Date:**
+## Date:
 
-**June 2009**
+## June 2009
 
-**Notes:**
+## Notes:
 
 Wireless Conference Microphones allowed each table to have a microphone
 
@@ -24,7 +24,7 @@ without waiting for a hand held to be passed.
 
 Videoconferencing using ISDN connected a remote presenter to the meeting.
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 ![ ](wp-content/uploads/2011/09/association-meeting-wireless-mics_s.jpg)
 

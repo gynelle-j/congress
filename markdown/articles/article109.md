@@ -1,14 +1,14 @@
-[begin page]
- title: index.html-p-732.html
+
+    index.html-p-732.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Shangri-La Hotel,**
+## Shangri-La Hotel,
 
 Singapore
 
-**Features:**
+## Features:
 
 1 Booth
 
@@ -16,15 +16,15 @@ Remote Interpretation
 
 2 Receivers - Custom earpieces
 
-**Date:**
+## Date:
 
-**November 2009**
+## November 2009
 
-**Notes:**
+## Notes:
 
 This was a bi-lateral meeting on the sidelines of the APEC meeting held at the Shangri-la hotel
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [ ![ ](wp-content/uploads/2011/09/US-russia09-presidents_s.jpg)](wp-content/uploads/2011/09/US-russia09-presidents_l.jpg)
 

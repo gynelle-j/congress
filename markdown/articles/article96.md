@@ -1,10 +1,10 @@
-[begin page]
- title: index.html-p-687.html
+
+    index.html-p-687.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Perth**
+## Perth
 
 **Features:**    4 Booths
 
@@ -14,15 +14,15 @@
 
 21 Microphones for Press Conference
 
-**Date:**
+## Date:
 
-**Feb 07**
+## Feb 07
 
 **Notes:    ** Location – Perth Convention &amp; Exhibition Centre. Very Large room
 
 Perfect Coverage of entire area with just 4 large radiators
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [image](wp-content/uploads/2011/09/custom_pedestals.jpg)
 

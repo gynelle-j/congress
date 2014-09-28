@@ -1,5 +1,5 @@
-[begin page]
- title: index.html-p-1796.html
+
+    index.html-p-1796.html
 ----------------------------------------------------------
 
 Audience response has never been so simple! This solution does away with expensive and cumbersome proprietary audience response hardware - utilising accessible and commonly available standard mobile phone and web technology instead.
@@ -42,7 +42,7 @@ Only display the responses you want! Text can be moderated and edited prior to d
 
 ## FAQ
 
-**How much will it cost my delegates?**
+## How much will it cost my delegates?
 
  -  Polling using your smart phone is Free of Charge.
 
@@ -50,27 +50,27 @@ Only display the responses you want! Text can be moderated and edited prior to d
 
  -  Twitter is Free of Charge
 
-**How does it work?**
+## How does it work?
 
 We provide delegates with a mobile web address, that they enter in their smart phones and the questions appear on the phones screen in-sync with appearing on screen in the room.
 
-**What is the backend programming interface?**
+## What is the backend programming interface?
 
 Our Producer manages everything through a web interface. We take out all the worry of programming.
 
-**Where is the data sitting?**
+## Where is the data sitting?
 
 Cloud Based Servers (Amazon).
 
-**Reports to be provided after the event, other than the power point results given?**
+## Reports to be provided after the event, other than the power point results given?
 
 Yes we provide reporting in Excel Files.
 
-**Possible to track who voted what? ( Eg : Clikapad - uses keypad number to track, EvApp uses email address to track)**
+## Possible to track who voted what? ( Eg : Clikapad - uses keypad number to track, EvApp uses email address to track)
 
 Yes it is possible to track responses from people using Smart Phones, by asking them to login. We recommend you ask them their name or email address and this response is added the answers in the reports
 
-**Do presenters need any special tools or training?**
+## Do presenters need any special tools or training?
 
 Our producer looks after all of the necessary tools to get your audience engaged. We can however provide you some best practice tips to ensure your event goes smoothly.
 

@@ -1,10 +1,10 @@
-[begin page]
- title: index.html-p-673.html
+
+    index.html-p-673.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Westin Hotel, Sydney**
+## Westin Hotel, Sydney
 
 **Features:**    4 Booths
 
@@ -14,11 +14,11 @@
 
 Press Conference - 21 Microphones
 
-**Date:**
+## Date:
 
 **June 07**    **Notes:**    Overnight bump-in
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [image](wp-content/uploads/2011/09/apec_health_meeting1.jpg)
 

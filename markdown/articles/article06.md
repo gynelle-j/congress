@@ -1,5 +1,5 @@
-[begin page]
- title: analogue-infra-red.html
+
+    analogue-infra-red.html
 ----------------------------------------------------------
 
 ### Receivers

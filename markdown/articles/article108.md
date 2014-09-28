@@ -1,28 +1,28 @@
-[begin page]
- title: index.html-p-730.html
+
+    index.html-p-730.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Shangri-La Hotel, Singapore**
+## Shangri-La Hotel, Singapore
 
-**Features:**
+## Features:
 
 40 Microphones
 
 1 Dome Camera (Automatic switching)
 
-**Date:**
+## Date:
 
-**November 2009**
+## November 2009
 
-**Notes:**
+## Notes:
 
 Room set in open U
 
 When the Microphone is pressed, the Auto dome immediately displays the person speaking, automatically without operator intervention
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 ![ ](wp-content/uploads/2011/09/Sing-energy-logo_s.jpg)
 

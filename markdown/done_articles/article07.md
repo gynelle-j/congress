@@ -1,6 +1,5 @@
-    applications.html
-
-### Applications
+Applications
+============
 
 We have an excellent Presentation aimed at Consultants and System integrators who need to design and install an Infra-red System.
 

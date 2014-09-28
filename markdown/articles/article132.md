@@ -1,12 +1,12 @@
-[begin page]
- title: index.html-p-781.html
+
+    index.html-p-781.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
 **Salisbury City Council,**    South Australia
 
-**Features:**
+## Features:
 
 29 Bosch NG Wireless Conference Microphones
 
@@ -22,15 +22,15 @@ Bosch Mixing Amplifier
 
 EV Speakers
 
-**Date:**
+## Date:
 
-**August 2010**
+## August 2010
 
-**Notes:**
+## Notes:
 
 Congress Rental Partnered with a local installation company to provide a complete solution for the Council
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [ ![ ](wp-content/uploads/2011/09/salisbury10_before1_s.jpg)](wp-content/uploads/2011/09/salisbury10_before1_l.jpg)
 

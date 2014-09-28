@@ -1,12 +1,12 @@
-[begin page]
- title: index.html-p-753.html
+
+    index.html-p-753.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Suntec Singapore**
+## Suntec Singapore
 
-**Features:**
+## Features:
 
 Plenary
 
@@ -32,11 +32,11 @@ Board Room
 
  - 60 Receivers
 
-**Date:**
+## Date:
 
-**August 2009**
+## August 2009
 
-**Notes:**
+## Notes:
 
 Large Scale Association event
 
@@ -46,7 +46,7 @@ Simultaneous activity
 
 European Based Client
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 ![ ](wp-content/uploads/2011/09/fdi-5booths-on-platform_s.jpg)
 

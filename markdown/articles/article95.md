@@ -1,10 +1,10 @@
-[begin page]
- title: index.html-p-680.html
+
+    index.html-p-680.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Adelaide Convention Centre**
+## Adelaide Convention Centre
 
 **Features:**    3 Booths
 
@@ -14,13 +14,13 @@
 
 Press Conference - 21 Microphones
 
-**Date:**
+## Date:
 
-**April 07**
+## April 07
 
 **Notes:**    Very Large Room, Exhibition Hall
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [image](wp-content/uploads/2011/09/apec_transport_minister1.jpg)
 

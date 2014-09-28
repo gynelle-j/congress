@@ -1,12 +1,12 @@
-[begin page]
- title: index.html-p-759.html
+
+    index.html-p-759.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Cervantes &amp; Shangri-la**
+## Cervantes &amp; Shangri-la
 
-**Features:**
+## Features:
 
 Single Language event at Offices
 
@@ -14,17 +14,17 @@ of Cervantes
 
 2 Booth event at Shangri-la for 400 people
 
-**Date:**
+## Date:
 
-**June 2009**
+## June 2009
 
-**Notes:**
+## Notes:
 
 High Profile event involving Spanish King and PM of Australia
 
 Recording of the event for the Prime Ministers Office
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [ ![ ](wp-content/uploads/2011/09/Spain-king-visit-king_s.jpg)](wp-content/uploads/2011/09/Spain-king-visit-king_l.jpg)
 

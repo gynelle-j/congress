@@ -1,5 +1,5 @@
-[begin page]
- title: ccs900.html
+
+    ccs900.html
 ----------------------------------------------------------
 
 [ ![CO_CCS900_KV_01](/wp-content/uploads/2011/09/C O_CCS900_KV_01-224x300.jpg)](/wp-content/uploads/2011/09/CO_CCS900_KV_01.jpg)
@@ -20,19 +20,19 @@ Future-proof system expandability
 
 Mobile or permanent installation
 
-**Aesthetic, compact discussion system**
+## Aesthetic, compact discussion system
 
 Known for world-class solutions for congresses and conferences, Bosch introduces the compact
 
 but advanced CCS 900 Ultro Discussion System. Designed and developed by Bosch experts in Europe, the system makes it extremely easy to manage meetings and is ideal for small- to medium-scale meeting areas, such as town halls, local business centers and courtrooms. The new design omplements any interior, from new, ultramodern buildings to traditional, centuries-old structures. It delivers Bosch's high quality with improved acoustical characteristics and excellent speech intelligibility.
 
-**Compact but complete**
+## Compact but complete
 
 This all-in-one system features the new, patent pending "Possible-To-Speak" function that gives delegates a visual indicator when the microphone is available for use. It features an MP3 recorder that records up to 64 hours worth of discussions, four easy-to-use operating modes for more focus on the conversation and digital acoustic feedback suppression to avoid howling. Intuitive controls and flexible installation make the authentic CCS 900 Ultro the best possible choice for a wide range of meeting environments.
 
 [ ![CCS_DS_FL_01](/wp-content/uploads/2011/09/CCS_ DS_FL_01-216x300.jpg)](/wp-content/uploads/2011/09/CCS_DS_FL_01.jpg)
 
-**Discussion Units**
+## Discussion Units
 
 Exclusive design and high performance. The CCS 900 Ultro Discussion Units fit in any interior and have been designed with ergonomics and high acoustical performance in mind. The units come in chairman and delegate versions, each with built-in loudspeaker and volume control, dual headphone connections and options for short or long flexible-stem microphones.
 
@@ -46,7 +46,7 @@ CCS-CMS CCS 900 CHAIRMAN UNIT SHORT MICROPHONE
 
 CCS-CML CCS 900 CHAIRMAN UNIT LONG MICROPHONE
 
-**Control Unit**
+## Control Unit
 
 [ ![CCS_CURD_FL_01](/wp-content/uploads/2011/09/CC S_CURD_FL_01-300x186.jpg)](/wp-content/uploads/2011/09/CCS_CURD_FL_01.jpg)
 
@@ -60,7 +60,7 @@ CCS-CUD CONTROL UNIT WITH DIGITAL ACOUSTIC FEEDBACK SUPPRESSOR
 
 CCS-CURD CONTROL UNIT WITH RECORDER AND DIGITAL ACOUSTIC FEEDBACK SUPPRESSOR
 
-**The ideal discussion solution…**
+## The ideal discussion solution…
 
 [ ![Com_CCS900_Fam02](/wp-content/uploads/2011/09/ Com_CCS900_Fam02-300x201.jpg)](/wp-content/uploads/2011/09/Com_CCS900_Fam02.jpg)
 
@@ -82,7 +82,7 @@ LBB3316/10 EXTENSION CABLE ASSY 10M
 
 DCN-DISCLM CABLE CLAMP (25 PCS)
 
-**…with room to grow.**
+## …with room to grow.
 
 Excellent choice for dynamic business environments. The CCS 900 Ultro Discussion System makes an
 

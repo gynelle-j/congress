@@ -1,5 +1,5 @@
-[begin page]
- title: ccs800.html
+
+    ccs800.html
 ----------------------------------------------------------
 
 [ ![prod_ccs800](/wp-content/uploads/2011/09/prod_ccs800_2.jpg)](/wp-content/uploads/2011/09/prod_ccs800_2.jpg)
@@ -18,11 +18,11 @@ It allows **EVERYBODY** to be heard above the background noise.
 
 Record Proceedings for due diligence or later transcription
 
-**Product Descriptions**
+## Product Descriptions
 
 [ ![LBB 3330/00](/wp-content/uploads/2011/09/prod_ccs800_21.jpg)](/wp-content/uploads/2011/09/prod_ccs800_21.jpg)
 
-**LBB 3330/00**
+## LBB 3330/00
 
 Delegate Conference Microphone,
 
@@ -36,7 +36,7 @@ Long Stem
 
 [ ![CCU800ChairmansUnit](/wp-content/uploads/2011/ 09/CCU800ChairmansUnit1.jpg)](/wp-content/uploads/2011/09/CCU800ChairmansUnit1.jpg)
 
-**LBB 3331/00**
+## LBB 3331/00
 
 Chairman's Conference Microphone Short Stem
 
@@ -50,7 +50,7 @@ Long Stem
 
 [ ![CCS800CCU1](/wp-content/uploads/2011/09/CCS800CCU1.jpg)](/wp-content/uploads/2011/09/CCS800CCU1.jpg)
 
-**LBB 3310/00**
+## LBB 3310/00
 
 Central Control Unit (CCU)LBB 3310/10
 
@@ -62,7 +62,7 @@ Suppression (AFS)
 
 [ ![CCS800Cable](/wp-content/uploads/2011/09 /CCS800Cable-1Small.jpg)](/wp-content/uploads/2011/09/CCS800Cable-1Small.jpg)
 
-**LBB 3316/05**
+## LBB 3316/05
 
 5 Metre extension cableLBB 3316/10
 
@@ -72,7 +72,7 @@ Suppression (AFS)
 
 [ ![CCS800DelegateCase6-1](/wp-content/uploads/201 1/09/CCS800DelegateCase6-1Small.jpg)](/wp-content/uploads/2011/09/CCS800DelegateCase6-1Small.jpg)
 
-**LBB 3312/10**
+## LBB 3312/10
 
 Suitcase
 
@@ -82,7 +82,7 @@ Suitcase
 
 [ ![CCS800DelegateCase10-1](/wp-content/uploads/20 11/09/CCS800DelegateCase10-1Small.jpg)](/wp-content/uploads/2011/09/CCS800DelegateCase10-1Small.jpg)
 
-**LBB 3312/00**
+## LBB 3312/00
 
 Suitcase
 

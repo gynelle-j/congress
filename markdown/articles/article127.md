@@ -1,16 +1,16 @@
-[begin page]
- title: index.html-p-771.html
+
+    index.html-p-771.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Ritz Carlton Hotel,**
+## Ritz Carlton Hotel,
 
 Bahrain
 
-**Features:**
+## Features:
 
-**Plenary**
+## Plenary
 
 3 Booths
 
@@ -18,13 +18,13 @@ Bahrain
 
 500 Infra Red Digital Receivers and Headphones
 
-**Al Arabiya Debate**
+## Al Arabiya Debate
 
 1 Booth
 
 150 Infra Red Digital Receivers and Headphones
 
-**Breakout Rooms x 4**
+## Breakout Rooms x 4
 
 1 Booth
 
@@ -34,11 +34,11 @@ Bahrain
 
 Automatic Vision Switching
 
-**Date:**
+## Date:
 
-**December 2010**
+## December 2010
 
-**Notes:**
+## Notes:
 
 Very High Profile Event.
 
@@ -54,7 +54,7 @@ Overnight Layout of 180 Conference Microphones with Software Control.
 
 Parallel Setup of 4 Breakout rooms.
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [ ![ ](wp-content/uploads/2011/09/manama_dialog10_vip_table_s.jpg)](wp-content/uploads/2011/09/manama_dialog10_vip_table_l.jpg)
 
@@ -68,7 +68,7 @@ Just before the Dinner, the lively al arabiya debate Panelists debated the probl
 
 The audience gaining greater insight through the use of the Simultaneous Interpretation
 
-**Full Stage Layout of the Debate Studio (Created at the Ritz)**
+## Full Stage Layout of the Debate Studio (Created at the Ritz)
 
 [ ![ ](wp-content/uploads/2011/09/manama_dialog10_panaroma1_s.jpg)](wp-content/uploads/2011/09/manama_dialog10_panaroma1_l.jpg)
 

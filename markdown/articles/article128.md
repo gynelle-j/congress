@@ -1,12 +1,12 @@
-[begin page]
- title: index.html-p-773.html
+
+    index.html-p-773.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Phnom Penn, Cambodia**
+## Phnom Penn, Cambodia
 
-**Features:**
+## Features:
 
 * 3 Rooms with Dome Camera
 
@@ -20,17 +20,17 @@ in each room.
 
 Interpretation for 500 Guests.
 
-**Date:**
+## Date:
 
-**Nov 2010**
+## Nov 2010
 
-**Notes:**
+## Notes:
 
 There were a variety of meetings between the Cambodian, Laos, Vietnam, Myanmar and Thai Prime Ministers over a 3 day period.
 
 This was a particularly high profile event, held at the recently completed &ldquo;Peace Palace&rdquo; in Phnom Penn.
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [ ![ ](wp-content/uploads/2011/09/clmv10_room_s.jpg)](wp-content/uploads/2011/09/clmv10_room_l.jpg)
 

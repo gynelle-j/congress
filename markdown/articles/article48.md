@@ -1,8 +1,8 @@
-[begin page]
- title: index.html-p-1428.html
+
+    index.html-p-1428.html
 ----------------------------------------------------------
 
-**Small Meetings**
+## Small Meetings
 
 [ChongQing Business Forum](../?p=803)
 
@@ -16,7 +16,7 @@
 
 [Spanish King visit to Australia](../?p=759)
 
-**Large Meetings With Microphones**
+## Large Meetings With Microphones
 
 [CCFICS 17 – CODEX](../?p=724)
 
@@ -44,7 +44,7 @@
 
 [Manama Dialogue Dec 2009](../?p=728)
 
-**Large Meetings, Just Interpretation Equipment**
+## Large Meetings, Just Interpretation Equipment
 
 [IDEX 2009](../?p=765)
 
@@ -56,7 +56,7 @@
 
 [Macdonalds](../?p=610)
 
-**Ministerial Meetings**
+## Ministerial Meetings
 
 [APEC Leaders Meetings](../?p=712)
 

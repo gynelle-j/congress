@@ -1,26 +1,26 @@
-[begin page]
- title: index.html-p-777.html
+
+    index.html-p-777.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Marina Bay Sands,**
+## Marina Bay Sands,
 
 Singapore
 
-**Features:**
+## Features:
 
 300 Voting Keypads
 
-**Date:**
+## Date:
 
-**October 2010**
+## October 2010
 
-**Notes:**
+## Notes:
 
 Budget Voting / Audience Response Solution.
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [ ![ ](wp-content/uploads/2011/09/marine10_s.jpg)](wp-content/uploads/2011/09/marine10_l.jpg)
 

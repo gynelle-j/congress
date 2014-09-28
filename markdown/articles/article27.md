@@ -1,14 +1,14 @@
-[begin page]
- title: conference-microphone-reference-gallery.html
+
+    conference-microphone-reference-gallery.html
 ----------------------------------------------------------
 
-**Wireless Microphone Rental**
+## Wireless Microphone Rental
 
 [Merchant Bank Event](../?p=799)
 
 [demo](/2011/11/singapore-retailers-association/)
 
-**Large Scale Microphone Rental**
+## Large Scale Microphone Rental
 
 [IISS Bahrain Global Forum](../?p=793)
 
@@ -20,7 +20,7 @@
 
 [CCFICS 17 - CODEX](../?p=724)
 
-**Dome Camera System in Operation**
+## Dome Camera System in Operation
 
 [Congress Rental Workshop2010](../?p=791)
 
@@ -54,7 +54,7 @@
 
 [APEC 2007 - Finance Ministers Meeting](../?p=661)
 
-**Microphone Rental**
+## Microphone Rental
 
 [ICANN - Cartagena](../?p=769)
 
@@ -68,7 +68,7 @@
 
 [G7 Finance Ministers Meeting](../?p=626)
 
-**Installations**
+## Installations
 
 [Torres Straits Island Council](../?p=801)
 

@@ -1,10 +1,10 @@
-[begin page]
- title: index.html-p-610.html
+
+    index.html-p-610.html
 ----------------------------------------------------------
 
-**Location:**
+## Location:
 
-**Sydney Convention and Exhibition Centre**
+## Sydney Convention and Exhibition Centre
 
 **Features:**    7 Booths in Plenary
 
@@ -14,15 +14,15 @@
 
 3 days
 
-**Date:**
+## Date:
 
-**November 2004**
+## November 2004
 
 **Notes:**    Very Large Corporate Event
 
 Spread over 5 areas in the Convention Centre.
 
-**Photo Gallery (click on picture to enlarge)**
+## Photo Gallery (click on picture to enlarge)
 
 [image](wp-content/uploads/2011/09/3_person_booth.jpg)
 

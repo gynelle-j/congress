@@ -1,14 +1,14 @@
-[begin page]
- title: index.html-p-1449.html
+
+    index.html-p-1449.html
 ----------------------------------------------------------
 
-**THE CLIENT**
+## THE CLIENT
 
 The Pistorio Foundation is a non-profit organization based in Geneva, Switzerland, founded by Pasquale Pistorio in April 2005. It works to provide assistance to under privileged children in the field of health, nutrition, and education, by sponsoring children’s education and health and by building and improving school infrastructures. The Pistorio Foundation also supports programs for village community development.
 
 The Pistorio Foundation has projects in five countries: Burkina Faso, Tibet (China), Thailand, Cambodia and Morocco.
 
-**THE CHALLENGE**
+## THE CHALLENGE
 
 ![Pistorio Foundation](/wp-content/uploads/2011/09/case_Pistorio_1.jpg)
 
@@ -18,7 +18,7 @@ The Pistorio Foundation has projects in five countries: Burkina Faso, Tibet (Chi
 
 The Pistorio Foundation Singapore Chapter held its third annual Gala Dinner on November 30th, 2010, at the Shangri-La Hotel Tower Ballroom. The &ldquo;Dolce Vita&rdquo; themed event was realised in partnership with the Italian Trade Commission and supported by the Italian Cultural Institute. The Organising Committee wanted to leverage the Silent Auction technology to reach their goals of raising funds at this event to support 360 under-privileged hill-tribe children in Chiang Rai, Thailand during the silent auction segment of their fund raising event.
 
-**ACTIONS**
+## ACTIONS
 
 Pistorio Foundation expected about 200 guests for this event and engaged Congress Rental to provide them with the solution for the Silent Auction and Pledging segment.
 
@@ -28,7 +28,7 @@ As the Organising Committee had not seen pledging done previously, they were not
 
 The Pistorio Foundation decided to utilize the Pledge feature to get their guests to contribute to 3 main projects, namely a long-term scholarship, a library and a computer room for a primary school in Huay Kuk, Chiang Rai.
 
-**RESULTS**
+## RESULTS
 
 ![Pistorio Foundation](/wp-content/uploads/2011/09/case_Pistorio_4.jpg)
 
@@ -40,7 +40,7 @@ The result from the pledge was heartening as 2 of the projects exceeded the targ
 
 The check-out was well managed as the summary reports were provided to the volunteers tending to the different payment modes upon closure of the auction. At the same time the guests were making the payment, invoices were provided to them, saving both time and efforts in verification of details and mailing.
 
-**VIEWS FROM OUR CLIENT**
+## VIEWS FROM OUR CLIENT
 
 	> Congress Rental was attentive to our guests’ needs and was able to provide our VIPs with their individualized smart cards at short notice when they requested to join in the excitement during the bidding.&rdquo;
 

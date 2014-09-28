@@ -1,5 +1,5 @@
-[begin page]
- title: index.html-p-338.html
+
+    index.html-p-338.html
 ----------------------------------------------------------
 
 [ ![Translation Equipment](/wp-content/uploads/2011/09/81-300x225.jpg)](/wp-content/uploads/2011/09/81.jpg)

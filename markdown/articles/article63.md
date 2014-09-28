@@ -1,5 +1,5 @@
-[begin page]
- title: index.html-p-24.html
+
+    index.html-p-24.html
 ----------------------------------------------------------
 
 The America’s Region

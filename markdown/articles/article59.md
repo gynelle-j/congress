@@ -1,5 +1,5 @@
-[begin page]
- title: index.html-p-21.html
+
+    index.html-p-21.html
 ----------------------------------------------------------
 
 &gt; "As you know, an immense amount of planning and coordination goes into the lead up to the program, and your flexibility and responsiveness was greatly appreciated during the lead up. I am particularly grateful for your last minute rescue on the New Zealand leg.

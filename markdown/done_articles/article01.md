@@ -18,16 +18,16 @@
  - Culminating in World Congress with 1400 Delegates.
 
 
-Category | Booths | Receivers | Microphones | Days | Location | Date |
----------|--------|-----------|-------------|------|----------|------|
-| FIFA Event 1 Opera House | 7 | 1400 | | 1 | Sydney | 25&ndash;30 May08 |
-| FIFA Event 2 Horden Pavilion | 7 | 1400 | 20 | 1 | Sydney | 25&ndash;30 May08 |
-| FIFA Event 3 Sofitel Wentworth | 4 | 200 | | 1 | Sydney | 25&ndash;30 May08 |
-| FIFA Event 4 Four Seasons | 3 | 200 | | 1 | Sydney | 25&ndash;30 May08 |
-| FIFA Event 5 Shangri-la | 2 | 170 | | 1 | Sydney | 25&ndash;30 May08 |
-| FIFA Event 6 Shangri-la | 5 | 200 | | 1 | Sydney | 25&ndash;30 May08 |
-| FIFA Event 7 Governor Macquarie Tower | 5 | 56 | 50 | 1 | Sydney | 25&ndash;30 May08 |
-| FIFA Event 7 Grand Hyatt | 3 | 40 | 40 | 1 | Sydney | 25&ndash;30 May0 |
+| Category                              | Booths | Receivers | Microphones | Days | Location | Date              |
+|---------------------------------------|--------|-----------|-------------|------|----------|-------------------|
+| FIFA Event 1 Opera House              | 7      | 1400      |             | 1    | Sydney   | 25&ndash;30 May08 |
+| FIFA Event 2 Horden Pavilion          | 7      | 1400      | 20          | 1    | Sydney   | 25&ndash;30 May08 |
+| FIFA Event 3 Sofitel Wentworth        | 4      | 200       |             | 1    | Sydney   | 25&ndash;30 May08 |
+| FIFA Event 4 Four Seasons             | 3      | 200       |             | 1    | Sydney   | 25&ndash;30 May08 |
+| FIFA Event 5 Shangri-la               | 2      | 170       |             | 1    | Sydney   | 25&ndash;30 May08 |
+| FIFA Event 6 Shangri-la               | 5      | 200       |             | 1    | Sydney   | 25&ndash;30 May08 |
+| FIFA Event 7 Governor Macquarie Tower | 5      | 56        | 50          | 1    | Sydney   | 25&ndash;30 May08 |
+| FIFA Event 7 Grand Hyatt              | 3      | 40        | 40          | 1    | Sydney   | 25&ndash;30 May08 |
 
 Photo Gallery (click on picture to enlarge)
 

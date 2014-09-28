@@ -1,5 +1,5 @@
-[begin page]
- title: index.html.html
+
+    index.html.html
 ----------------------------------------------------------
 
 Melbourne 0418 399 979 Sydney (HQ) 02 9808 6466 Queensland 0407 256 641
@@ -100,7 +100,7 @@ The dome automatically zooms to the person speaking. Ideal for use where a video
 
 [A meeting, event or exhibition without PA. Participants have a headset and choose the audio channel they prefer. Utilises ](http://congressrental.com.au /simultaneous-interpretation-equipment)
 
-**Silent PA / Silent Meeting. **
+## Silent PA / Silent Meeting. 
 
 A meeting, event or exhibition without PA. Participants have a headset and choose the audio channel they prefer. Utilises the multi-channel capabilities of the Bosch Digital Infra-red system.
 

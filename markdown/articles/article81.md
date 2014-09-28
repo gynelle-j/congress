@@ -1,5 +1,5 @@
-[begin page]
- title: index.html-p-432.html
+
+    index.html-p-432.html
 ----------------------------------------------------------
 
 Congress Rental’s Speciality in Simultaneous Interpretation and Conference Microphones means that we have a wealth of knowledge on current and previous generations of products from Bosch / Philips range of Congress and Conference products.
